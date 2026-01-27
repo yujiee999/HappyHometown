@@ -41,6 +41,17 @@
 			"width":1574,
 			"height":910,
 			"color":"5"
+		},
+		{
+			"id":"c8a80e6d126f6abc",
+			"type":"text",
+			"text":"紧急骨髓形成，分化受阻导致具有免疫抑制和肿瘤促进特性的骨髓细胞积累，这些细胞称为MDSCs。",
+			"styleAttributes":{},
+			"x":-720,
+			"y":-930,
+			"width":260,
+			"height":140,
+			"color":"3"
 		}
 	],
 	"edges":[
