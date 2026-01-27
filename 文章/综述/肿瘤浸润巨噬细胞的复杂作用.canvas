@@ -154,12 +154,12 @@
 		{
 			"id":"36b4e60cd1894624",
 			"type":"text",
-			"text":"==**CCL2/CXCL10是谁分泌的呢?\n",
+			"text":"==**CCL2/CXCL10是谁分泌的呢?**==\n- **肿瘤细胞**：发出“初级信号”（CCL2），吸引第一批单核细胞。\n    \n- **TREM1+ KC (主角)**：通过分泌 IL-6/TNF，把肝脏微环境搅乱，并**命令**周围的细胞开始干活。\n    \n- **肝星状细胞 & 内皮细胞 (协从)**：受 KC 的指令，分泌大量的 **CCL2 和 CXCL12**，造成 M-MDSC 的大规模涌入。",
 			"styleAttributes":{"shape":"document"},
 			"x":-620,
-			"y":-1200,
+			"y":-1244,
 			"width":620,
-			"height":320,
+			"height":448,
 			"color":"6"
 		}
 	],
@@ -265,6 +265,15 @@
 			"fromSide":"left",
 			"toNode":"62fc668aa0e7347b",
 			"toSide":"right"
+		},
+		{
+			"id":"6cfa273d02d9906c",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"beb8618dd12388ba",
+			"fromSide":"right",
+			"toNode":"36b4e60cd1894624",
+			"toSide":"left"
 		}
 	],
 	"metadata":{
