@@ -130,6 +130,16 @@
 			"width":200,
 			"height":60,
 			"color":"2"
+		},
+		{
+			"id":"bf1bd4410baea476",
+			"type":"text",
+			"text":"C5a受体信号通路激活TRM",
+			"styleAttributes":{},
+			"x":-1520,
+			"y":-1380,
+			"width":200,
+			"height":80
 		}
 	],
 	"edges":[
