@@ -59,8 +59,8 @@
 			"type":"text",
 			"text":"病原体相关分子模式\n损伤相关分子模式",
 			"styleAttributes":{},
-			"x":-2180,
-			"y":-1620,
+			"x":-2080,
+			"y":-1870,
 			"width":200,
 			"height":60,
 			"color":"3"
