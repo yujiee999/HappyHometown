@@ -143,11 +143,11 @@
 		{
 			"id":"148127be4bf51174",
 			"type":"text",
-			"text":"### 图 a：原发肿瘤中的“紧急造血”与双重起源 \na 展示了原发灶（Primary cancer）中髓系细胞的来源分布。\n- **双重起源说 (Ontogeny):**  \n-     胚胎起源 (Embryo): 组织驻留巨噬细胞（TRMs）在胚胎发育期就驻留在组织中（如肺中的肺泡巨噬细胞），肿瘤发生后它们被激活并扩增。\n- 骨髓起源 (Bone marrow): 这是最主要的来源。肿瘤分泌的 DAMPs、细胞因子和趋化因子远距离作用于骨髓，诱发**“紧急骨髓造血”（Emergency myelopoiesis）。\n- \n- **造血谱系流向: ** 造血干细胞（HSC） $\\rightarrow$ 共同髓系祖细胞（CMP） $\\rightarrow$ 分化为两条路：1.  MDP $\\rightarrow$ M-MDSC (单核类 MDSC): 最终进入肿瘤成为 TAM。2.  GMP $\\rightarrow$ PMN-MDSC (多形核类 MDSC): 即具有抑制功能的粒细胞。招募信号: 肿瘤通过 CCL2, CCL5, CXCL12, VEGF, CSF1 等“集结号”分子，将这些骨髓细胞吸引到 TME 中。",
+			"text":"### 图 a：原发肿瘤中的“紧急造血”与双重起源 \n\na 展示了原发灶（Primary cancer）中髓系细胞的来源分布。\n- **双重起源说 (Ontogeny):**  \n        - 胚胎起源 (Embryo): 组织驻留巨噬细胞（TRMs）在胚胎发育期就驻留在组织中（如肺中的肺泡巨噬细胞），肿瘤发生后它们被激活并扩增。\n        - 骨髓起源 (Bone marrow): 这是最主要的来源。肿瘤分泌的 DAMPs、细胞因子和趋化因子远距离作用于骨髓，诱发**“紧急骨髓造血”（Emergency myelopoiesis）。\n\n- **造血谱系流向: ** 造血干细胞（HSC） $\\rightarrow$ 共同髓系祖细胞（CMP） $\\rightarrow$ 分化为两条路：1.  MDP $\\rightarrow$ M-MDSC (单核类 MDSC): 最终进入肿瘤成为 TAM。2.  GMP $\\rightarrow$ PMN-MDSC (多形核类 MDSC): 即具有抑制功能的粒细胞。招募信号: 肿瘤通过 CCL2, CCL5, CXCL12, VEGF, CSF1 等“集结号”分子，将这些骨髓细胞吸引到 TME 中。",
 			"styleAttributes":{},
 			"x":-2010,
 			"y":-2500,
-			"width":980,
+			"width":970,
 			"height":480,
 			"color":"3"
 		},
