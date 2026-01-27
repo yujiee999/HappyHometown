@@ -36,28 +36,6 @@
 			"height":220,
 			"color":"3"
 		},
-		{
-			"id":"aaa9cc183afe212f",
-			"type":"text",
-			"text":"**骨髓来源单核细胞**在转移部位的招募和保留主要由 ==CCR2-CCL2== 调控。\n**巡逻性单核细胞**在转移部位积累，协调 ==IL-15== 介导的NK细胞招募和激活，从而抑制癌症的侵袭和生长。\n**组织驻留巨噬细胞**在癌症生长中的作用似乎具有**器官特异性**。",
-			"styleAttributes":{},
-			"x":-620,
-			"y":-1660,
-			"width":320,
-			"height":380,
-			"color":"3"
-		},
-		{
-			"id":"09ba3511d884a470",
-			"type":"text",
-			"text":"病原体相关分子模式\n损伤相关分子模式",
-			"styleAttributes":{},
-			"x":-2080,
-			"y":-1980,
-			"width":270,
-			"height":100,
-			"color":"3"
-		},
 		{"id":"64be4d06e572c677","type":"file","file":"文章/综述/assets/肿瘤浸润巨噬细胞的复杂作用/file-20260127213250459.png","x":-2620,"y":-1280,"width":763,"height":220},
 		{"id":"5c16154f0db6f3b3","type":"file","file":"文章/综述/assets/肿瘤浸润巨噬细胞的复杂作用/file-20260127165109208.png","x":-1880,"y":-380,"width":677,"height":340},
 		{
@@ -161,6 +139,28 @@
 			"y":960,
 			"width":2340,
 			"height":1180
+		},
+		{
+			"id":"148127be4bf51174",
+			"type":"text",
+			"text":"### 图 a：原发肿瘤中的“紧急造血”与双重起源 \na 展示了原发灶（Primary cancer）中髓系细胞的来源分布。\n- **双重起源说 (Ontogeny):**  \n-     胚胎起源 (Embryo): 组织驻留巨噬细胞（TRMs）在胚胎发育期就驻留在组织中（如肺中的肺泡巨噬细胞），肿瘤发生后它们被激活并扩增。\n- 骨髓起源 (Bone marrow): 这是最主要的来源。肿瘤分泌的 DAMPs、细胞因子和趋化因子远距离作用于骨髓，诱发**“紧急骨髓造血”（Emergency myelopoiesis）。\n- \n- **造血谱系流向: ** 造血干细胞（HSC） $\\rightarrow$ 共同髓系祖细胞（CMP） $\\rightarrow$ 分化为两条路：1.  MDP $\\rightarrow$ M-MDSC (单核类 MDSC): 最终进入肿瘤成为 TAM。2.  GMP $\\rightarrow$ PMN-MDSC (多形核类 MDSC): 即具有抑制功能的粒细胞。招募信号: 肿瘤通过 CCL2, CCL5, CXCL12, VEGF, CSF1 等“集结号”分子，将这些骨髓细胞吸引到 TME 中。",
+			"styleAttributes":{},
+			"x":-2010,
+			"y":-2500,
+			"width":980,
+			"height":480,
+			"color":"3"
+		},
+		{
+			"id":"aaa9cc183afe212f",
+			"type":"text",
+			"text":"### 图 b：远处转移灶（以肺为例）的免疫景观\n\n图 b 揭示了当癌症发生转移时，微环境如何被重塑。\n\n- **招募竞争:** 转移灶（Cancer metastasis）同样会招募骨髓来源的 M-MDSC 和经典单核细胞（Classical monocytes）。\n    \n- **巡逻单核细胞 (Patrolling monocytes):** 请注意图中右侧的蓝色细胞。这是一种抗肿瘤的单核细胞，它们在血管内“巡逻”，防止肿瘤定植。\n    \n- **NK 细胞的协同:** IL-15 能够促进 NK 细胞和巡逻单核细胞的抗肿瘤活性，从而抑制转移。\n    \n- **促瘤方的反击:** 转移灶分泌趋化因子（CCL2/5, VEGF 等）招募 M-MDSC，这些细胞会抑制 NK 细胞的功能，并通过 **C5a 受体**等信号通路激活组织内的 TRM，为肿瘤细胞的“种子”准备“土壤”。",
+			"styleAttributes":{},
+			"x":-600,
+			"y":-2240,
+			"width":1160,
+			"height":380,
+			"color":"3"
 		}
 	],
 	"edges":[
@@ -274,6 +274,15 @@
 			"fromSide":"right",
 			"toNode":"36b4e60cd1894624",
 			"toSide":"left"
+		},
+		{
+			"id":"1f9ddb7aaf8eae9d",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"beb8618dd12388ba",
+			"fromSide":"top",
+			"toNode":"148127be4bf51174",
+			"toSide":"bottom"
 		}
 	],
 	"metadata":{
