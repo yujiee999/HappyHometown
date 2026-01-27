@@ -64,6 +64,19 @@
 			"width":200,
 			"height":60,
 			"color":"3"
+		},
+		{"id":"731e662fc9d2a3bc","type":"file","file":"文章/综述/assets/肿瘤浸润巨噬细胞的复杂作用/file-20260127205744137.png","x":-1245,"y":880,"width":1805,"height":1520},
+		{"id":"adfd676c435246e1","type":"file","file":"文章/综述/assets/肿瘤浸润巨噬细胞的复杂作用/file-20260127205744171.png","x":-300,"y":-792,"width":1763,"height":1272},
+		{
+			"id":"351f7afcf7fdbd92",
+			"type":"text",
+			"text":"骨髓来源单核细胞转化为TAMs",
+			"styleAttributes":{"shape":"pill","textAlign":"center"},
+			"x":-860,
+			"y":-156,
+			"width":320,
+			"height":76,
+			"color":"5"
 		}
 	],
 	"edges":[
@@ -94,6 +107,24 @@
 			"fromNode":"beb8618dd12388ba",
 			"fromSide":"right",
 			"toNode":"aaa9cc183afe212f",
+			"toSide":"left"
+		},
+		{
+			"id":"ba9276ee11c83916",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"63cbada7a9c925c2",
+			"fromSide":"right",
+			"toNode":"351f7afcf7fdbd92",
+			"toSide":"left"
+		},
+		{
+			"id":"9ac9ca3555782c46",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"351f7afcf7fdbd92",
+			"fromSide":"right",
+			"toNode":"adfd676c435246e1",
 			"toSide":"left"
 		}
 	],
