@@ -140,6 +140,16 @@
 			"y":-1380,
 			"width":200,
 			"height":80
+		},
+		{
+			"id":"248b819ab30620cb",
+			"type":"text",
+			"text":"KC表达TREM1分泌促炎因子",
+			"styleAttributes":{},
+			"x":-1740,
+			"y":-1020,
+			"width":340,
+			"height":60
 		}
 	],
 	"edges":[
