@@ -4,10 +4,24 @@
 		{"id":"6910f17864ff7fce","type":"text","text":"\n| **期刊/年份**    | _Nature Immunology_ / 2022年                                                                                                                                    |\n| ------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------- |\n| **通讯作者**     | Vassiliki A. Boussiotis (Harvard Medical School / BIDMC)                                                                                                       |\n| **实验室/研究方向** | Boussiotis实验室    <br>- Beth Israel Deaconess Medical Center, Division of Hematology-Oncology       <br>- 长期致力于T细胞共刺激/共抑制通路（尤其是PD-1）、骨髓类细胞免疫调节及肿瘤免疫微环境（TME）的研究。 |\n| **代表性高分文章**： | - _Nature_ (2017) - PD-1 expression by TAMs inhibits phagocytosis.<br>- _Science Immunology_ (2020) - Targeted deletion of PD-1 in myeloid cells.              |\n| **PMID**     | [35879446](https://pubmed.ncbi.nlm.nih.gov/35879446/ \"null\")                                                                                                   |\n\n","x":-1880,"y":-20,"width":677,"height":300},
 		{"id":"5c16154f0db6f3b3","type":"file","file":"文章/综述/assets/肿瘤浸润巨噬细胞的复杂作用/file-20260127165109208.png","x":-1880,"y":-380,"width":677,"height":340},
 		{"id":"a08495dd1053cb16","type":"text","text":"长期以来，巨噬细胞被认为是一种进化上古老的细胞类型，参与**组织稳态和免疫防御**，如今它们正被重新发现为多种疾病的**调控子**，包括癌症。\n- 肿瘤相关巨噬细胞是肿瘤微环境中最丰富的先天免疫群体。\n- 巨噬细胞是造血系统的专业吞噬细胞，专门检测、吞噬和消灭病菌及其他有害微生物、凋亡细胞和代谢副产物。\n- 与这些健康的巨噬细胞功能相反，TAMs支持癌症生长和转移，并对TME的适应性免疫细胞产生免疫抑制作用。\n- 癌症是巨噬细胞生理中最强烈的伤害之一，会引发与疾病进展密切相关的变化。\n在本综述中，我们概述了TAMs的特征，并讨论促成其病理生理适应的新机制，以及为癌症治疗开发提供有吸引力的靶点的脆弱性。","x":-2880,"y":-410,"width":740,"height":360,"color":"6"},
-		{"id":"eb9e75760c37752f","type":"text","text":"- 本综述的核心逻辑在于打破了传统的“M1/M2”简单二分法。\n- 作者系统论证了 TAMs 如何从进化上保守的“组织保护者”转变为“肿瘤共犯”。\n- 其核心矛盾在于：**肿瘤劫持了本用于抗感染和组织修复的[促炎抑炎通路](文章/常识/促炎抑炎通路.md)**],通过[代谢重塑与空间定位](文章/常识/代谢重塑与空间定位.md)，诱导 TAMs 形成复杂的功能多样性，最终导致免疫逃逸。**","x":-2880,"y":25,"width":740,"height":195,"color":"3"}
+		{"id":"eb9e75760c37752f","type":"text","text":"- 本综述的核心逻辑在于打破了传统的“M1/M2”简单二分法。\n- 作者系统论证了 TAMs 如何从进化上保守的“组织保护者”转变为“肿瘤共犯”。\n- 其核心矛盾在于：**肿瘤劫持了本用于抗感染和组织修复的[促炎抑炎通路](文章/常识/促炎抑炎通路.md)**],通过[代谢重塑与空间定位](文章/常识/代谢重塑与空间定位.md)，诱导 TAMs 形成复杂的功能多样性，最终导致免疫逃逸。**","x":-2880,"y":25,"width":740,"height":195,"color":"3"},
+		{
+			"id":"e8edd2106ca6da29",
+			"type":"text",
+			"text":"",
+			"styleAttributes":{},
+			"x":-2160,
+			"y":-80,
+			"width":260,
+			"height":60
+		}
 	],
 	"edges":[
 		{"id":"6658f4110b3da981","fromNode":"5c16154f0db6f3b3","fromSide":"left","toNode":"a08495dd1053cb16","toSide":"right","label":"摘要中文"},
 		{"id":"8c5ddbe14d20ac5b","fromNode":"5c16154f0db6f3b3","fromSide":"left","toNode":"eb9e75760c37752f","toSide":"right","label":"核心研究逻辑"}
-	]
+	],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{}
+	}
 }
