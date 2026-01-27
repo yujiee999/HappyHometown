@@ -13,13 +13,13 @@ tags: [excalidraw]
 造血干细胞（HSC）、骨髓（Bone Marrow）与肝脏（Liver）的关系 ^6W01w0dI
 
 ## Embedded Files
-73339f495cceb173ee68e7215282776cbcffeee5: [[assets/Drawing 2026-01-27 22.58.11.excalidraw/Pasted Image 20260127230522_181.png]]
+73339f495cceb173ee68e7215282776cbcffeee5: [[assets/Liver-HSC-BoneMarrow/file-20260127232556292.png]]
 
-e72b736e03da4aa42ae6a68a6ba81953cacd2970: [[assets/Drawing 2026-01-27 22.58.11.excalidraw/Pasted Image 20260127231700_846.png]]
+e72b736e03da4aa42ae6a68a6ba81953cacd2970: [[assets/Liver-HSC-BoneMarrow/file-20260127232556290.png]]
 
-0ea3860156de47d813672916699da6b6aa832225: [[assets/Drawing 2026-01-27 22.58.11.excalidraw/Pasted Image 20260127231741_125.png]]
+0ea3860156de47d813672916699da6b6aa832225: [[assets/Liver-HSC-BoneMarrow/file-20260127232556285.png]]
 
-7bc6a365417e0e75aa874072da5f7b3fd2543d05: [[assets/Drawing 2026-01-27 22.58.11.excalidraw/Pasted Image 20260127231806_081.png]]
+7bc6a365417e0e75aa874072da5f7b3fd2543d05: [[assets/Liver-HSC-BoneMarrow/file-20260127232556284.png]]
 
 %%
 ## Drawing
