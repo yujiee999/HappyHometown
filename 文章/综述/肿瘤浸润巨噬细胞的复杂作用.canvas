@@ -9,14 +9,11 @@
 			"id":"84b7d5bdf93796bf",
 			"type":"text",
 			"text":" 经典单核和巡逻单核细胞，组织驻留巨噬细胞",
-			"styleAttributes":{
-				"shape":"pill",
-				"textAlign":null
-			},
+			"styleAttributes":{"shape":"pill","textAlign":"center"},
 			"x":-1680,
 			"y":-720,
-			"width":260,
-			"height":80,
+			"width":400,
+			"height":60,
 			"color":"4"
 		},
 		{
