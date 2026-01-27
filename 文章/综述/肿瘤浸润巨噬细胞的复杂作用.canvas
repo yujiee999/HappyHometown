@@ -1,4 +1,6 @@
 {
-	"nodes":[],
+	"nodes":[
+		{"id":"5c16154f0db6f3b3","type":"file","file":"文章/综述/assets/肿瘤浸润巨噬细胞的复杂作用/file-20260127165109208.png","x":-1200,"y":-160,"width":677,"height":340}
+	],
 	"edges":[]
 }
