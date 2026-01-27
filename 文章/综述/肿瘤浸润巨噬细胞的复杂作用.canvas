@@ -117,7 +117,8 @@
 			"width":1040,
 			"height":410,
 			"color":"3"
-		}
+		},
+		{"id":"64be4d06e572c677","type":"file","file":"文章/综述/assets/肿瘤浸润巨噬细胞的复杂作用/file-20260127213250459.png","x":-2620,"y":-1280,"width":763,"height":220}
 	],
 	"edges":[
 		{"id":"6658f4110b3da981","fromNode":"5c16154f0db6f3b3","fromSide":"left","toNode":"a08495dd1053cb16","toSide":"right","label":"摘要中文"},
