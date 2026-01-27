@@ -2,17 +2,6 @@
 	"nodes":[
 		{"id":"63cbada7a9c925c2","type":"group","x":-1900,"y":-400,"width":740,"height":700,"color":"1","label":"基础信息"},
 		{
-			"id":"84b7d5bdf93796bf",
-			"type":"text",
-			"text":"2. 经典单核和巡逻单核细胞，组织驻留巨噬细胞",
-			"styleAttributes":{"shape":"pill","textAlign":"center"},
-			"x":-1680,
-			"y":-760,
-			"width":400,
-			"height":120,
-			"color":"4"
-		},
-		{
 			"id":"beb8618dd12388ba",
 			"type":"file",
 			"file":"文章/综述/assets/肿瘤浸润巨噬细胞的复杂作用/file-20260127203211979.png",
@@ -37,6 +26,53 @@
 			"color":"3"
 		},
 		{"id":"64be4d06e572c677","type":"file","file":"文章/综述/assets/肿瘤浸润巨噬细胞的复杂作用/file-20260127213250459.png","x":-2620,"y":-1280,"width":763,"height":220},
+		{"id":"731e662fc9d2a3bc","type":"file","file":"文章/综述/assets/肿瘤浸润巨噬细胞的复杂作用/file-20260127205744137.png","x":-3346,"y":750,"width":1805,"height":1520},
+		{
+			"id":"fd8d5054c3ee9eaf",
+			"type":"text",
+			"text":"驱动突变/癌基因 → (M-CSF/GM-CSF, IL-6/IL-1/IL-8, CCL2/CCL5/CXCL12)\n    \n- DAMPs → PRRs → 炎症级联\n    \n- 外泌体 DNA/RNA → STING/AIM2/TLR3 (+ NLRP3) → 单核招募\n    \n- BM 应急髓系生成 → PMN-MDSC / M-MDSC → 入肿瘤 → TAM\n    \n- 促炎通路（Type I IFN 等）招 CD8，但被劫持 → 免抑并存\n    \n- TAM 吞噬肿瘤 → AIM2 切 cGAS → PD-L1/IDO ↑\n    \n- TAM TLR/吞噬 → Tim3/Tim4/PD-1/PD-L1 ↑ + SIRPα–CD47 → 吞噬/炎症小体/效应因子 ↓\n    \n- PD-1/PD-L1 阻断 → TAM 功能恢复（但亚群/条件待定义）",
+			"styleAttributes":{},
+			"x":-4560,
+			"y":1800,
+			"width":1040,
+			"height":410,
+			"color":"3"
+		},
+		{"id":"a08495dd1053cb16","type":"text","text":"1.长期以来，巨噬细胞被认为是一种进化上古老的细胞类型，参与**组织稳态和免疫防御**，如今它们正被重新发现为多种疾病的**调控子**，包括癌症。\n- 肿瘤相关巨噬细胞是肿瘤微环境中最丰富的先天免疫群体。\n- 巨噬细胞是造血系统的专业吞噬细胞，专门检测、吞噬和消灭病菌及其他有害微生物、凋亡细胞和代谢副产物。\n- 与这些健康的巨噬细胞功能相反，TAMs支持癌症生长和转移，并对TME的适应性免疫细胞产生免疫抑制作用。\n- 癌症是巨噬细胞生理中最强烈的伤害之一，会引发与疾病进展密切相关的变化。\n在本综述中，我们概述了TAMs的特征，并讨论促成其病理生理适应的新机制，以及为癌症治疗开发提供有吸引力的靶点的脆弱性。","x":-3480,"y":-1060,"width":740,"height":490,"color":"6"},
+		{"id":"eb9e75760c37752f","type":"text","text":"- 本综述的核心逻辑在于打破了传统的“M1/M2”简单二分法。\n- 作者系统论证了 TAMs 如何从进化上保守的“组织保护者”转变为“肿瘤共犯”。\n- 其核心矛盾在于：**肿瘤劫持了本用于抗感染和组织修复的[促炎抑炎通路](文章/常识/促炎抑炎通路.md)**],通过[代谢重塑与空间定位](文章/常识/代谢重塑与空间定位.md)，诱导 TAMs 形成复杂的功能多样性，最终导致免疫逃逸。**","x":-3480,"y":-507,"width":740,"height":275,"color":"3"},
+		{"id":"62fc668aa0e7347b","type":"file","file":"文章/综述/assets/肿瘤浸润巨噬细胞的复杂作用/file-20260127213924264.png","x":-4296,"y":-180,"width":1676,"height":930},
+		{
+			"id":"248b819ab30620cb",
+			"type":"text",
+			"text":"KC表达TREM1分泌促炎因子",
+			"styleAttributes":{},
+			"x":-1740,
+			"y":-1020,
+			"width":340,
+			"height":60
+		},
+		{
+			"id":"148127be4bf51174",
+			"type":"text",
+			"text":"### 图 a：原发肿瘤中的“紧急造血”与双重起源 \n\na 展示了原发灶（Primary cancer）中髓系细胞的来源分布。\n- **双重起源说 (Ontogeny):**  \n        - 胚胎起源 (Embryo): 组织驻留巨噬细胞（TRMs）在胚胎发育期就驻留在组织中（如肺中的肺泡巨噬细胞），肿瘤发生后它们被激活并扩增。\n        - 骨髓起源 (Bone marrow): 这是最主要的来源。肿瘤分泌的 DAMPs、细胞因子和趋化因子远距离作用于骨髓，诱发**“紧急骨髓造血”（Emergency myelopoiesis）。\n\n- **造血谱系流向: ** 造血干细胞（HSC） $\\rightarrow$ 共同髓系祖细胞（CMP） $\\rightarrow$ 分化为两条路：1.  MDP $\\rightarrow$ M-MDSC (单核类 MDSC): 最终进入肿瘤成为 TAM。2.  GMP $\\rightarrow$ PMN-MDSC (多形核类 MDSC): 即具有抑制功能的粒细胞。招募信号: 肿瘤通过 CCL2, CCL5, CXCL12, VEGF, CSF1 等“集结号”分子，将这些骨髓细胞吸引到 TME 中。",
+			"styleAttributes":{},
+			"x":-2010,
+			"y":-2500,
+			"width":970,
+			"height":480,
+			"color":"3"
+		},
+		{
+			"id":"84b7d5bdf93796bf",
+			"type":"text",
+			"text":"2. 经典单核和巡逻单核细胞，组织驻留巨噬细胞",
+			"styleAttributes":{"shape":"pill","textAlign":"center"},
+			"x":-1680,
+			"y":-760,
+			"width":400,
+			"height":120,
+			"color":"4"
+		},
 		{"id":"5c16154f0db6f3b3","type":"file","file":"文章/综述/assets/肿瘤浸润巨噬细胞的复杂作用/file-20260127165109208.png","x":-1880,"y":-380,"width":677,"height":340},
 		{
 			"id":"351f7afcf7fdbd92",
@@ -61,22 +97,7 @@
 			"height":1400,
 			"color":"3"
 		},
-		{"id":"731e662fc9d2a3bc","type":"file","file":"文章/综述/assets/肿瘤浸润巨噬细胞的复杂作用/file-20260127205744137.png","x":-3346,"y":750,"width":1805,"height":1520},
 		{"id":"adfd676c435246e1","type":"file","file":"文章/综述/assets/肿瘤浸润巨噬细胞的复杂作用/file-20260127205744171.png","x":-300,"y":-792,"width":1740,"height":1255},
-		{
-			"id":"fd8d5054c3ee9eaf",
-			"type":"text",
-			"text":"驱动突变/癌基因 → (M-CSF/GM-CSF, IL-6/IL-1/IL-8, CCL2/CCL5/CXCL12)\n    \n- DAMPs → PRRs → 炎症级联\n    \n- 外泌体 DNA/RNA → STING/AIM2/TLR3 (+ NLRP3) → 单核招募\n    \n- BM 应急髓系生成 → PMN-MDSC / M-MDSC → 入肿瘤 → TAM\n    \n- 促炎通路（Type I IFN 等）招 CD8，但被劫持 → 免抑并存\n    \n- TAM 吞噬肿瘤 → AIM2 切 cGAS → PD-L1/IDO ↑\n    \n- TAM TLR/吞噬 → Tim3/Tim4/PD-1/PD-L1 ↑ + SIRPα–CD47 → 吞噬/炎症小体/效应因子 ↓\n    \n- PD-1/PD-L1 阻断 → TAM 功能恢复（但亚群/条件待定义）",
-			"styleAttributes":{},
-			"x":-4560,
-			"y":1800,
-			"width":1040,
-			"height":410,
-			"color":"3"
-		},
-		{"id":"a08495dd1053cb16","type":"text","text":"1.长期以来，巨噬细胞被认为是一种进化上古老的细胞类型，参与**组织稳态和免疫防御**，如今它们正被重新发现为多种疾病的**调控子**，包括癌症。\n- 肿瘤相关巨噬细胞是肿瘤微环境中最丰富的先天免疫群体。\n- 巨噬细胞是造血系统的专业吞噬细胞，专门检测、吞噬和消灭病菌及其他有害微生物、凋亡细胞和代谢副产物。\n- 与这些健康的巨噬细胞功能相反，TAMs支持癌症生长和转移，并对TME的适应性免疫细胞产生免疫抑制作用。\n- 癌症是巨噬细胞生理中最强烈的伤害之一，会引发与疾病进展密切相关的变化。\n在本综述中，我们概述了TAMs的特征，并讨论促成其病理生理适应的新机制，以及为癌症治疗开发提供有吸引力的靶点的脆弱性。","x":-3480,"y":-1060,"width":740,"height":490,"color":"6"},
-		{"id":"eb9e75760c37752f","type":"text","text":"- 本综述的核心逻辑在于打破了传统的“M1/M2”简单二分法。\n- 作者系统论证了 TAMs 如何从进化上保守的“组织保护者”转变为“肿瘤共犯”。\n- 其核心矛盾在于：**肿瘤劫持了本用于抗感染和组织修复的[促炎抑炎通路](文章/常识/促炎抑炎通路.md)**],通过[代谢重塑与空间定位](文章/常识/代谢重塑与空间定位.md)，诱导 TAMs 形成复杂的功能多样性，最终导致免疫逃逸。**","x":-3480,"y":-507,"width":740,"height":275,"color":"3"},
-		{"id":"62fc668aa0e7347b","type":"file","file":"文章/综述/assets/肿瘤浸润巨噬细胞的复杂作用/file-20260127213924264.png","x":-4296,"y":-180,"width":1676,"height":930},
 		{
 			"id":"c1240e9178742792",
 			"type":"text",
@@ -87,37 +108,6 @@
 			"width":200,
 			"height":60,
 			"color":"2"
-		},
-		{
-			"id":"bf1bd4410baea476",
-			"type":"text",
-			"text":"C5a受体信号通路激活TRM",
-			"styleAttributes":{},
-			"x":-1520,
-			"y":-1380,
-			"width":200,
-			"height":80
-		},
-		{
-			"id":"248b819ab30620cb",
-			"type":"text",
-			"text":"KC表达TREM1分泌促炎因子",
-			"styleAttributes":{},
-			"x":-1740,
-			"y":-1020,
-			"width":340,
-			"height":60
-		},
-		{
-			"id":"36b4e60cd1894624",
-			"type":"text",
-			"text":"==**CCL2/CXCL10是谁分泌的呢?**==\n- **肿瘤细胞**：发出“初级信号”（CCL2），吸引第一批单核细胞。\n    \n- **TREM1+ KC (主角)**：通过分泌 IL-6/TNF，把肝脏微环境搅乱，并**命令**周围的细胞开始干活。\n    \n- **肝星状细胞 & 内皮细胞 (协从)**：受 KC 的指令，分泌大量的 **CCL2 和 CXCL12**，造成 M-MDSC 的大规模涌入。",
-			"styleAttributes":{"shape":"document"},
-			"x":-620,
-			"y":-1244,
-			"width":620,
-			"height":448,
-			"color":"6"
 		},
 		{
 			"id":"96ff581dd109fe8f",
@@ -141,15 +131,25 @@
 			"height":1180
 		},
 		{
-			"id":"148127be4bf51174",
+			"id":"bf1bd4410baea476",
 			"type":"text",
-			"text":"### 图 a：原发肿瘤中的“紧急造血”与双重起源 \n\na 展示了原发灶（Primary cancer）中髓系细胞的来源分布。\n- **双重起源说 (Ontogeny):**  \n        - 胚胎起源 (Embryo): 组织驻留巨噬细胞（TRMs）在胚胎发育期就驻留在组织中（如肺中的肺泡巨噬细胞），肿瘤发生后它们被激活并扩增。\n        - 骨髓起源 (Bone marrow): 这是最主要的来源。肿瘤分泌的 DAMPs、细胞因子和趋化因子远距离作用于骨髓，诱发**“紧急骨髓造血”（Emergency myelopoiesis）。\n\n- **造血谱系流向: ** 造血干细胞（HSC） $\\rightarrow$ 共同髓系祖细胞（CMP） $\\rightarrow$ 分化为两条路：1.  MDP $\\rightarrow$ M-MDSC (单核类 MDSC): 最终进入肿瘤成为 TAM。2.  GMP $\\rightarrow$ PMN-MDSC (多形核类 MDSC): 即具有抑制功能的粒细胞。招募信号: 肿瘤通过 CCL2, CCL5, CXCL12, VEGF, CSF1 等“集结号”分子，将这些骨髓细胞吸引到 TME 中。",
+			"text":"C5a受体信号通路激活TRM",
 			"styleAttributes":{},
-			"x":-2010,
-			"y":-2500,
-			"width":970,
-			"height":480,
-			"color":"3"
+			"x":-1520,
+			"y":-1380,
+			"width":200,
+			"height":80
+		},
+		{
+			"id":"36b4e60cd1894624",
+			"type":"text",
+			"text":"==**CCL2/CXCL10是谁分泌的呢?**==\n- **肿瘤细胞**：发出“初级信号”（CCL2），吸引第一批单核细胞。\n    \n- **TREM1+ KC (主角)**：通过分泌 IL-6/TNF，把肝脏微环境搅乱，并**命令**周围的细胞开始干活。\n    \n- **肝星状细胞 & 内皮细胞 (协从)**：受 KC 的指令，分泌大量的 **CCL2 和 CXCL12**，造成 M-MDSC 的大规模涌入。",
+			"styleAttributes":{"shape":"document"},
+			"x":-620,
+			"y":-1244,
+			"width":620,
+			"height":448,
+			"color":"6"
 		},
 		{
 			"id":"aaa9cc183afe212f",
