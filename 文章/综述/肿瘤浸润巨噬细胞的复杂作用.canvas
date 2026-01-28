@@ -6,17 +6,6 @@
 		{"id":"316cf4c0a686cc4f","type":"group","x":-5580,"y":720,"width":3585,"height":970,"color":"4","label":"4.从时间维度展示了肿瘤是如何通过操纵巨噬细胞，从被免疫系统“追杀”演变为彻底“逃逸”的"},
 		{"id":"3be8168aef6b5b05","type":"group","x":-3500,"y":-900,"width":780,"height":905,"color":"4","label":"0.文章摘要"},
 		{"id":"63cbada7a9c925c2","type":"group","x":-1900,"y":-400,"width":740,"height":900,"color":"1","label":"基础信息"},
-		{
-			"id":"148127be4bf51174",
-			"type":"text",
-			"text":"### 图 a：原发肿瘤中的“紧急造血”与双重起源 \n\na 展示了原发灶（Primary cancer）中髓系细胞的来源分布。\n- **双重起源说 (Ontogeny):**  \n        - 胚胎起源 (Embryo): 组织驻留巨噬细胞（TRMs）在胚胎发育期就驻留在组织中（如肺中的肺泡巨噬细胞），肿瘤发生后它们被激活并扩增。\n        - 骨髓起源 (Bone marrow): 这是最主要的来源。肿瘤分泌的 DAMPs、细胞因子和趋化因子远距离作用于骨髓，诱发**“紧急骨髓造血”（Emergency myelopoiesis）。\n\n- **造血谱系流向: **[造血干细胞（HSC）](Excalidraw/Liver-HSC-BoneMarrow.md) $\\rightarrow$ 共同髓系祖细胞（CMP） $\\rightarrow$ 分化为两条路：1.  MDP $\\rightarrow$ M-MDSC (单核类 MDSC): 最终进入肿瘤成为 TAM。2.  GMP $\\rightarrow$ PMN-MDSC (多形核类 MDSC): 即具有抑制功能的粒细胞。招募信号: 肿瘤通过 CCL2, CCL5, CXCL12, VEGF, CSF1 等“集结号”分子，将这些骨髓细胞吸引到 TME 中。",
-			"styleAttributes":{},
-			"x":-2340,
-			"y":-3180,
-			"width":970,
-			"height":480,
-			"color":"3"
-		},
 		{"id":"62fc668aa0e7347b","type":"file","file":"文章/综述/assets/肿瘤浸润巨噬细胞的复杂作用/file-20260127213924264.png","x":-3691,"y":740,"width":1676,"height":930},
 		{
 			"id":"38f4e4c0a4184210",
@@ -28,6 +17,19 @@
 			"width":1640,
 			"height":930,
 			"color":"2"
+		},
+		{"id":"eb9e75760c37752f","type":"text","text":"- 本综述的核心逻辑在于打破了传统的“M1/M2”简单二分法。\n- 作者系统论证了 TAMs 如何从进化上保守的“组织保护者”转变为“肿瘤共犯”。\n- 其核心矛盾在于：**肿瘤劫持了本用于抗感染和组织修复的[促炎抑炎通路](文章/常识/促炎抑炎通路.md)**],通过[代谢重塑与空间定位](文章/常识/代谢重塑与空间定位.md)，诱导 TAMs 形成复杂的功能多样性，最终导致免疫逃逸。**","x":-3480,"y":-295,"width":740,"height":275,"color":"3"},
+		{"id":"a08495dd1053cb16","type":"text","text":"1.长期以来，巨噬细胞被认为是一种进化上古老的细胞类型，参与**组织稳态和免疫防御**，如今它们正被重新发现为多种疾病的**调控子**，包括癌症。\n- 肿瘤相关巨噬细胞是肿瘤微环境中最丰富的先天免疫群体。\n- 巨噬细胞是造血系统的专业吞噬细胞，专门检测、吞噬和消灭病菌及其他有害微生物、凋亡细胞和代谢副产物。\n- 与这些健康的巨噬细胞功能相反，TAMs支持癌症生长和转移，并对TME的适应性免疫细胞产生免疫抑制作用。\n- 癌症是巨噬细胞生理中最强烈的伤害之一，会引发与疾病进展密切相关的变化。\n在本综述中，我们概述了TAMs的特征，并讨论促成其病理生理适应的新机制，以及为癌症治疗开发提供有吸引力的靶点的脆弱性。","x":-3480,"y":-885,"width":740,"height":490,"color":"6"},
+		{
+			"id":"148127be4bf51174",
+			"type":"text",
+			"text":"### 图 a：原发肿瘤中的“紧急造血”与双重起源 \n\na 展示了原发灶（Primary cancer）中髓系细胞的来源分布。\n- **双重起源说 (Ontogeny):**  \n        - 胚胎起源 (Embryo): 组织驻留巨噬细胞（TRMs）在胚胎发育期就驻留在组织中（如肺中的肺泡巨噬细胞），肿瘤发生后它们被激活并扩增。\n        - 骨髓起源 (Bone marrow): 这是最主要的来源。肿瘤分泌的 DAMPs、细胞因子和趋化因子远距离作用于骨髓，诱发**“紧急骨髓造血”（Emergency myelopoiesis）。\n\n- **造血谱系流向: **[造血干细胞（HSC）](Excalidraw/Liver-HSC-BoneMarrow.md) $\\rightarrow$ 共同髓系祖细胞（CMP） $\\rightarrow$ 分化为两条路：1.  MDP $\\rightarrow$ M-MDSC (单核类 MDSC): 最终进入肿瘤成为 TAM。2.  GMP $\\rightarrow$ PMN-MDSC (多形核类 MDSC): 即具有抑制功能的粒细胞。招募信号: 肿瘤通过 CCL2, CCL5, CXCL12, VEGF, CSF1 等“集结号”分子，将这些骨髓细胞吸引到 TME 中。",
+			"styleAttributes":{},
+			"x":-2340,
+			"y":-3180,
+			"width":970,
+			"height":480,
+			"color":"3"
 		},
 		{
 			"id":"beb8618dd12388ba",
@@ -43,6 +45,49 @@
 			"color":"5"
 		},
 		{
+			"id":"aaa9cc183afe212f",
+			"type":"text",
+			"text":"### 图 b：远处转移灶（以肺为例）的免疫景观\n\n图 b 揭示了当癌症发生转移时，微环境如何被重塑。\n\n- **招募竞争:** 转移灶（Cancer metastasis）同样会招募骨髓来源的 M-MDSC 和经典单核细胞（Classical monocytes）。\n    \n- **巡逻单核细胞 (Patrolling monocytes):** 请注意图中右侧的蓝色细胞。这是一种抗肿瘤的单核细胞，它们在血管内“巡逻”，防止肿瘤定植。\n    \n- **NK 细胞的协同:** IL-15 能够促进 NK 细胞和巡逻单核细胞的抗肿瘤活性，从而抑制转移。\n    \n- **促瘤方的反击:** 转移灶分泌趋化因子（CCL2/5, VEGF 等）招募 M-MDSC，这些细胞会抑制 NK 细胞的功能，并通过 **C5a 受体**等信号通路激活组织内的 TRM，为肿瘤细胞的“种子”准备“土壤”。",
+			"styleAttributes":{},
+			"x":-941,
+			"y":-2920,
+			"width":1160,
+			"height":380,
+			"color":"3"
+		},
+		{
+			"id":"ff3ccc6fd44f9776",
+			"type":"text",
+			"text":"4.原发性和转移性癌症中的BM来源巨噬细胞和Trm\n\nTRMs（组织驻留巨噬细胞）因胚胎期定植且自我更新，往往在转移发生前就已存在于靶器官并能塑造“前转移生态位”；而转移灶更常由骨髓来源的单核/巨噬细胞（BM-derived macrophages/TAMs）主导，二者在原发与转移中的作用分工不同，并且肿瘤类型会对它们施加不同的基因调控模式。\n\n在==乳腺癌转移小鼠模型==里，肺的 TRMs（**alveolar macrophages，肺泡巨噬细胞**）在转移前就能“预热”生态位：\n\n- **通过补体 C5a 受体介导增殖** → 肺泡巨噬细胞在“前转移肺”累积\n    \n- 造成一串免疫抑制链条：\n    \n    - **肺 DC 数量和成熟下降**\n        \n    - **TH1 反应被抑制**\n        \n    - → **肺转移负荷上升**\n\n三个**==肺癌模型==**的结论:\n\n- **BM-derived macrophages**：更偏向促进**转移扩散**\n    \n- **TRMs**：更偏向支持**原发灶肿瘤细胞增殖**\n\n==肝==的 TRMs 是 **Kupffer cells (KCs)**，这段强调“复杂性”：\n\n- **TREM-1 激活 KC** → 分泌 IL-6、IL-1β、TNF、CCL2、CXCL10 等 → 炎症性肝损伤 → 促进肝癌发生（carcinogenesis）\n    \n- HCC 里 **CCL2 高表达**；阻断 **CCL2–CCR2** 能减少 TAM 累积并抑制肿瘤增长（提示 KC/CCL2 轴在塑造免疫 TME 中很关键）\n    \n- 但 KC 也可能有**抗转移**作用：KC 缺失小鼠里 CRC 肝转移更多\n\n总结：\n- 肺：**TRM（肺泡巨噬细胞）可在转移前通过 C5aR 增殖、抑制 DC 成熟与 TH1 反应来建立前转移生态位。**\n    \n- 分工：**BM-derived macrophages 更促进转移扩散，而 TRMs 更支持原发肿瘤细胞增殖（模型依赖）。**\n    \n- 肝：**Kupffer cells 通过 TREM-1→炎症因子促进致癌，但也可能作为门卫限制 CRC 肝转移，体现 TRMs 的情境依赖性。**\n    \n- 脑：**GBM（原发）由 microglia/TRMs 与 BM-derived TAMs 混合构成且转录印记独特；脑转移瘤则主要由 BM-derived TAMs 主导。**",
+			"styleAttributes":{},
+			"x":-941,
+			"y":740,
+			"width":760,
+			"height":1400,
+			"color":"3"
+		},
+		{
+			"id":"2ae5d86bec9dde77",
+			"type":"text",
+			"text":"**5.癌症中的巨噬细胞多样性**\nTAM 在同一肿瘤内、不同肿瘤间都高度异质；传统 M1/M2 二分法已不够，但仍常被用作经验标记。更准确的理解是：TME 的营养/代谢物/氧梯度塑造 TAM 的免疫代谢状态（尤其脂质、ER stress、谷氨酰胺、乳酸等），进而决定其免抑或抗肿瘤功能；单细胞与空间技术正在把这种异质性系统化。\n\n过去把 TAM 简化成“偏 M2、远离 M1”的极简框架。\n**M1（经典促炎/杀肿瘤）常用标记：CD80、CD86、MHCII、iNOS、CD68；与吞噬肿瘤细胞、招募 T 细胞相关。**\n**M2（抗炎/免疫静息）常用标记：CD206、CD204、VEGF、CD163、Arg-1；与免抑和促肿瘤相关。**\n老框架曾强调代谢对应：M1 靠糖酵解，M2 靠脂肪酸氧化（FAO）。\n现在认为这个框架不够准确，但由于临床预后关联、历史经验丰富，很多研究仍会用这些 markers 当“操作性描述”。\n\n**A) 脂质组成 → ER stress → TAM 促肿瘤极化**\n肿瘤产生的 β-glucosylceramide 改变 ER 膜脂质组成 → 触发 IRE1 依赖的 ER stress。\nER stress 中 IRE1–XBP1 与 IRE1–STAT3 两条轴共同被激活 → 推动 TAM 促肿瘤极化 + 生存优势。\n干预这些轴（或维持 ER 膜脂质组成）→ 削弱 TAM 促肿瘤能力，抑制肿瘤进展。\n👉 关键点：脂质对 TAM 的影响不一定通过“供能”，而是通过“膜组成/应激信号/转录网络”。\n\n**B) 谷氨酰胺代谢：决定免抑 vs APC 功能**\n阻断谷氨酰胺代谢的小分子抑制剂，在乳腺癌小鼠模型中可通过：\n增强巨噬细胞活化\n抑制 MDSC 生成\n→ 降低肿瘤生长与转移。\n抑制 **谷氨酰胺合成酶（glutamine synthetase）甚至能把 TAM 转成效应型 APC**，产生更强抗肿瘤作用。\n多组学转录-代谢 profiling 指出：免抑 M2-like 状态依赖谷氨酰胺分解（catabolism），缺谷氨酰胺会让它“站不住”。\n机制层面：谷氨酰胺分解产生 αKG（α-ketoglutarate）对 M2-like activation 很重要；并且 αKG/琥珀酸（succinate）比值高更偏 M2，低更偏 M1。\n👉 关键点：TAM 的“免抑倾向”可以被代谢节点（谷氨酰胺–αKG–表观遗传）塑形。\n\n**C) 乳酸与 MHCII^lo / MHCII^hi TAM：代谢→功能→预后**\n不同 MHCII 水平的 TAM（MHCII^lo vs MHCII^hi）对应不同代谢特征与功能。\nMHCII^lo TAM 能利用 TME 中丰富的乳酸：\n支持氧化代谢\n增强精氨酸代谢\n增强对 T 细胞的抑制能力\n👉 关键点：同样是 TAM，亚群之间可能是“不同燃料 + 不同免疫功能”的组合。",
+			"styleAttributes":{},
+			"x":0,
+			"y":740,
+			"width":2340,
+			"height":1180
+		},
+		{
+			"id":"351f7afcf7fdbd92",
+			"type":"text",
+			"text":"3.骨髓来源单核细胞转化为TAMs",
+			"styleAttributes":{"shape":"pill","textAlign":"center"},
+			"x":660,
+			"y":-216,
+			"width":320,
+			"height":196,
+			"color":"5"
+		},
+		{
 			"id":"c1240e9178742792",
 			"type":"text",
 			"text":"共同髓系祖细胞",
@@ -53,6 +98,7 @@
 			"height":60,
 			"color":"2"
 		},
+		{"id":"6910f17864ff7fce","type":"text","text":"\n| **期刊/年份**    | _Nature Immunology_ / 2022年                                                                                                                                    |\n| ------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------- |\n| **通讯作者**     | Vassiliki A. Boussiotis (Harvard Medical School / BIDMC)                                                                                                       |\n| **实验室/研究方向** | Boussiotis实验室    <br>- Beth Israel Deaconess Medical Center, Division of Hematology-Oncology       <br>- 长期致力于T细胞共刺激/共抑制通路（尤其是PD-1）、骨髓类细胞免疫调节及肿瘤免疫微环境（TME）的研究。 |\n| **代表性高分文章**： | - _Nature_ (2017) - PD-1 expression by TAMs inhibits phagocytosis.<br>- _Science Immunology_ (2020) - Targeted deletion of PD-1 in myeloid cells.              |\n| **PMID**     | [35879449](https://pubmed.ncbi.nlm.nih.gov/35879449/ \"null\")                                                                                                   |\n\n","x":-1880,"y":-20,"width":677,"height":480},
 		{
 			"id":"f590fa5bab399a2c",
 			"type":"text",
@@ -75,37 +121,49 @@
 			"height":80
 		},
 		{
-			"id":"ff3ccc6fd44f9776",
+			"id":"84b7d5bdf93796bf",
 			"type":"text",
-			"text":"4.原发性和转移性癌症中的BM来源巨噬细胞和Trm\n\nTRMs（组织驻留巨噬细胞）因胚胎期定植且自我更新，往往在转移发生前就已存在于靶器官并能塑造“前转移生态位”；而转移灶更常由骨髓来源的单核/巨噬细胞（BM-derived macrophages/TAMs）主导，二者在原发与转移中的作用分工不同，并且肿瘤类型会对它们施加不同的基因调控模式。\n\n在==乳腺癌转移小鼠模型==里，肺的 TRMs（**alveolar macrophages，肺泡巨噬细胞**）在转移前就能“预热”生态位：\n\n- **通过补体 C5a 受体介导增殖** → 肺泡巨噬细胞在“前转移肺”累积\n    \n- 造成一串免疫抑制链条：\n    \n    - **肺 DC 数量和成熟下降**\n        \n    - **TH1 反应被抑制**\n        \n    - → **肺转移负荷上升**\n\n三个**==肺癌模型==**的结论:\n\n- **BM-derived macrophages**：更偏向促进**转移扩散**\n    \n- **TRMs**：更偏向支持**原发灶肿瘤细胞增殖**\n\n==肝==的 TRMs 是 **Kupffer cells (KCs)**，这段强调“复杂性”：\n\n- **TREM-1 激活 KC** → 分泌 IL-6、IL-1β、TNF、CCL2、CXCL10 等 → 炎症性肝损伤 → 促进肝癌发生（carcinogenesis）\n    \n- HCC 里 **CCL2 高表达**；阻断 **CCL2–CCR2** 能减少 TAM 累积并抑制肿瘤增长（提示 KC/CCL2 轴在塑造免疫 TME 中很关键）\n    \n- 但 KC 也可能有**抗转移**作用：KC 缺失小鼠里 CRC 肝转移更多\n\n总结：\n- 肺：**TRM（肺泡巨噬细胞）可在转移前通过 C5aR 增殖、抑制 DC 成熟与 TH1 反应来建立前转移生态位。**\n    \n- 分工：**BM-derived macrophages 更促进转移扩散，而 TRMs 更支持原发肿瘤细胞增殖（模型依赖）。**\n    \n- 肝：**Kupffer cells 通过 TREM-1→炎症因子促进致癌，但也可能作为门卫限制 CRC 肝转移，体现 TRMs 的情境依赖性。**\n    \n- 脑：**GBM（原发）由 microglia/TRMs 与 BM-derived TAMs 混合构成且转录印记独特；脑转移瘤则主要由 BM-derived TAMs 主导。**",
+			"text":"2. 经典单核和巡逻单核细胞，组织驻留巨噬细胞",
+			"styleAttributes":{"shape":"pill","textAlign":"center"},
+			"x":-1740,
+			"y":-1005,
+			"width":400,
+			"height":120,
+			"color":"4"
+		},
+		{"id":"5c16154f0db6f3b3","type":"file","file":"文章/综述/assets/肿瘤浸润巨噬细胞的复杂作用/file-20260127165109208.png","x":-1880,"y":-380,"width":677,"height":340},
+		{
+			"id":"248b819ab30620cb",
+			"type":"text",
+			"text":"KC表达TREM1分泌促炎因子",
 			"styleAttributes":{},
-			"x":-941,
-			"y":740,
-			"width":760,
-			"height":1400,
+			"x":-2080,
+			"y":-1700,
+			"width":340,
+			"height":60
+		},
+		{
+			"id":"c8a80e6d126f6abc",
+			"type":"text",
+			"text":"紧急骨髓形成，分化受阻导致具有免疫抑制和肿瘤促进特性的骨髓细胞积累，这些细胞称为MDSCs。分为单核类和多行核类。",
+			"styleAttributes":{},
+			"x":-2150,
+			"y":-1960,
+			"width":270,
+			"height":220,
 			"color":"3"
 		},
-		{"id":"eb9e75760c37752f","type":"text","text":"- 本综述的核心逻辑在于打破了传统的“M1/M2”简单二分法。\n- 作者系统论证了 TAMs 如何从进化上保守的“组织保护者”转变为“肿瘤共犯”。\n- 其核心矛盾在于：**肿瘤劫持了本用于抗感染和组织修复的[促炎抑炎通路](文章/常识/促炎抑炎通路.md)**],通过[代谢重塑与空间定位](文章/常识/代谢重塑与空间定位.md)，诱导 TAMs 形成复杂的功能多样性，最终导致免疫逃逸。**","x":-3480,"y":-295,"width":740,"height":275,"color":"3"},
+		{"id":"64be4d06e572c677","type":"file","file":"文章/综述/assets/肿瘤浸润巨噬细胞的复杂作用/file-20260127213250459.png","x":-2960,"y":-1960,"width":763,"height":220},
 		{
-			"id":"2ae5d86bec9dde77",
+			"id":"36b4e60cd1894624",
 			"type":"text",
-			"text":"**5.癌症中的巨噬细胞多样性**\nTAM 在同一肿瘤内、不同肿瘤间都高度异质；传统 M1/M2 二分法已不够，但仍常被用作经验标记。更准确的理解是：TME 的营养/代谢物/氧梯度塑造 TAM 的免疫代谢状态（尤其脂质、ER stress、谷氨酰胺、乳酸等），进而决定其免抑或抗肿瘤功能；单细胞与空间技术正在把这种异质性系统化。\n\n过去把 TAM 简化成“偏 M2、远离 M1”的极简框架。\n**M1（经典促炎/杀肿瘤）常用标记：CD80、CD86、MHCII、iNOS、CD68；与吞噬肿瘤细胞、招募 T 细胞相关。**\n**M2（抗炎/免疫静息）常用标记：CD206、CD204、VEGF、CD163、Arg-1；与免抑和促肿瘤相关。**\n老框架曾强调代谢对应：M1 靠糖酵解，M2 靠脂肪酸氧化（FAO）。\n现在认为这个框架不够准确，但由于临床预后关联、历史经验丰富，很多研究仍会用这些 markers 当“操作性描述”。\n\n**A) 脂质组成 → ER stress → TAM 促肿瘤极化**\n肿瘤产生的 β-glucosylceramide 改变 ER 膜脂质组成 → 触发 IRE1 依赖的 ER stress。\nER stress 中 IRE1–XBP1 与 IRE1–STAT3 两条轴共同被激活 → 推动 TAM 促肿瘤极化 + 生存优势。\n干预这些轴（或维持 ER 膜脂质组成）→ 削弱 TAM 促肿瘤能力，抑制肿瘤进展。\n👉 关键点：脂质对 TAM 的影响不一定通过“供能”，而是通过“膜组成/应激信号/转录网络”。\n\n**B) 谷氨酰胺代谢：决定免抑 vs APC 功能**\n阻断谷氨酰胺代谢的小分子抑制剂，在乳腺癌小鼠模型中可通过：\n增强巨噬细胞活化\n抑制 MDSC 生成\n→ 降低肿瘤生长与转移。\n抑制 **谷氨酰胺合成酶（glutamine synthetase）甚至能把 TAM 转成效应型 APC**，产生更强抗肿瘤作用。\n多组学转录-代谢 profiling 指出：免抑 M2-like 状态依赖谷氨酰胺分解（catabolism），缺谷氨酰胺会让它“站不住”。\n机制层面：谷氨酰胺分解产生 αKG（α-ketoglutarate）对 M2-like activation 很重要；并且 αKG/琥珀酸（succinate）比值高更偏 M2，低更偏 M1。\n👉 关键点：TAM 的“免抑倾向”可以被代谢节点（谷氨酰胺–αKG–表观遗传）塑形。\n\n**C) 乳酸与 MHCII^lo / MHCII^hi TAM：代谢→功能→预后**\n不同 MHCII 水平的 TAM（MHCII^lo vs MHCII^hi）对应不同代谢特征与功能。\nMHCII^lo TAM 能利用 TME 中丰富的乳酸：\n支持氧化代谢\n增强精氨酸代谢\n增强对 T 细胞的抑制能力\n👉 关键点：同样是 TAM，亚群之间可能是“不同燃料 + 不同免疫功能”的组合。",
-			"styleAttributes":{},
-			"x":0,
-			"y":740,
-			"width":2340,
-			"height":1180
-		},
-		{
-			"id":"351f7afcf7fdbd92",
-			"type":"text",
-			"text":"3.骨髓来源单核细胞转化为TAMs",
-			"styleAttributes":{"shape":"pill","textAlign":"center"},
-			"x":660,
-			"y":-216,
-			"width":320,
-			"height":196,
-			"color":"5"
+			"text":"==**CCL2/CXCL10是谁分泌的呢?**==\n- **肿瘤细胞**：发出“初级信号”（CCL2），吸引第一批单核细胞。\n    \n- **TREM1+ KC (主角)**：通过分泌 IL-6/TNF，把肝脏微环境搅乱，并**命令**周围的细胞开始干活。\n    \n- **肝星状细胞 & 内皮细胞 (协从)**：受 KC 的指令，分泌大量的 **CCL2 和 CXCL12**，造成 M-MDSC 的大规模涌入。",
+			"styleAttributes":{"shape":"document"},
+			"x":-961,
+			"y":-1924,
+			"width":620,
+			"height":448,
+			"color":"6"
 		},
 		{"id":"eeaef7fbe0f7d4bd","type":"file","file":"文章/综述/assets/肿瘤浸润巨噬细胞的复杂作用/file-20260128111226470.png","x":1120,"y":-852,"width":1720,"height":1272},
 		{
@@ -119,52 +177,6 @@
 			"height":1272,
 			"color":"3"
 		},
-		{"id":"5c16154f0db6f3b3","type":"file","file":"文章/综述/assets/肿瘤浸润巨噬细胞的复杂作用/file-20260127165109208.png","x":-1880,"y":-380,"width":677,"height":340},
-		{"id":"a08495dd1053cb16","type":"text","text":"1.长期以来，巨噬细胞被认为是一种进化上古老的细胞类型，参与**组织稳态和免疫防御**，如今它们正被重新发现为多种疾病的**调控子**，包括癌症。\n- 肿瘤相关巨噬细胞是肿瘤微环境中最丰富的先天免疫群体。\n- 巨噬细胞是造血系统的专业吞噬细胞，专门检测、吞噬和消灭病菌及其他有害微生物、凋亡细胞和代谢副产物。\n- 与这些健康的巨噬细胞功能相反，TAMs支持癌症生长和转移，并对TME的适应性免疫细胞产生免疫抑制作用。\n- 癌症是巨噬细胞生理中最强烈的伤害之一，会引发与疾病进展密切相关的变化。\n在本综述中，我们概述了TAMs的特征，并讨论促成其病理生理适应的新机制，以及为癌症治疗开发提供有吸引力的靶点的脆弱性。","x":-3480,"y":-885,"width":740,"height":490,"color":"6"},
-		{
-			"id":"aaa9cc183afe212f",
-			"type":"text",
-			"text":"### 图 b：远处转移灶（以肺为例）的免疫景观\n\n图 b 揭示了当癌症发生转移时，微环境如何被重塑。\n\n- **招募竞争:** 转移灶（Cancer metastasis）同样会招募骨髓来源的 M-MDSC 和经典单核细胞（Classical monocytes）。\n    \n- **巡逻单核细胞 (Patrolling monocytes):** 请注意图中右侧的蓝色细胞。这是一种抗肿瘤的单核细胞，它们在血管内“巡逻”，防止肿瘤定植。\n    \n- **NK 细胞的协同:** IL-15 能够促进 NK 细胞和巡逻单核细胞的抗肿瘤活性，从而抑制转移。\n    \n- **促瘤方的反击:** 转移灶分泌趋化因子（CCL2/5, VEGF 等）招募 M-MDSC，这些细胞会抑制 NK 细胞的功能，并通过 **C5a 受体**等信号通路激活组织内的 TRM，为肿瘤细胞的“种子”准备“土壤”。",
-			"styleAttributes":{},
-			"x":-941,
-			"y":-2920,
-			"width":1160,
-			"height":380,
-			"color":"3"
-		},
-		{"id":"6910f17864ff7fce","type":"text","text":"\n| **期刊/年份**    | _Nature Immunology_ / 2022年                                                                                                                                    |\n| ------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------- |\n| **通讯作者**     | Vassiliki A. Boussiotis (Harvard Medical School / BIDMC)                                                                                                       |\n| **实验室/研究方向** | Boussiotis实验室    <br>- Beth Israel Deaconess Medical Center, Division of Hematology-Oncology       <br>- 长期致力于T细胞共刺激/共抑制通路（尤其是PD-1）、骨髓类细胞免疫调节及肿瘤免疫微环境（TME）的研究。 |\n| **代表性高分文章**： | - _Nature_ (2017) - PD-1 expression by TAMs inhibits phagocytosis.<br>- _Science Immunology_ (2020) - Targeted deletion of PD-1 in myeloid cells.              |\n| **PMID**     | [35879449](https://pubmed.ncbi.nlm.nih.gov/35879449/ \"null\")                                                                                                   |\n\n","x":-1880,"y":-20,"width":677,"height":480},
-		{
-			"id":"84b7d5bdf93796bf",
-			"type":"text",
-			"text":"2. 经典单核和巡逻单核细胞，组织驻留巨噬细胞",
-			"styleAttributes":{"shape":"pill","textAlign":"center"},
-			"x":-1740,
-			"y":-1005,
-			"width":400,
-			"height":120,
-			"color":"4"
-		},
-		{
-			"id":"36b4e60cd1894624",
-			"type":"text",
-			"text":"==**CCL2/CXCL10是谁分泌的呢?**==\n- **肿瘤细胞**：发出“初级信号”（CCL2），吸引第一批单核细胞。\n    \n- **TREM1+ KC (主角)**：通过分泌 IL-6/TNF，把肝脏微环境搅乱，并**命令**周围的细胞开始干活。\n    \n- **肝星状细胞 & 内皮细胞 (协从)**：受 KC 的指令，分泌大量的 **CCL2 和 CXCL12**，造成 M-MDSC 的大规模涌入。",
-			"styleAttributes":{"shape":"document"},
-			"x":-961,
-			"y":-1924,
-			"width":620,
-			"height":448,
-			"color":"6"
-		},
-		{
-			"id":"248b819ab30620cb",
-			"type":"text",
-			"text":"KC表达TREM1分泌促炎因子",
-			"styleAttributes":{},
-			"x":-2080,
-			"y":-1700,
-			"width":340,
-			"height":60
-		},
 		{
 			"id":"fd8d5054c3ee9eaf",
 			"type":"text",
@@ -176,19 +188,7 @@
 			"height":1520,
 			"color":"3"
 		},
-		{"id":"731e662fc9d2a3bc","type":"file","file":"文章/综述/assets/肿瘤浸润巨噬细胞的复杂作用/file-20260127205744137.png","x":1958,"y":-3180,"width":1864,"height":1570},
-		{
-			"id":"c8a80e6d126f6abc",
-			"type":"text",
-			"text":"紧急骨髓形成，分化受阻导致具有免疫抑制和肿瘤促进特性的骨髓细胞积累，这些细胞称为MDSCs。分为单核类和多行核类。",
-			"styleAttributes":{},
-			"x":-2150,
-			"y":-1960,
-			"width":270,
-			"height":220,
-			"color":"3"
-		},
-		{"id":"64be4d06e572c677","type":"file","file":"文章/综述/assets/肿瘤浸润巨噬细胞的复杂作用/file-20260127213250459.png","x":-2960,"y":-1960,"width":763,"height":220}
+		{"id":"731e662fc9d2a3bc","type":"file","file":"文章/综述/assets/肿瘤浸润巨噬细胞的复杂作用/file-20260127205744137.png","x":1958,"y":-3180,"width":1864,"height":1570}
 	],
 	"edges":[
 		{"id":"6658f4110b3da981","fromNode":"5c16154f0db6f3b3","fromSide":"left","toNode":"a08495dd1053cb16","toSide":"right","label":"摘要中文"},
