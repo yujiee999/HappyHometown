@@ -4,8 +4,8 @@
 		"frontmatter":{}
 	},
 	"nodes":[
+		{"id":"f5522d78ffe565b1","type":"group","x":-855,"y":-1560,"width":1490,"height":740,"color":"1","label":"未命名组"},
 		{"id":"3a3a2400d949be3a","type":"group","x":-780,"y":-780,"width":1340,"height":660,"color":"1","label":"基础信息"},
-		{"id":"da9e2a0cb9708c45","type":"group","x":-680,"y":-1240,"width":316,"height":260,"label":"未命名组"},
 		{"id":"bc0a6770588b1873","type":"file","file":"文章/分析/assets/胶质母细胞瘤生态系统的多层转录架构/file-20260128144013519.png","x":-760,"y":-752,"width":418,"height":112},
 		{"id":"edbaebd51a8d4556","type":"file","file":"文章/分析/assets/胶质母细胞瘤生态系统的多层转录架构/file-20260128144912080.png","x":-360,"y":-630,"width":218,"height":80},
 		{
@@ -17,58 +17,6 @@
 			"y":-752,
 			"width":620,
 			"height":612
-		},
-		{
-			"id":"231f586708edaa79",
-			"type":"text",
-			"text":"",
-			"styleAttributes":{"shape":"circle"},
-			"x":-699,
-			"y":-1310,
-			"width":361,
-			"height":380
-		},
-		{
-			"id":"bdd87a0ba50e51dc",
-			"type":"text",
-			"text":"金融家\n/细胞状态",
-			"styleAttributes":{"shape":"diamond"},
-			"x":-534,
-			"y":-1200,
-			"width":170,
-			"height":120,
-			"color":"5"
-		},
-		{
-			"id":"53eebbe871aa24d2",
-			"type":"text",
-			"text":"金融家\n",
-			"styleAttributes":{"shape":"diamond"},
-			"x":-607,
-			"y":-1080,
-			"width":90,
-			"height":70,
-			"color":"2"
-		},
-		{
-			"id":"c5a698e754047238",
-			"type":"text",
-			"text":"建筑工",
-			"styleAttributes":{"shape":"parallelogram"},
-			"x":-594,
-			"y":-1280,
-			"width":120,
-			"height":60
-		},
-		{
-			"id":"a50902122bc030bc",
-			"type":"text",
-			"text":"建筑工",
-			"styleAttributes":{"shape":"parallelogram"},
-			"x":-669,
-			"y":-1200,
-			"width":118,
-			"height":60
 		},
 		{"id":"0e908d76c50de452","type":"file","file":"文章/分析/assets/胶质母细胞瘤生态系统的多层转录架构/file-20260128144943528.png","x":-760,"y":-620,"width":374,"height":60},
 		{
@@ -82,85 +30,304 @@
 			"height":410
 		},
 		{
-			"id":"778398d4f2ccb996",
+			"id":"b2585f42e70f60ce",
 			"type":"text",
-			"text":"社区/肿瘤",
-			"styleAttributes":{},
-			"x":-220,
-			"y":-1220,
-			"width":200,
+			"text":"恶性细胞状态_11",
+			"styleAttributes":{"shape":"circle","textAlign":"center"},
+			"x":-835,
+			"y":-1410,
+			"width":260,
 			"height":60
 		},
 		{
-			"id":"5acfc5ea3b9dbd90",
+			"id":"657f7aef72221a22",
 			"type":"text",
-			"text":"经济萧条背景/肿瘤层面的 BP-NEU 背景",
-			"styleAttributes":{},
-			"x":-240,
-			"y":-1120,
-			"width":280,
-			"height":110,
-			"color":"5"
+			"text":"恶性细胞状态_22",
+			"styleAttributes":{"shape":"diamond","textAlign":"center"},
+			"x":-795,
+			"y":-1320,
+			"width":260,
+			"height":60
 		},
 		{
-			"id":"cce8384628aef776",
+			"id":"de4f21d25f8df0db",
 			"type":"text",
-			"text":"经济稳定背景/肿瘤层面的 BP-ECM 背景",
+			"text":"恶性细胞状态_33",
+			"styleAttributes":{"shape":"pill","textAlign":"center"},
+			"x":-705,
+			"y":-1230,
+			"width":260,
+			"height":60,
+			"color":"2"
+		},
+		{
+			"id":"1a88b537541543b2",
+			"type":"text",
+			"text":"Patient_1/Tumor_1",
 			"styleAttributes":{},
-			"x":-240,
+			"x":-475,
+			"y":-1540,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"c4cde2bfc99cf5cb",
+			"type":"text",
+			"text":"恶性细胞状态_11",
+			"styleAttributes":{"shape":"circle","textAlign":"center"},
+			"x":225,
+			"y":-1410,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"30562f06f95aef43",
+			"type":"text",
+			"text":"恶性细胞状态_22",
+			"styleAttributes":{"shape":"diamond","textAlign":"center"},
+			"x":255,
+			"y":-1320,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"b767c4c080e9b571",
+			"type":"text",
+			"text":"Patient_3/Tumor3",
+			"styleAttributes":{},
+			"x":285,
+			"y":-1540,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"7d741eca4d03b2b4",
+			"type":"text",
+			"text":"恶性细胞状态_33",
+			"styleAttributes":{"shape":"pill","textAlign":"center"},
+			"x":355,
+			"y":-1230,
+			"width":260,
+			"height":60,
+			"color":"2"
+		},
+		{
+			"id":"ce30c04cfb94eea9",
+			"type":"text",
+			"text":"病人之间的差异（肿瘤背景）",
+			"styleAttributes":{"textAlign":"center"},
+			"x":-275,
 			"y":-1000,
-			"width":280,
-			"height":100,
+			"width":340,
+			"height":60
+		},
+		{
+			"id":"f7b015d928c4d3eb",
+			"type":"text",
+			"text":"恶性细胞状态_11",
+			"styleAttributes":{"shape":"circle","textAlign":"center"},
+			"x":-231,
+			"y":-1380,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"9ed136e36d3b9e1e",
+			"type":"text",
+			"text":"恶性细胞状态_22",
+			"styleAttributes":{"shape":"diamond","textAlign":"center"},
+			"x":-145,
+			"y":-1320,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"b36c3efd1ac80511",
+			"type":"text",
+			"text":"恶性细胞状态_33",
+			"styleAttributes":{"shape":"pill","textAlign":"center"},
+			"x":-101,
+			"y":-1230,
+			"width":260,
+			"height":60,
 			"color":"2"
 		},
 		{
-			"id":"6a85b5fe7d2a7348",
+			"id":"90442d163740f1bd",
 			"type":"text",
-			"text":"金融家\n",
-			"styleAttributes":{"shape":"diamond"},
-			"x":-509,
-			"y":-1080,
-			"width":90,
-			"height":70,
-			"color":"2"
+			"text":"Patient_2/Tumor2",
+			"styleAttributes":{},
+			"x":-95,
+			"y":-1540,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"416443fb6ecf4699",
+			"type":"text",
+			"text":"BP 程序 3",
+			"styleAttributes":{},
+			"x":145,
+			"y":-900,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"efee552b0d77bfef",
+			"type":"text",
+			"text":"BP 程序 2",
+			"styleAttributes":{},
+			"x":145,
+			"y":-980,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"838cba5c4b540193",
+			"type":"text",
+			"text":"BP 程序 1",
+			"styleAttributes":{},
+			"x":145,
+			"y":-1060,
+			"width":260,
+			"height":60
 		}
 	],
 	"edges":[
 		{
-			"id":"b04bfd2fbfdd45cc",
+			"id":"2c457a13ffdf158a",
 			"styleAttributes":{},
 			"toFloating":false,
-			"fromNode":"231f586708edaa79",
+			"fromNode":"1a88b537541543b2",
+			"fromSide":"bottom",
+			"toNode":"b2585f42e70f60ce",
+			"toSide":"top"
+		},
+		{
+			"id":"6594ec200cc431b3",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"1a88b537541543b2",
+			"fromSide":"bottom",
+			"toNode":"657f7aef72221a22",
+			"toSide":"top"
+		},
+		{
+			"id":"e415665265e0c52e",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"1a88b537541543b2",
+			"fromSide":"bottom",
+			"toNode":"de4f21d25f8df0db",
+			"toSide":"top"
+		},
+		{
+			"id":"8772db738c1e825e",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"90442d163740f1bd",
+			"fromSide":"bottom",
+			"toNode":"f7b015d928c4d3eb",
+			"toSide":"top"
+		},
+		{
+			"id":"331f117aef54d0a3",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"90442d163740f1bd",
+			"fromSide":"bottom",
+			"toNode":"9ed136e36d3b9e1e",
+			"toSide":"top"
+		},
+		{
+			"id":"e43deb2b7aabad3b",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"90442d163740f1bd",
+			"fromSide":"bottom",
+			"toNode":"b36c3efd1ac80511",
+			"toSide":"top"
+		},
+		{
+			"id":"196f9845ad0ba321",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"b767c4c080e9b571",
+			"fromSide":"bottom",
+			"toNode":"c4cde2bfc99cf5cb",
+			"toSide":"top"
+		},
+		{
+			"id":"76108583691998ba",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"b767c4c080e9b571",
+			"fromSide":"bottom",
+			"toNode":"30562f06f95aef43",
+			"toSide":"top"
+		},
+		{
+			"id":"cab33989e7ada361",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"b767c4c080e9b571",
+			"fromSide":"bottom",
+			"toNode":"7d741eca4d03b2b4",
+			"toSide":"top"
+		},
+		{
+			"id":"7c3fa9c96103013f",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"de4f21d25f8df0db",
+			"fromSide":"bottom",
+			"toNode":"ce30c04cfb94eea9",
+			"toSide":"top"
+		},
+		{
+			"id":"3021a8ed1002f9cf",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"b36c3efd1ac80511",
+			"fromSide":"bottom",
+			"toNode":"ce30c04cfb94eea9",
+			"toSide":"top"
+		},
+		{
+			"id":"228dbced101c6aca",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"7d741eca4d03b2b4",
+			"fromSide":"bottom",
+			"toNode":"ce30c04cfb94eea9",
+			"toSide":"top"
+		},
+		{
+			"id":"907c455c9a2add2a",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"ce30c04cfb94eea9",
 			"fromSide":"right",
-			"toNode":"778398d4f2ccb996",
+			"toNode":"416443fb6ecf4699",
 			"toSide":"left"
 		},
 		{
-			"id":"f9e2a738d27a7f73",
+			"id":"3f7a142676fa1d5d",
 			"styleAttributes":{},
 			"toFloating":false,
-			"fromNode":"bdd87a0ba50e51dc",
+			"fromNode":"ce30c04cfb94eea9",
 			"fromSide":"right",
-			"toNode":"5acfc5ea3b9dbd90",
+			"toNode":"efee552b0d77bfef",
 			"toSide":"left"
 		},
 		{
-			"id":"393a3a6fb153ca30",
+			"id":"68887c0963956585",
 			"styleAttributes":{},
 			"toFloating":false,
-			"fromNode":"53eebbe871aa24d2",
+			"fromNode":"ce30c04cfb94eea9",
 			"fromSide":"right",
-			"toNode":"cce8384628aef776",
+			"toNode":"838cba5c4b540193",
 			"toSide":"left"
-		},
-		{
-			"id":"b9eafba04824bbff",
-			"styleAttributes":{},
-			"toFloating":false,
-			"fromNode":"bdd87a0ba50e51dc",
-			"fromSide":"top",
-			"toNode":"231f586708edaa79",
-			"toSide":"right"
 		}
 	]
 }
