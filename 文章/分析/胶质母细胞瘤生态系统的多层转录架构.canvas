@@ -4,7 +4,7 @@
 		"frontmatter":{}
 	},
 	"nodes":[
-		{"id":"3a3a2400d949be3a","type":"group","x":-780,"y":-780,"width":700,"height":612,"color":"1","label":"基础信息"},
+		{"id":"3a3a2400d949be3a","type":"group","x":-780,"y":-780,"width":700,"height":660,"color":"1","label":"基础信息"},
 		{"id":"0e908d76c50de452","type":"file","file":"文章/分析/assets/胶质母细胞瘤生态系统的多层转录架构/file-20260128144943528.png","x":-760,"y":-620,"width":374,"height":60},
 		{"id":"bc0a6770588b1873","type":"file","file":"文章/分析/assets/胶质母细胞瘤生态系统的多层转录架构/file-20260128144013519.png","x":-760,"y":-752,"width":418,"height":112},
 		{"id":"edbaebd51a8d4556","type":"file","file":"文章/分析/assets/胶质母细胞瘤生态系统的多层转录架构/file-20260128144912080.png","x":-360,"y":-630,"width":218,"height":80},
@@ -16,7 +16,7 @@
 			"x":-760,
 			"y":-550,
 			"width":660,
-			"height":360
+			"height":410
 		}
 	],
 	"edges":[]

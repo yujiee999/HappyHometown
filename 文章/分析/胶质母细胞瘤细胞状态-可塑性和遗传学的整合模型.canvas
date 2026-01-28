@@ -2,5 +2,18 @@
 	"metadata":{
 		"version":"1.0-1.0",
 		"frontmatter":{}
-	}
+	},
+	"nodes":[
+		{
+			"id":"2dbb32695ff48e7c",
+			"type":"text",
+			"text":"标题：An integrative model of cellular states, plasticity, and genetics for glioblastoma\n\n作者：Neftel, C. 等（通讯作者同样包含 Mario L. Suvà 和 Itay Tirosh 等专家）。\n\n期刊：Cell (2019), 178(4), 835-849.\n\n核心贡献：该研究首次定义了 GBM 的四种核心恶性细胞状态（AC-like, MES-like, NPC-like, OPC-like），并揭示了这些状态受遗传突变驱动且具有高度的表型可塑性。",
+			"styleAttributes":{},
+			"x":-640,
+			"y":-420,
+			"width":1260,
+			"height":260
+		}
+	],
+	"edges":[]
 }
