@@ -1,1 +1,20 @@
-{}
+{
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{}
+	},
+	"nodes":[
+		{
+			"id":"286f49c91ef0c630",
+			"type":"text",
+			"text":"| **期刊/年份**    | _Nature Genetics_ / 2025                                                                   |\n| ------------ | ------------------------------------------------------------------------------------------ |\n| **通讯作者**     | Itay Tirosh, Mario L. Suvà, Antonio Iavarone, Roel G.W. Verhaak, Anna Lasorella            |\n| **实验室/研究方向** | 魏茨曼科学研究所 / 哈佛医学院等；专注于单细胞基因组学、肿瘤进化与异质性。<br><br>                                             |\n| **代表性高分文章**： | _Science_ (2014, 2016), _Cell_ (2019), _Nature_ (2023, 2024), _Nature Genetics_ (2025)<br> |\n| **PMID**     | [35879449](https://pubmed.ncbi.nlm.nih.gov/35879449/ \"null\")                               |",
+			"styleAttributes":{},
+			"x":-620,
+			"y":-420,
+			"width":660,
+			"height":360
+		},
+		{"id":"bc0a6770588b1873","type":"file","file":"文章/分析/assets/胶质母细胞瘤生态系统的多层转录架构/file-20260128144013519.png","x":-620,"y":-540,"width":400,"height":107}
+	],
+	"edges":[]
+}
