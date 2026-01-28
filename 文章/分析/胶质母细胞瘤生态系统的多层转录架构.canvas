@@ -4,8 +4,8 @@
 		"frontmatter":{}
 	},
 	"nodes":[
-		{"id":"f5522d78ffe565b1","type":"group","x":-855,"y":-1560,"width":1490,"height":740,"color":"1","label":"未命名组"},
-		{"id":"3a3a2400d949be3a","type":"group","x":-780,"y":-780,"width":1340,"height":660,"color":"1","label":"基础信息"},
+		{"id":"f5522d78ffe565b1","type":"group","x":-855,"y":-1560,"width":1490,"height":740,"color":"1","label":"生态系统不仅仅是生物的叠加，更是生物与环境的深度整合"},
+		{"id":"3a3a2400d949be3a","type":"group","x":-855,"y":-780,"width":1490,"height":680,"color":"1","label":"基础信息"},
 		{"id":"bc0a6770588b1873","type":"file","file":"文章/分析/assets/胶质母细胞瘤生态系统的多层转录架构/file-20260128144013519.png","x":-760,"y":-752,"width":418,"height":112},
 		{"id":"edbaebd51a8d4556","type":"file","file":"文章/分析/assets/胶质母细胞瘤生态系统的多层转录架构/file-20260128144912080.png","x":-360,"y":-630,"width":218,"height":80},
 		{
@@ -15,7 +15,7 @@
 			"styleAttributes":{},
 			"x":-80,
 			"y":-752,
-			"width":620,
+			"width":640,
 			"height":612
 		},
 		{"id":"0e908d76c50de452","type":"file","file":"文章/分析/assets/胶质母细胞瘤生态系统的多层转录架构/file-20260128144943528.png","x":-760,"y":-620,"width":374,"height":60},
@@ -142,17 +142,6 @@
 			"height":60
 		},
 		{
-			"id":"b36c3efd1ac80511",
-			"type":"text",
-			"text":"恶性细胞状态_33",
-			"styleAttributes":{"shape":"pill","textAlign":"center"},
-			"x":-101,
-			"y":-1230,
-			"width":260,
-			"height":60,
-			"color":"2"
-		},
-		{
 			"id":"90442d163740f1bd",
 			"type":"text",
 			"text":"Patient_2/Tumor2",
@@ -191,6 +180,17 @@
 			"y":-1060,
 			"width":260,
 			"height":60
+		},
+		{
+			"id":"b36c3efd1ac80511",
+			"type":"text",
+			"text":"恶性细胞状态_33",
+			"styleAttributes":{"shape":"pill","textAlign":"center"},
+			"x":-145,
+			"y":-1230,
+			"width":260,
+			"height":60,
+			"color":"2"
 		}
 	],
 	"edges":[
