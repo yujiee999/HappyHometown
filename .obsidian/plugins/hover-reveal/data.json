@@ -1,6 +1,6 @@
 {
-  "tooltipTextColor": "var(--text-normal)",
-  "tooltipBackgroundColor": "var(--background-primary)",
+  "tooltipTextColor": "#3b09f1",
+  "tooltipBackgroundColor": "#7eb2f6",
   "tooltipBorderColor": "var(--background-modifier-border)",
-  "boldTextColor": "var(--bold-color)"
+  "boldTextColor": "#fdf7f7"
 }
