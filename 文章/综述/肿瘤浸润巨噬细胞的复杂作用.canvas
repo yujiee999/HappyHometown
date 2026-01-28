@@ -1,11 +1,11 @@
 {
 	"nodes":[
 		{"id":"ecd769a6e1360273","type":"group","x":640,"y":-880,"width":4620,"height":1312,"color":"4","label":"3.为什么肿瘤微环境中的“炎症信号”不仅没有激活免疫，反而成了免疫抑制的推手。"},
-		{"id":"b761107b6579631a","type":"group","x":640,"y":-3200,"width":3280,"height":1744,"color":"4","label":"2.单核细胞是如何被招募进入肿瘤，并如何在地化演变为具有不同功能的“职业杀手”或“帮凶”的。"},
-		{"id":"718b50246f6cfb9a","type":"group","x":-2980,"y":-3200,"width":3220,"height":1744,"color":"4","label":"1.肿瘤相关巨噬细胞（TAMs）和髓系衍生抑制细胞（MDSCs）的起源、招募以及在不同组织环境中的异质性"},
 		{"id":"316cf4c0a686cc4f","type":"group","x":-5580,"y":720,"width":3585,"height":970,"color":"4","label":"4.从时间维度展示了肿瘤是如何通过操纵巨噬细胞，从被免疫系统“追杀”演变为彻底“逃逸”的"},
 		{"id":"3be8168aef6b5b05","type":"group","x":-3500,"y":-900,"width":780,"height":905,"color":"4","label":"0.文章摘要"},
 		{"id":"63cbada7a9c925c2","type":"group","x":-1900,"y":-400,"width":740,"height":700,"color":"1","label":"基础信息"},
+		{"id":"b761107b6579631a","type":"group","x":640,"y":-3200,"width":3280,"height":1744,"color":"4","label":"2.单核细胞是如何被招募进入肿瘤，并如何在地化演变为具有不同功能的“职业杀手”或“帮凶”的。"},
+		{"id":"718b50246f6cfb9a","type":"group","x":-2980,"y":-3200,"width":3220,"height":1744,"color":"4","label":"1.肿瘤相关巨噬细胞（TAMs）和髓系衍生抑制细胞（MDSCs）的起源、招募以及在不同组织环境中的异质性"},
 		{
 			"id":"148127be4bf51174",
 			"type":"text",
@@ -40,19 +40,6 @@
 			"width":200,
 			"height":60,
 			"color":"2"
-		},
-		{"id":"5c16154f0db6f3b3","type":"file","file":"文章/综述/assets/肿瘤浸润巨噬细胞的复杂作用/file-20260127165109208.png","x":-1880,"y":-380,"width":677,"height":340},
-		{"id":"6910f17864ff7fce","type":"text","text":"\n| **期刊/年份**    | _Nature Immunology_ / 2022年                                                                                                                                    |\n| ------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------- |\n| **通讯作者**     | Vassiliki A. Boussiotis (Harvard Medical School / BIDMC)                                                                                                       |\n| **实验室/研究方向** | Boussiotis实验室    <br>- Beth Israel Deaconess Medical Center, Division of Hematology-Oncology       <br>- 长期致力于T细胞共刺激/共抑制通路（尤其是PD-1）、骨髓类细胞免疫调节及肿瘤免疫微环境（TME）的研究。 |\n| **代表性高分文章**： | - _Nature_ (2017) - PD-1 expression by TAMs inhibits phagocytosis.<br>- _Science Immunology_ (2020) - Targeted deletion of PD-1 in myeloid cells.              |\n| **PMID**     | [35879446](https://pubmed.ncbi.nlm.nih.gov/35879446/ \"null\")                                                                                                   |\n\n","x":-1880,"y":-20,"width":677,"height":300},
-		{
-			"id":"84b7d5bdf93796bf",
-			"type":"text",
-			"text":"2. 经典单核和巡逻单核细胞，组织驻留巨噬细胞",
-			"styleAttributes":{"shape":"pill","textAlign":"center"},
-			"x":-1740,
-			"y":-1005,
-			"width":400,
-			"height":120,
-			"color":"4"
 		},
 		{
 			"id":"aaa9cc183afe212f",
@@ -120,6 +107,18 @@
 			"height":60
 		},
 		{
+			"id":"fd8d5054c3ee9eaf",
+			"type":"text",
+			"text":"### 1. 上半部分：招募的“分子开关” (The Recruitment Switch)\n\n这一部分解释了单核细胞如何从血液中“刹车”并进入肿瘤组织。\n\n- **多源信号汇聚：** 肿瘤微环境中的生长因子（通过 **RTK**）、趋化因子（通过 **GPCR**）以及 DAMPs/炎症因子（通过 **TLR/IL-1R**）共同作用。\n    \n- ==**核心中枢 PI3K$\\gamma$：** 注意图中心那个深蓝色的 **PI3K$\\gamma$**。它是髓系细胞招募的“总闸门”。==\n    \n    - **整合素激活：** PI3K$\\gamma$ 激活下游的一系列分子（Ras, BTK, PLC$\\gamma$1, Rap1等），最终通过 Talin 蛋白激活细胞表面的$$\\alpha_4\\beta_1$。\n        \n    - **逻辑：** 这个过程就像给单核细胞穿上了“防滑鞋”，让它能紧紧抓牢血管壁并挤进肿瘤组织（Extravasation）。\n        \n- **转录重塑：** 同时，这些信号导致了转录因子的改变——**NF-$\\kappa$B 表达下降**（减弱了抗肿瘤炎症），而 **cEBP$\\beta$ 表达上升**（开启了促瘤/抑炎程序）。[促炎抑炎通路](文章/常识/促炎抑炎通路.md)\n    \n\n---\n\n### 2. 下半部分：空间异质性与“工种”分化 (Functional Specialization)\n\n一旦单核细胞进入肿瘤变成了 **TAM**，它们会根据所在的“住址”（空间定位）分化为四种主要亚群：\n\n#### **A. 血管周围亚群 (Tie2+ TAMs)**\n\n- **住址：** Perivascular areas（血管周围）。\n    \n- **职能：** **血管生成工程师**。它们表达 Tie2 受体，主要负责诱导血管生成（Angiogenesis），为肿瘤输送营养，是肿瘤生长（Tumor growth）的后勤保障。\n    \n\n#### **B. 缺氧区亚群 (Sema3A–Nrp1+ TAMs)**\n\n- **住址：** Avascular, hypoxic areas（无血管、缺氧区）。\n    \n- **职能：** [代谢重塑者](文章/常识/代谢重塑与空间定位.md)。\n    \n    - 在缺氧环境下，**Nrp1** 和 **Sema3A** 信号轴通过 **PlexinA1/A4** 起作用。\n        \n    - 关键点在于 **REDD1 上调** 和 **mTOR 活性下调**。这种代谢调整让巨噬细胞在极端缺氧下存活，并诱导异常的血管生成，进一步扰乱微环境。\n        \n\n#### **C. 基质重构亚群 (MMP+ TAMs)**\n\n- **职能：** **拆迁队/先遣队**。\n    \n- **机制：** 大量分泌基质金属蛋白酶（**MMPs**）。\n    \n- **逻辑：** 它们负责分解细胞外基质（Tissue remodeling），不仅为肿瘤细胞向外扩散“开路”，还协助肿瘤细胞进入血管（血管外渗），直接驱动**癌症转移 (Cancer metastasis)**。",
+			"styleAttributes":{},
+			"x":660,
+			"y":-3180,
+			"width":1040,
+			"height":1520,
+			"color":"3"
+		},
+		{"id":"731e662fc9d2a3bc","type":"file","file":"文章/综述/assets/肿瘤浸润巨噬细胞的复杂作用/file-20260127205744137.png","x":1958,"y":-3180,"width":1864,"height":1570},
+		{
 			"id":"ff3ccc6fd44f9776",
 			"type":"text",
 			"text":"4.原发性和转移性癌症中的BM来源巨噬细胞和Trm\n\nTRMs（组织驻留巨噬细胞）因胚胎期定植且自我更新，往往在转移发生前就已存在于靶器官并能塑造“前转移生态位”；而转移灶更常由骨髓来源的单核/巨噬细胞（BM-derived macrophages/TAMs）主导，二者在原发与转移中的作用分工不同，并且肿瘤类型会对它们施加不同的基因调控模式。\n\n在==乳腺癌转移小鼠模型==里，肺的 TRMs（**alveolar macrophages，肺泡巨噬细胞**）在转移前就能“预热”生态位：\n\n- **通过补体 C5a 受体介导增殖** → 肺泡巨噬细胞在“前转移肺”累积\n    \n- 造成一串免疫抑制链条：\n    \n    - **肺 DC 数量和成熟下降**\n        \n    - **TH1 反应被抑制**\n        \n    - → **肺转移负荷上升**\n\n三个**==肺癌模型==**的结论:\n\n- **BM-derived macrophages**：更偏向促进**转移扩散**\n    \n- **TRMs**：更偏向支持**原发灶肿瘤细胞增殖**\n\n==肝==的 TRMs 是 **Kupffer cells (KCs)**，这段强调“复杂性”：\n\n- **TREM-1 激活 KC** → 分泌 IL-6、IL-1β、TNF、CCL2、CXCL10 等 → 炎症性肝损伤 → 促进肝癌发生（carcinogenesis）\n    \n- HCC 里 **CCL2 高表达**；阻断 **CCL2–CCR2** 能减少 TAM 累积并抑制肿瘤增长（提示 KC/CCL2 轴在塑造免疫 TME 中很关键）\n    \n- 但 KC 也可能有**抗转移**作用：KC 缺失小鼠里 CRC 肝转移更多\n\n总结：\n- 肺：**TRM（肺泡巨噬细胞）可在转移前通过 C5aR 增殖、抑制 DC 成熟与 TH1 反应来建立前转移生态位。**\n    \n- 分工：**BM-derived macrophages 更促进转移扩散，而 TRMs 更支持原发肿瘤细胞增殖（模型依赖）。**\n    \n- 肝：**Kupffer cells 通过 TREM-1→炎症因子促进致癌，但也可能作为门卫限制 CRC 肝转移，体现 TRMs 的情境依赖性。**\n    \n- 脑：**GBM（原发）由 microglia/TRMs 与 BM-derived TAMs 混合构成且转录印记独特；脑转移瘤则主要由 BM-derived TAMs 主导。**",
@@ -142,19 +141,6 @@
 			"width":2340,
 			"height":1180
 		},
-		{"id":"a08495dd1053cb16","type":"text","text":"1.长期以来，巨噬细胞被认为是一种进化上古老的细胞类型，参与**组织稳态和免疫防御**，如今它们正被重新发现为多种疾病的**调控子**，包括癌症。\n- 肿瘤相关巨噬细胞是肿瘤微环境中最丰富的先天免疫群体。\n- 巨噬细胞是造血系统的专业吞噬细胞，专门检测、吞噬和消灭病菌及其他有害微生物、凋亡细胞和代谢副产物。\n- 与这些健康的巨噬细胞功能相反，TAMs支持癌症生长和转移，并对TME的适应性免疫细胞产生免疫抑制作用。\n- 癌症是巨噬细胞生理中最强烈的伤害之一，会引发与疾病进展密切相关的变化。\n在本综述中，我们概述了TAMs的特征，并讨论促成其病理生理适应的新机制，以及为癌症治疗开发提供有吸引力的靶点的脆弱性。","x":-3480,"y":-885,"width":740,"height":490,"color":"6"},
-		{
-			"id":"fd8d5054c3ee9eaf",
-			"type":"text",
-			"text":"### 1. 上半部分：招募的“分子开关” (The Recruitment Switch)\n\n这一部分解释了单核细胞如何从血液中“刹车”并进入肿瘤组织。\n\n- **多源信号汇聚：** 肿瘤微环境中的生长因子（通过 **RTK**）、趋化因子（通过 **GPCR**）以及 DAMPs/炎症因子（通过 **TLR/IL-1R**）共同作用。\n    \n- ==**核心中枢 PI3K$\\gamma$：** 注意图中心那个深蓝色的 **PI3K$\\gamma$**。它是髓系细胞招募的“总闸门”。==\n    \n    - **整合素激活：** PI3K$\\gamma$ 激活下游的一系列分子（Ras, BTK, PLC$\\gamma$1, Rap1等），最终通过 Talin 蛋白激活细胞表面的$$\\alpha_4\\beta_1$。\n        \n    - **逻辑：** 这个过程就像给单核细胞穿上了“防滑鞋”，让它能紧紧抓牢血管壁并挤进肿瘤组织（Extravasation）。\n        \n- **转录重塑：** 同时，这些信号导致了转录因子的改变——**NF-$\\kappa$B 表达下降**（减弱了抗肿瘤炎症），而 **cEBP$\\beta$ 表达上升**（开启了促瘤/抑炎程序）。[促炎抑炎通路](文章/常识/促炎抑炎通路.md)\n    \n\n---\n\n### 2. 下半部分：空间异质性与“工种”分化 (Functional Specialization)\n\n一旦单核细胞进入肿瘤变成了 **TAM**，它们会根据所在的“住址”（空间定位）分化为四种主要亚群：\n\n#### **A. 血管周围亚群 (Tie2+ TAMs)**\n\n- **住址：** Perivascular areas（血管周围）。\n    \n- **职能：** **血管生成工程师**。它们表达 Tie2 受体，主要负责诱导血管生成（Angiogenesis），为肿瘤输送营养，是肿瘤生长（Tumor growth）的后勤保障。\n    \n\n#### **B. 缺氧区亚群 (Sema3A–Nrp1+ TAMs)**\n\n- **住址：** Avascular, hypoxic areas（无血管、缺氧区）。\n    \n- **职能：** [代谢重塑者](文章/常识/代谢重塑与空间定位.md)。\n    \n    - 在缺氧环境下，**Nrp1** 和 **Sema3A** 信号轴通过 **PlexinA1/A4** 起作用。\n        \n    - 关键点在于 **REDD1 上调** 和 **mTOR 活性下调**。这种代谢调整让巨噬细胞在极端缺氧下存活，并诱导异常的血管生成，进一步扰乱微环境。\n        \n\n#### **C. 基质重构亚群 (MMP+ TAMs)**\n\n- **职能：** **拆迁队/先遣队**。\n    \n- **机制：** 大量分泌基质金属蛋白酶（**MMPs**）。\n    \n- **逻辑：** 它们负责分解细胞外基质（Tissue remodeling），不仅为肿瘤细胞向外扩散“开路”，还协助肿瘤细胞进入血管（血管外渗），直接驱动**癌症转移 (Cancer metastasis)**。",
-			"styleAttributes":{},
-			"x":660,
-			"y":-3180,
-			"width":1040,
-			"height":1520,
-			"color":"3"
-		},
-		{"id":"731e662fc9d2a3bc","type":"file","file":"文章/综述/assets/肿瘤浸润巨噬细胞的复杂作用/file-20260127205744137.png","x":1958,"y":-3180,"width":1864,"height":1570},
 		{
 			"id":"351f7afcf7fdbd92",
 			"type":"text",
@@ -178,6 +164,20 @@
 			"height":1272,
 			"color":"3"
 		},
+		{"id":"5c16154f0db6f3b3","type":"file","file":"文章/综述/assets/肿瘤浸润巨噬细胞的复杂作用/file-20260127165109208.png","x":-1880,"y":-380,"width":677,"height":340},
+		{"id":"6910f17864ff7fce","type":"text","text":"\n| **期刊/年份**    | _Nature Immunology_ / 2022年                                                                                                                                    |\n| ------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------- |\n| **通讯作者**     | Vassiliki A. Boussiotis (Harvard Medical School / BIDMC)                                                                                                       |\n| **实验室/研究方向** | Boussiotis实验室    <br>- Beth Israel Deaconess Medical Center, Division of Hematology-Oncology       <br>- 长期致力于T细胞共刺激/共抑制通路（尤其是PD-1）、骨髓类细胞免疫调节及肿瘤免疫微环境（TME）的研究。 |\n| **代表性高分文章**： | - _Nature_ (2017) - PD-1 expression by TAMs inhibits phagocytosis.<br>- _Science Immunology_ (2020) - Targeted deletion of PD-1 in myeloid cells.              |\n| **PMID**     | [35879446](https://pubmed.ncbi.nlm.nih.gov/35879446/ \"null\")                                                                                                   |\n\n","x":-1880,"y":-20,"width":677,"height":300},
+		{
+			"id":"84b7d5bdf93796bf",
+			"type":"text",
+			"text":"2. 经典单核和巡逻单核细胞，组织驻留巨噬细胞",
+			"styleAttributes":{"shape":"pill","textAlign":"center"},
+			"x":-1740,
+			"y":-1005,
+			"width":400,
+			"height":120,
+			"color":"4"
+		},
+		{"id":"a08495dd1053cb16","type":"text","text":"1.长期以来，巨噬细胞被认为是一种进化上古老的细胞类型，参与**组织稳态和免疫防御**，如今它们正被重新发现为多种疾病的**调控子**，包括癌症。\n- 肿瘤相关巨噬细胞是肿瘤微环境中最丰富的先天免疫群体。\n- 巨噬细胞是造血系统的专业吞噬细胞，专门检测、吞噬和消灭病菌及其他有害微生物、凋亡细胞和代谢副产物。\n- 与这些健康的巨噬细胞功能相反，TAMs支持癌症生长和转移，并对TME的适应性免疫细胞产生免疫抑制作用。\n- 癌症是巨噬细胞生理中最强烈的伤害之一，会引发与疾病进展密切相关的变化。\n在本综述中，我们概述了TAMs的特征，并讨论促成其病理生理适应的新机制，以及为癌症治疗开发提供有吸引力的靶点的脆弱性。","x":-3480,"y":-885,"width":740,"height":490,"color":"6"},
 		{
 			"id":"38f4e4c0a4184210",
 			"type":"text",
