@@ -45,15 +45,15 @@
 			"color":"5"
 		},
 		{
-			"id":"aaa9cc183afe212f",
+			"id":"c1240e9178742792",
 			"type":"text",
-			"text":"### 图 b：远处转移灶（以肺为例）的免疫景观\n\n图 b 揭示了当癌症发生转移时，微环境如何被重塑。\n\n- **招募竞争:** 转移灶（Cancer metastasis）同样会招募骨髓来源的 M-MDSC 和经典单核细胞（Classical monocytes）。\n    \n- **巡逻单核细胞 (Patrolling monocytes):** 请注意图中右侧的蓝色细胞。这是一种抗肿瘤的单核细胞，它们在血管内“巡逻”，防止肿瘤定植。\n    \n- **NK 细胞的协同:** IL-15 能够促进 NK 细胞和巡逻单核细胞的抗肿瘤活性，从而抑制转移。\n    \n- **促瘤方的反击:** 转移灶分泌趋化因子（CCL2/5, VEGF 等）招募 M-MDSC，这些细胞会抑制 NK 细胞的功能，并通过 **C5a 受体**等信号通路激活组织内的 TRM，为肿瘤细胞的“种子”准备“土壤”。",
+			"text":"共同髓系祖细胞",
 			"styleAttributes":{},
-			"x":-941,
-			"y":-2920,
-			"width":1160,
-			"height":380,
-			"color":"3"
+			"x":-1960,
+			"y":-2220,
+			"width":200,
+			"height":60,
+			"color":"2"
 		},
 		{
 			"id":"ff3ccc6fd44f9776",
@@ -87,50 +87,7 @@
 			"height":196,
 			"color":"5"
 		},
-		{
-			"id":"c1240e9178742792",
-			"type":"text",
-			"text":"共同髓系祖细胞",
-			"styleAttributes":{},
-			"x":-1960,
-			"y":-2220,
-			"width":200,
-			"height":60,
-			"color":"2"
-		},
 		{"id":"6910f17864ff7fce","type":"text","text":"\n| **期刊/年份**    | _Nature Immunology_ / 2022年                                                                                                                                    |\n| ------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------- |\n| **通讯作者**     | Vassiliki A. Boussiotis (Harvard Medical School / BIDMC)                                                                                                       |\n| **实验室/研究方向** | Boussiotis实验室    <br>- Beth Israel Deaconess Medical Center, Division of Hematology-Oncology       <br>- 长期致力于T细胞共刺激/共抑制通路（尤其是PD-1）、骨髓类细胞免疫调节及肿瘤免疫微环境（TME）的研究。 |\n| **代表性高分文章**： | - _Nature_ (2017) - PD-1 expression by TAMs inhibits phagocytosis.<br>- _Science Immunology_ (2020) - Targeted deletion of PD-1 in myeloid cells.              |\n| **PMID**     | [35879449](https://pubmed.ncbi.nlm.nih.gov/35879449/ \"null\")                                                                                                   |\n\n","x":-1880,"y":-20,"width":677,"height":480},
-		{
-			"id":"f590fa5bab399a2c",
-			"type":"text",
-			"text":"### 图 c：特定器官的特异性机制（以肝脏 Kupffer 细胞为例）\n\n图 c 强调了**器官特异性（Organ-specificity）**，这是目前研究的最前沿。\n\n- **Kupffer 细胞 (KC) 的特殊作用:** 肝脏中的 TRM 被称为 Kupffer 细胞。\n    \n- **TREM1 信号轴:** 在肝脏微环境中，KC 表达 **TREM1** 分子。当受到刺激时，KC 会分泌大量的促炎因子（**IL-6, IL-1$\\beta$, TNF**）。\n    \n- **炎症悖论:** 这里完美解释了笔记中的“炎症悖论”。这些促炎因子表面上是“发炎”，实际上它们的作用是招募更多的 M-MDSC 和经典单核细胞进入肝脏，形成一个极度抑制的屏障，帮助肿瘤逃逸。",
-			"styleAttributes":{},
-			"x":-941,
-			"y":-2460,
-			"width":1160,
-			"height":360,
-			"color":"2"
-		},
-		{
-			"id":"bf1bd4410baea476",
-			"type":"text",
-			"text":"C5a受体信号通路激活TRM",
-			"styleAttributes":{},
-			"x":-1860,
-			"y":-2060,
-			"width":200,
-			"height":80
-		},
-		{
-			"id":"84b7d5bdf93796bf",
-			"type":"text",
-			"text":"2. 经典单核和巡逻单核细胞，组织驻留巨噬细胞",
-			"styleAttributes":{"shape":"pill","textAlign":"center"},
-			"x":-1740,
-			"y":-1005,
-			"width":400,
-			"height":120,
-			"color":"4"
-		},
 		{"id":"5c16154f0db6f3b3","type":"file","file":"文章/综述/assets/肿瘤浸润巨噬细胞的复杂作用/file-20260127165109208.png","x":-1880,"y":-380,"width":677,"height":340},
 		{
 			"id":"248b819ab30620cb",
@@ -164,6 +121,49 @@
 			"width":620,
 			"height":448,
 			"color":"6"
+		},
+		{
+			"id":"aaa9cc183afe212f",
+			"type":"text",
+			"text":"### 图 b：远处转移灶（以肺为例）的免疫景观\n\n图 b 揭示了当癌症发生转移时，微环境如何被重塑。\n\n- **招募竞争:** 转移灶（Cancer metastasis）同样会招募骨髓来源的 M-MDSC 和经典单核细胞（Classical monocytes）。\n    \n- **巡逻单核细胞 (Patrolling monocytes):** 请注意图中右侧的蓝色细胞。这是一种抗肿瘤的单核细胞，它们在血管内“巡逻”，防止肿瘤定植。\n    \n- **NK 细胞的协同:** IL-15 能够促进 NK 细胞和巡逻单核细胞的抗肿瘤活性，从而抑制转移。\n    \n- **促瘤方的反击:** 转移灶分泌趋化因子（CCL2/5, VEGF 等）招募 M-MDSC，这些细胞会抑制 NK 细胞的功能，并通过 **C5a 受体**等信号通路激活组织内的 TRM，为肿瘤细胞的“种子”准备“土壤”。",
+			"styleAttributes":{},
+			"x":-941,
+			"y":-2920,
+			"width":1160,
+			"height":380,
+			"color":"3"
+		},
+		{
+			"id":"f590fa5bab399a2c",
+			"type":"text",
+			"text":"### 图 c：特定器官的特异性机制（以肝脏 Kupffer 细胞为例）\n\n图 c 强调了**器官特异性（Organ-specificity）**，这是目前研究的最前沿。\n\n- **Kupffer 细胞 (KC) 的特殊作用:** 肝脏中的 TRM 被称为 Kupffer 细胞。\n    \n- **TREM1 信号轴:** 在肝脏微环境中，KC 表达 **TREM1** 分子。当受到刺激时，KC 会分泌大量的促炎因子（**IL-6, IL-1$\\beta$, TNF**）。\n    \n- **炎症悖论:** 这里完美解释了笔记中的“炎症悖论”。这些促炎因子表面上是“发炎”，实际上它们的作用是招募更多的 M-MDSC 和经典单核细胞进入肝脏，形成一个极度抑制的屏障，帮助肿瘤逃逸。",
+			"styleAttributes":{},
+			"x":-941,
+			"y":-2460,
+			"width":1160,
+			"height":360,
+			"color":"2"
+		},
+		{
+			"id":"bf1bd4410baea476",
+			"type":"text",
+			"text":"C5a受体信号通路激活TRM",
+			"styleAttributes":{},
+			"x":-1860,
+			"y":-2060,
+			"width":200,
+			"height":80
+		},
+		{
+			"id":"84b7d5bdf93796bf",
+			"type":"text",
+			"text":"2. 经典单核和巡逻单核细胞，组织驻留巨噬细胞",
+			"styleAttributes":{"shape":"pill","textAlign":"center"},
+			"x":-1740,
+			"y":-1005,
+			"width":400,
+			"height":120,
+			"color":"4"
 		},
 		{"id":"eeaef7fbe0f7d4bd","type":"file","file":"文章/综述/assets/肿瘤浸润巨噬细胞的复杂作用/file-20260128111226470.png","x":1120,"y":-852,"width":1720,"height":1272},
 		{
