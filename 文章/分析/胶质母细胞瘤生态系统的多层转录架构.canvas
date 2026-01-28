@@ -32,7 +32,7 @@
 		{
 			"id":"b2585f42e70f60ce",
 			"type":"text",
-			"text":"恶性细胞状态_11",
+			"text":"恶性细胞状态_11（20%）",
 			"styleAttributes":{"shape":"circle","textAlign":"center"},
 			"x":-835,
 			"y":-1410,
@@ -73,7 +73,7 @@
 		{
 			"id":"c4cde2bfc99cf5cb",
 			"type":"text",
-			"text":"恶性细胞状态_11",
+			"text":"恶性细胞状态_11（%5）",
 			"styleAttributes":{"shape":"circle","textAlign":"center"},
 			"x":225,
 			"y":-1410,
@@ -124,12 +124,12 @@
 		{
 			"id":"f7b015d928c4d3eb",
 			"type":"text",
-			"text":"恶性细胞状态_11",
+			"text":"恶性细胞状态_11（50%）",
 			"styleAttributes":{"shape":"circle","textAlign":"center"},
 			"x":-231,
-			"y":-1380,
+			"y":-1410,
 			"width":260,
-			"height":60
+			"height":90
 		},
 		{
 			"id":"9ed136e36d3b9e1e",
@@ -191,6 +191,36 @@
 			"width":260,
 			"height":60,
 			"color":"2"
+		},
+		{
+			"id":"873217f7d404a0b9",
+			"type":"text",
+			"text":"非恶性细胞组成",
+			"styleAttributes":{"shape":"database"},
+			"x":-472,
+			"y":-1320,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"df541ab23daca1f8",
+			"type":"text",
+			"text":"非恶性细胞组成",
+			"styleAttributes":{"shape":"database"},
+			"x":35,
+			"y":-1395,
+			"width":160,
+			"height":60
+		},
+		{
+			"id":"176563061247e4ac",
+			"type":"text",
+			"text":"非恶性细胞组成",
+			"styleAttributes":{"shape":"database"},
+			"x":485,
+			"y":-1417,
+			"width":130,
+			"height":75
 		}
 	],
 	"edges":[
@@ -328,6 +358,33 @@
 			"fromSide":"right",
 			"toNode":"838cba5c4b540193",
 			"toSide":"left"
+		},
+		{
+			"id":"11d276d427549170",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"90442d163740f1bd",
+			"fromSide":"bottom",
+			"toNode":"df541ab23daca1f8",
+			"toSide":"top"
+		},
+		{
+			"id":"bc0470f547075698",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"1a88b537541543b2",
+			"fromSide":"bottom",
+			"toNode":"873217f7d404a0b9",
+			"toSide":"top"
+		},
+		{
+			"id":"7dd18d16ac8c49da",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"b767c4c080e9b571",
+			"fromSide":"bottom",
+			"toNode":"176563061247e4ac",
+			"toSide":"top"
 		}
 	]
 }
