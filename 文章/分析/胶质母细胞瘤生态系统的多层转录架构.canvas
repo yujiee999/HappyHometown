@@ -5,6 +5,7 @@
 	},
 	"nodes":[
 		{"id":"3a3a2400d949be3a","type":"group","x":-780,"y":-780,"width":1340,"height":660,"color":"1","label":"基础信息"},
+		{"id":"da9e2a0cb9708c45","type":"group","x":-680,"y":-1240,"width":316,"height":260,"label":"未命名组"},
 		{"id":"0e908d76c50de452","type":"file","file":"文章/分析/assets/胶质母细胞瘤生态系统的多层转录架构/file-20260128144943528.png","x":-760,"y":-620,"width":374,"height":60},
 		{"id":"bc0a6770588b1873","type":"file","file":"文章/分析/assets/胶质母细胞瘤生态系统的多层转录架构/file-20260128144013519.png","x":-760,"y":-752,"width":418,"height":112},
 		{"id":"edbaebd51a8d4556","type":"file","file":"文章/分析/assets/胶质母细胞瘤生态系统的多层转录架构/file-20260128144912080.png","x":-360,"y":-630,"width":218,"height":80},
@@ -27,7 +28,130 @@
 			"y":-752,
 			"width":620,
 			"height":612
+		},
+		{
+			"id":"778398d4f2ccb996",
+			"type":"text",
+			"text":"社区",
+			"styleAttributes":{},
+			"x":-220,
+			"y":-1220,
+			"width":100,
+			"height":60
+		},
+		{
+			"id":"5acfc5ea3b9dbd90",
+			"type":"text",
+			"text":"经济萧条背景",
+			"styleAttributes":{},
+			"x":-220,
+			"y":-1120,
+			"width":260,
+			"height":60,
+			"color":"5"
+		},
+		{
+			"id":"cce8384628aef776",
+			"type":"text",
+			"text":"经济稳定背景",
+			"styleAttributes":{},
+			"x":-240,
+			"y":-1000,
+			"width":260,
+			"height":60,
+			"color":"2"
+		},
+		{
+			"id":"231f586708edaa79",
+			"type":"text",
+			"text":"",
+			"styleAttributes":{"shape":"circle"},
+			"x":-699,
+			"y":-1310,
+			"width":361,
+			"height":380
+		},
+		{
+			"id":"6a85b5fe7d2a7348",
+			"type":"text",
+			"text":"金融家\n",
+			"styleAttributes":{"shape":"diamond"},
+			"x":-509,
+			"y":-1080,
+			"width":90,
+			"height":70,
+			"color":"2"
+		},
+		{
+			"id":"bdd87a0ba50e51dc",
+			"type":"text",
+			"text":"金融家\n",
+			"styleAttributes":{"shape":"diamond"},
+			"x":-466,
+			"y":-1150,
+			"width":90,
+			"height":70,
+			"color":"5"
+		},
+		{
+			"id":"53eebbe871aa24d2",
+			"type":"text",
+			"text":"金融家\n",
+			"styleAttributes":{"shape":"diamond"},
+			"x":-607,
+			"y":-1080,
+			"width":90,
+			"height":70,
+			"color":"2"
+		},
+		{
+			"id":"c5a698e754047238",
+			"type":"text",
+			"text":"建筑工",
+			"styleAttributes":{"shape":"parallelogram"},
+			"x":-565,
+			"y":-1230,
+			"width":120,
+			"height":60
+		},
+		{
+			"id":"a50902122bc030bc",
+			"type":"text",
+			"text":"建筑工",
+			"styleAttributes":{"shape":"parallelogram"},
+			"x":-652,
+			"y":-1185,
+			"width":118,
+			"height":60
 		}
 	],
-	"edges":[]
+	"edges":[
+		{
+			"id":"b04bfd2fbfdd45cc",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"231f586708edaa79",
+			"fromSide":"right",
+			"toNode":"778398d4f2ccb996",
+			"toSide":"left"
+		},
+		{
+			"id":"f9e2a738d27a7f73",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"bdd87a0ba50e51dc",
+			"fromSide":"right",
+			"toNode":"5acfc5ea3b9dbd90",
+			"toSide":"left"
+		},
+		{
+			"id":"393a3a6fb153ca30",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"53eebbe871aa24d2",
+			"fromSide":"right",
+			"toNode":"cce8384628aef776",
+			"toSide":"left"
+		}
+	]
 }
