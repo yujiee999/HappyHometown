@@ -6,7 +6,7 @@
 	"nodes":[
 		{"id":"f5522d78ffe565b1","type":"group","x":-855,"y":-1560,"width":1490,"height":740,"color":"1","label":"生态系统不仅仅是生物的叠加，更是生物与环境的深度整合"},
 		{"id":"3a3a2400d949be3a","type":"group","x":-855,"y":-780,"width":1490,"height":680,"color":"1","label":"基础信息"},
-		{"id":"7f5926fc634571dc","type":"group","x":-680,"y":80,"width":811,"height":1129,"label":"Fig. 2: Revisiting malignant state heterogeneity."},
+		{"id":"7f5926fc634571dc","type":"group","x":-680,"y":80,"width":811,"height":1129,"color":"2","label":"Fig. 2: Revisiting malignant state heterogeneity."},
 		{"id":"bc0a6770588b1873","type":"file","file":"文章/分析/assets/胶质母细胞瘤生态系统的多层转录架构/file-20260128144013519.png","x":-760,"y":-752,"width":418,"height":112},
 		{"id":"edbaebd51a8d4556","type":"file","file":"文章/分析/assets/胶质母细胞瘤生态系统的多层转录架构/file-20260128144912080.png","x":-360,"y":-630,"width":218,"height":80},
 		{
@@ -388,6 +388,20 @@
 			"fromNode":"b767c4c080e9b571",
 			"fromSide":"bottom",
 			"toNode":"176563061247e4ac",
+			"toSide":"top"
+		},
+		{
+			"id":"b541597cfb224905",
+			"styleAttributes":{
+				"arrow":null,
+				"path":null,
+				"pathfindingMethod":null
+			},
+			"toFloating":false,
+			"fromFloating":false,
+			"fromNode":"3a3a2400d949be3a",
+			"fromSide":"bottom",
+			"toNode":"7f5926fc634571dc",
 			"toSide":"top"
 		}
 	]
