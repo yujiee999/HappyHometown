@@ -29,6 +29,19 @@
 			"width":620,
 			"height":200,
 			"color":"3"
+		},
+		{
+			"id":"848e24e2a1b6babc",
+			"type":"text",
+			"text":"**核心TF-Pathway-Gene**\n\n| Organ | CellType | TF  | Pathway | Gene | ... |\n| ----- | -------- | --- | ------- | ---- | --- |\n| ...   |          |     |         |      |     |\n",
+			"styleAttributes":{
+				"border":null
+			},
+			"x":-730,
+			"y":30,
+			"width":620,
+			"height":200,
+			"color":"4"
 		}
 	],
 	"edges":[]
