@@ -17,8 +17,7 @@
 			"color":"6"
 		},
 		{"id":"fef2242a942433c8","type":"file","file":"文章/Flash/assets/TF-pathway-Gene/file-20260130173421541.png","x":-1465,"y":1980,"width":1450,"height":878},
-		{"id":"c3c364762dc5494a","type":"group","collapsed":true,"x":-3480,"y":1960,"width":1971,"height":1140,"color":"6","label":"MAPK_SIGNALING_PATHWAY"},
-		{"id":"fcb5c685044c629d","type":"file","file":"文章/Flash/assets/TF-pathway-Gene/file-20260130163846875.png","x":-3451,"y":1980,"width":1931,"height":600},
+		{"id":"c3c364762dc5494a","type":"group","x":-3480,"y":1960,"width":1971,"height":1140,"color":"6","label":"MAPK_SIGNALING_PATHWAY"},
 		{
 			"id":"42632486d938ea31",
 			"type":"text",
@@ -94,7 +93,8 @@
 			"height":220,
 			"color":"1"
 		},
-		{"id":"4a353d122d9dceba","type":"file","file":"文章/Flash/assets/TF-pathway-Gene/file-20260130172959931.png","x":-3483,"y":840,"width":2983,"height":1050,"color":"6"}
+		{"id":"4a353d122d9dceba","type":"file","file":"文章/Flash/assets/TF-pathway-Gene/file-20260130172959931.png","x":-3483,"y":840,"width":2983,"height":1050,"color":"6"},
+		{"id":"fcb5c685044c629d","type":"file","file":"文章/Flash/assets/TF-pathway-Gene/file-20260130163846875.png","x":-3451,"y":1980,"width":1931,"height":600}
 	],
 	"edges":[
 		{
