@@ -80,7 +80,17 @@
 			"width":1931,
 			"height":440
 		},
-		{"id":"fcb5c685044c629d","type":"file","file":"文章/Flash/assets/TF-pathway-Gene/file-20260130163846875.png","x":-3771,"y":1220,"width":1931,"height":600}
+		{"id":"fcb5c685044c629d","type":"file","file":"文章/Flash/assets/TF-pathway-Gene/file-20260130163846875.png","x":-3771,"y":1220,"width":1931,"height":600},
+		{
+			"id":"f32ec2ab4a45abb9",
+			"type":"text",
+			"text":"| 转录因子 (TF)   | 关键靶基因 (Targets)           | 生物学功能与意义                                                                                    | 典型参考文献 (真实可靠)                                                                            |\n| ----------- | ------------------------- | ------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------- |\n| SPI1 (PU.1) | CD1C, CSF1R, CD33, ITGAM  | 谱系决定失效：SPI1 是 DC 发育的“主开关”。其靶基因 CD1C（身份标志）和 CSF1R（存活受体）的下调，意味着细胞正在丢失其髓系/DC 的基本属性。            | Carotta et al., *Immunity* (2010); Nutt et al., *Nat Rev Immunol* (2005)                 |\n| REL / RELB  | FLT3, IL7R, CD44, ITGA4   | 成熟与存活障碍：NF-κB 成员 REL 负责驱动 FLT3（DC 发育命脉）。该轴下调导致 cDC2 对发育信号失去响应，使其维持在未成熟或耐受状态。                | Wu & Ritz, *Blood* (2001); O'Keeffe et al., *Nature Immunology* (2002)                   |\n| ETS2 / ETV5 | CD1C, CD33, ITGAM (CD11b) | 末端分化受阻：ETS 家族成员负责调节髓系细胞的终末成熟。这些基因下调表明细胞在进入转移灶后，成熟程序被强行阻断。                                   | Smith et al., *J. Biol. Chem.* (1994); Polli et al., *Front. Immunol.* (2020)            |\n| JUNB        | CD1D, CD44, CSF3R         | 激活信号缺失：JUNB 调节免疫细胞的应激与激活。其靶基因 CD1D 负责递呈脂质抗原，下调意味着抗原递呈谱系的进一步收缩。                              | Fonti et al., *Nature Communications* (2019); Meixner et al., *Nature Immunology* (2004) |\n| GFI1        | CD3E, CD8A, CD2           | 谱系偏向错误：GFI1 通常通过抑制淋巴系基因来维持髓系身份。这些基因出现在下调列表，暗示 cDC2 内发生了极其复杂的转录混乱（Transcriptional Rewiring）。 | Hock et al., *Immunity* (2003); van der Meer et al., *J. Biol. Chem.* (2010)             |\n",
+			"styleAttributes":{},
+			"x":-1090,
+			"y":1200,
+			"width":1530,
+			"height":1140
+		}
 	],
 	"edges":[
 		{
