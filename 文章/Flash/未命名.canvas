@@ -7,12 +7,28 @@
 		{
 			"id":"b4f6a4cb861a4d21",
 			"type":"text",
-			"text":"TF 活性\n\n| Organ | CellType | TF  | Targets | ... |\n| ----- | -------- | --- | ------- | --- |\n| ...   |          |     |         |     |\n",
-			"styleAttributes":{"border":"invisible"},
-			"x":-440,
+			"text":"**TF 活性差异**\n\n| Organ | CellType | TF  | Targets | ... |\n| ----- | -------- | --- | ------- | --- |\n| ...   |          |     |         |     |\n",
+			"styleAttributes":{
+				"border":null
+			},
+			"x":-380,
 			"y":-380,
 			"width":540,
-			"height":320
+			"height":200,
+			"color":"3"
+		},
+		{
+			"id":"f1772bfc7465caf4",
+			"type":"text",
+			"text":"**GESA 通路**\n\n| Organ | CellType | Pathway | LeadingEdges | ... |\n| ----- | -------- | ------- | ------------ | --- |\n| ...   |          |         |              |     |\n",
+			"styleAttributes":{
+				"border":null
+			},
+			"x":-1120,
+			"y":-380,
+			"width":620,
+			"height":200,
+			"color":"3"
 		}
 	],
 	"edges":[]
