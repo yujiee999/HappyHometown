@@ -71,7 +71,6 @@
 			"height":220,
 			"color":"1"
 		},
-		{"id":"4a353d122d9dceba","type":"file","file":"文章/Flash/assets/TF-pathway-Gene/file-20260130172959931.png","x":-3483,"y":840,"width":3043,"height":1071,"color":"6"},
 		{"id":"fcb5c685044c629d","type":"file","file":"文章/Flash/assets/TF-pathway-Gene/file-20260130163846875.png","x":-3451,"y":1980,"width":1931,"height":600},
 		{
 			"id":"42632486d938ea31",
@@ -94,7 +93,8 @@
 			"width":1450,
 			"height":500,
 			"color":"6"
-		}
+		},
+		{"id":"731a2b86a5c40298","type":"file","file":"文章/Flash/assets/TF-pathway-Gene/file-20260131004345047.png","x":-3491,"y":840,"width":4175,"height":1040,"color":"6"}
 	],
 	"edges":[
 		{
@@ -140,12 +140,12 @@
 			"label":"相同器官分组"
 		},
 		{
-			"id":"9e18527c17a725b5",
+			"id":"492ceff25214f078",
 			"styleAttributes":{},
 			"toFloating":false,
 			"fromNode":"68b902b8d007c09c",
 			"fromSide":"bottom",
-			"toNode":"4a353d122d9dceba",
+			"toNode":"731a2b86a5c40298",
 			"toSide":"top"
 		}
 	]
