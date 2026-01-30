@@ -7,19 +7,6 @@
 		{"id":"e53c0dc96af59d3c","type":"group","x":-1480,"y":1960,"width":2320,"height":1480,"color":"6","label":"KEGG_HEMATOPOIETIC_CELL_LINEAGE"},
 		{"id":"c3c364762dc5494a","type":"group","x":-3480,"y":1960,"width":1971,"height":1140,"color":"6","label":"MAPK_SIGNALING_PATHWAY"},
 		{
-			"id":"b4f6a4cb861a4d21",
-			"type":"text",
-			"text":"**TF 活性差异**\n\n| Organ | CellType | TF  | Targets | ... |\n| ----- | -------- | --- | ------- | --- |\n| ...   |          |     |         |     |\n",
-			"styleAttributes":{
-				"border":null
-			},
-			"x":-380,
-			"y":-380,
-			"width":540,
-			"height":200,
-			"color":"3"
-		},
-		{
 			"id":"f1772bfc7465caf4",
 			"type":"text",
 			"text":"**GESA 通路**\n\n| Organ | CellType | Pathway | LeadingEdges | ... |\n| ----- | -------- | ------- | ------------ | --- |\n| ...   |          |         |              |     |\n",
@@ -33,19 +20,6 @@
 			"color":"3"
 		},
 		{
-			"id":"848e24e2a1b6babc",
-			"type":"text",
-			"text":"**核心TF-Pathway-Gene**\n\n| Organ | CellType | TF  | Pathway | Gene | ... |\n| ----- | -------- | --- | ------- | ---- | --- |\n| ...   |          |     |         |      |     |\n",
-			"styleAttributes":{
-				"border":null
-			},
-			"x":-760,
-			"y":160,
-			"width":620,
-			"height":200,
-			"color":"4"
-		},
-		{
 			"id":"68b902b8d007c09c",
 			"type":"text",
 			"text":"**跨器官保守TF-Pathway-Gene**\n\n| CellType | TF  | Pathway | Gene | Organ_list | ... |\n| -------- | --- | ------- | ---- | ---------- | --- |\n| ．．．      |     |         |      |            |     |\n",
@@ -53,19 +27,6 @@
 				"border":null
 			},
 			"x":-1200,
-			"y":500,
-			"width":700,
-			"height":220,
-			"color":"1"
-		},
-		{
-			"id":"b1cd2433a7408bcb",
-			"type":"text",
-			"text":"**跨细胞类型保守TF-Pathway-Gene**\n\n| Ｏrgan | TF  | Pathway | Gene | CellType_list | ... |\n| ----- | --- | ------- | ---- | ------------- | --- |\n| ．．．   |     |         |      |               |     |\n",
-			"styleAttributes":{
-				"border":null
-			},
-			"x":-340,
 			"y":500,
 			"width":700,
 			"height":220,
@@ -104,6 +65,45 @@
 			"y":1980,
 			"width":800,
 			"height":1420
+		},
+		{
+			"id":"b4f6a4cb861a4d21",
+			"type":"text",
+			"text":"**TF 活性差异**\n\n| Organ | CellType | TF  | Targets | ... |\n| ----- | -------- | --- | ------- | --- |\n| ...   |          |     |         |     |\n",
+			"styleAttributes":{
+				"border":null
+			},
+			"x":-380,
+			"y":-380,
+			"width":540,
+			"height":200,
+			"color":"3"
+		},
+		{
+			"id":"848e24e2a1b6babc",
+			"type":"text",
+			"text":"**核心TF-Pathway-Gene**\n\n| Organ | CellType | TF  | Pathway | Gene | ... |\n| ----- | -------- | --- | ------- | ---- | --- |\n| ...   |          |     |         |      |     |\n",
+			"styleAttributes":{
+				"border":null
+			},
+			"x":-760,
+			"y":160,
+			"width":620,
+			"height":200,
+			"color":"4"
+		},
+		{
+			"id":"b1cd2433a7408bcb",
+			"type":"text",
+			"text":"**跨细胞类型保守TF-Pathway-Gene**\n\n| Ｏrgan | TF  | Pathway | Gene | CellType_list | ... |\n| ----- | --- | ------- | ---- | ------------- | --- |\n| ．．．   |     |         |      |               |     |\n",
+			"styleAttributes":{
+				"border":null
+			},
+			"x":-340,
+			"y":500,
+			"width":700,
+			"height":220,
+			"color":"1"
 		}
 	],
 	"edges":[
