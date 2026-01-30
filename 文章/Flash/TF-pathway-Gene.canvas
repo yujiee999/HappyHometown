@@ -38,7 +38,7 @@
 				"border":null
 			},
 			"x":-730,
-			"y":200,
+			"y":160,
 			"width":620,
 			"height":200,
 			"color":"4"
@@ -53,7 +53,7 @@
 			"fromSide":"bottom",
 			"toNode":"848e24e2a1b6babc",
 			"toSide":"top",
-			"label":"①筛显著通路并提取 driver genes"
+			"label":"①筛显著通路并提取\n driver genes"
 		},
 		{
 			"id":"302c6fea2d9c05b2",
@@ -64,7 +64,7 @@
 			"fromSide":"bottom",
 			"toNode":"848e24e2a1b6babc",
 			"toSide":"top",
-			"label":"②筛显著TF并提取相应方向的靶基因"
+			"label":"②筛显著TF并提取相应方向的靶基因\n③超几何检验计算基因的Overlap"
 		}
 	]
 }
