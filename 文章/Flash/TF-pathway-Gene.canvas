@@ -68,6 +68,16 @@
 			"width":700,
 			"height":220,
 			"color":"1"
+		},
+		{
+			"id":"0daab52a100ab35c",
+			"type":"text",
+			"text":"负责的 TF,关键靶基因 (Genes),生物学功能与意义\r\n\"KLF6, JUND, FOS\",\"BRAF, MAP2K1 (MEK1), KRAS, RRAS, SOS1\",信号自维持： 这些是 MAPK 级联的上游核心。通过表达这些基因，巨噬细胞增强了对外界生长因子的敏感性，形成了正反馈环路。\r\n\"STAT1, KLF6\",\"RAC1, RAC2, PAK1, PAK2\",细胞骨架重塑： 这一组基因连接了 MAPK 与细胞运动。PAK1/2 是乳腺癌转移中的“帮凶”，直接介导巨噬细胞的迁移和对肿瘤边缘的浸润。",
+			"styleAttributes":{},
+			"x":-540,
+			"y":880,
+			"width":500,
+			"height":380
 		}
 	],
 	"edges":[
