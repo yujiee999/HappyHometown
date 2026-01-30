@@ -1,0 +1,19 @@
+{
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{}
+	},
+	"nodes":[
+		{
+			"id":"b4f6a4cb861a4d21",
+			"type":"text",
+			"text":"TF 活性\n\n| Organ | CellType | TF  | Targets | ... |\n| ----- | -------- | --- | ------- | --- |\n| ...   |          |     |         |     |\n",
+			"styleAttributes":{"border":"invisible"},
+			"x":-440,
+			"y":-380,
+			"width":540,
+			"height":320
+		}
+	],
+	"edges":[]
+}
