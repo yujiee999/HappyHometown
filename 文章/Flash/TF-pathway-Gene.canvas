@@ -4,6 +4,7 @@
 		"frontmatter":{}
 	},
 	"nodes":[
+		{"id":"c3c364762dc5494a","type":"group","x":-3800,"y":1200,"width":1971,"height":1140,"color":"6","label":"MAPK_SIGNALING_PATHWAY"},
 		{
 			"id":"b4f6a4cb861a4d21",
 			"type":"text",
@@ -69,7 +70,17 @@
 			"height":220,
 			"color":"1"
 		},
-		{"id":"fcb5c685044c629d","type":"file","file":"文章/Flash/assets/TF-pathway-Gene/file-20260130163846875.png","x":-2240,"y":900,"width":1931,"height":600}
+		{
+			"id":"42632486d938ea31",
+			"type":"text",
+			"text":"| 转录因子 (TF)         | 关键靶基因 (Targets)      | 生物学功能与意义                                                                        | 典型参考文献                                                                       |\n| ----------------- | -------------------- | ------------------------------------------------------------------------------- | ---------------------------------------------------------------------------- |\n| KLF6              | MYC, PDGFB, DUSP1    | 代谢与血管生成：KLF6 结合 MYC 启动子驱动其表达，调节巨噬细胞代谢适应；同时诱导 PDGFB 分泌，促进转移灶微血管周细胞招募。            | Slavin et al., *Hepatology* (2014); Villarreal et al., *JBC* (2010)          |\n| JUN / FOS (AP-1)  | DUSP1, DUSP6, HSPA1A | 信号调控与生存：通过 DUSP 家族介导 MAPK 通路的负反馈调节，防止应激导致的凋亡；HSPA1A（Hsp70）帮助细胞在异位器官的蛋白毒性应激下存活。  | Wang et al., *Nature Communications* (2020); Jolly & Morimoto, *JNCI* (2000) |\n| STAT1 / JUN       | TGFB1, FAS           | 免疫抑制与逃逸：STAT1 与 AP-1 协同调控 TGFB1 转录。分泌的 TGF-β1 诱导肿瘤细胞 EMT 并抑制周围 T 细胞活性，构建免疫抑制屏障。 | Batlle & Massagué, *Immunity* (2019); Kim et al., *J. Immunol* (2005)        |\n| JUN / FOS / STAT1 | PAK1, RAC1, MAP2K1   | 浸润与信号扩增：PAK1 调节细胞骨架，增强巨噬细胞对转移灶基质的穿透能力；同时作为支架蛋白进一步增强 MAPK/ERK 级联信号。              | Shrestha et al., *Med. Oncol.* (2012); Yeo et al., *PNAS* (2014)             |\n| JUND / FOS        | NR4A1, GADD45B       | 极化维持与修复：NR4A1 (Nur77) 是调节 M2 样巨噬细胞稳态的关键，GADD45B 参与 DNA 损伤修复，确保免疫细胞在化疗或氧化应激下不死亡。 | Hanna et al., *Nature Medicine* (2011); Gupta et al., *Oncogene* (2006)      |\n",
+			"styleAttributes":{},
+			"x":-3771,
+			"y":1860,
+			"width":1931,
+			"height":440
+		},
+		{"id":"fcb5c685044c629d","type":"file","file":"文章/Flash/assets/TF-pathway-Gene/file-20260130163846875.png","x":-3771,"y":1220,"width":1931,"height":600}
 	],
 	"edges":[
 		{
