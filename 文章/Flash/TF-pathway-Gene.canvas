@@ -38,11 +38,31 @@
 				"border":null
 			},
 			"x":-730,
-			"y":30,
+			"y":200,
 			"width":620,
 			"height":200,
 			"color":"4"
 		}
 	],
-	"edges":[]
+	"edges":[
+		{
+			"id":"2fe2320bfbb69cb1",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"f1772bfc7465caf4",
+			"fromSide":"bottom",
+			"toNode":"848e24e2a1b6babc",
+			"toSide":"top",
+			"label":"①筛显著通路并提取 driver genes"
+		},
+		{
+			"id":"302c6fea2d9c05b2",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"b4f6a4cb861a4d21",
+			"fromSide":"bottom",
+			"toNode":"848e24e2a1b6babc",
+			"toSide":"top"
+		}
+	]
 }
