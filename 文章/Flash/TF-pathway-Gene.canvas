@@ -59,10 +59,12 @@
 			"id":"302c6fea2d9c05b2",
 			"styleAttributes":{},
 			"toFloating":false,
+			"fromFloating":false,
 			"fromNode":"b4f6a4cb861a4d21",
 			"fromSide":"bottom",
 			"toNode":"848e24e2a1b6babc",
-			"toSide":"top"
+			"toSide":"top",
+			"label":"②筛显著TF并提取相应方向的靶基因"
 		}
 	]
 }
