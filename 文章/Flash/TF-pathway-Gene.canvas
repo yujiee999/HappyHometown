@@ -4,8 +4,8 @@
 		"frontmatter":{}
 	},
 	"nodes":[
+		{"id":"e53c0dc96af59d3c","type":"group","x":-1480,"y":1960,"width":2320,"height":1480,"color":"6","label":"KEGG_HEMATOPOIETIC_CELL_LINEAGE"},
 		{"id":"c3c364762dc5494a","type":"group","x":-3480,"y":1960,"width":1971,"height":1140,"color":"6","label":"MAPK_SIGNALING_PATHWAY"},
-		{"id":"e53c0dc96af59d3c","type":"group","x":-1480,"y":1960,"width":1490,"height":1480,"color":"6","label":"KEGG_HEMATOPOIETIC_CELL_LINEAGE"},
 		{
 			"id":"b4f6a4cb861a4d21",
 			"type":"text",
@@ -94,7 +94,17 @@
 			"height":500,
 			"color":"6"
 		},
-		{"id":"731a2b86a5c40298","type":"file","file":"文章/Flash/assets/TF-pathway-Gene/file-20260131004345047.png","x":-3491,"y":840,"width":4175,"height":1040,"color":"6"}
+		{"id":"731a2b86a5c40298","type":"file","file":"文章/Flash/assets/TF-pathway-Gene/file-20260131004345047.png","x":-3491,"y":840,"width":4175,"height":1040,"color":"6"},
+		{
+			"id":"9df9938993b22ff3",
+			"type":"text",
+			"text":"| 转录因子 (TF)    | 关键靶基因 (Targets)           | 生物学功能与意义                                                           | 参考文献                                                                           |\n| ------------ | ------------------------- | ------------------------------------------------------------------ | ------------------------------------------------------------------------------ |\n| EOMES        | PRF1, KLRK1, ZAP70, CD247 | 细胞毒性丧失：EOMES 是杀伤性功能的关键因子。其靶基因 PRF1（穿孔素）下调直接切断了肥大细胞对肿瘤的直接杀伤手段。      | Pearce et al., *Science* (2003); Gill et al., *Nature Immunology* (2012)       |\n| ETS1         | IL7R, LCK, CD3E, ZAP70    | 感知与激活抑制：ETS1 调节免疫细胞早期激活。该轴下调意味着细胞丧失了响应微环境信号的“敏感度”，处于免疫惰性状态。        | Garrett-Sinha, *Semin Cancer Biol* (2013); Grenningloh et al., *JBC* (2005)    |\n| IRF1 / STAT1 | FLT3, CSF1R, CD4, ITGAM   | 发育信号阻断：本应介导 DC 成熟的轴受抑，导致 FLT3（DC 发育命脉）下调，解释了为何转移灶中 DC 亚群显著减少。      | Tamura et al., *Nat Rev Immunol* (2008); Gabrilovich, *Nat Rev Immunol* (2017) |\n| RXRA / CEBPD | CD14, CD33, CSF1R, IL1R1  | 分化程序扭曲：RXRA 参与代谢调控。该轴下调暗示 cDC2 经历代谢重塑，分化程序向耐受型表型（tDC）偏移，不再激活 T 细胞。 | Roszer et al., *Nature* (2011); Ruffell et al., *Cancer Cell* (2014)           |\n| NFATC2       | NFATC1, KLRK1, ITGAL      | 激活信号脱敏：NFAT 调控免疫激活。该轴下调提升了细胞对抗原刺激的反应阈值，使 DC 对肿瘤信号表现出“生理性麻木”。       | Mognol et al., *PNAS* (2016); Müller & Rao, *Nat Rev Immunol* (2010)           |\n",
+			"styleAttributes":{},
+			"x":40,
+			"y":1980,
+			"width":720,
+			"height":1420
+		}
 	],
 	"edges":[
 		{
