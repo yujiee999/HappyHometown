@@ -104,6 +104,16 @@
 			"width":700,
 			"height":220,
 			"color":"1"
+		},
+		{
+			"id":"15559e340a71849b",
+			"type":"text",
+			"text":"PDGFB-PDGFRB/A",
+			"styleAttributes":{},
+			"x":-3451,
+			"y":3180,
+			"width":260,
+			"height":60
 		}
 	],
 	"edges":[
