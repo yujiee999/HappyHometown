@@ -108,12 +108,12 @@
 		{
 			"id":"15559e340a71849b",
 			"type":"text",
-			"text":"PDGFB-PDGFRB/A",
+			"text":"PDGFB-PDGFRB/A\nTGFB1-TGFBR3",
 			"styleAttributes":{},
 			"x":-3451,
 			"y":3180,
-			"width":260,
-			"height":60
+			"width":531,
+			"height":180
 		}
 	],
 	"edges":[
