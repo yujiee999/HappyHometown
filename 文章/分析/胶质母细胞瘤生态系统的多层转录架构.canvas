@@ -8,17 +8,6 @@
 		{"id":"3a3a2400d949be3a","type":"group","x":-855,"y":-780,"width":1490,"height":680,"color":"1","label":"基础信息"},
 		{"id":"7f5926fc634571dc","type":"group","x":-680,"y":80,"width":811,"height":1129,"color":"2","label":"Fig. 2: Revisiting malignant state heterogeneity."},
 		{"id":"edbaebd51a8d4556","type":"file","file":"文章/分析/assets/胶质母细胞瘤生态系统的多层转录架构/file-20260128144912080.png","x":-360,"y":-630,"width":218,"height":80},
-		{"id":"0e908d76c50de452","type":"file","file":"文章/分析/assets/胶质母细胞瘤生态系统的多层转录架构/file-20260128144943528.png","x":-760,"y":-620,"width":374,"height":60},
-		{
-			"id":"286f49c91ef0c630",
-			"type":"text",
-			"text":"| **期刊/年份**    | _Nature Genetics_ / 2025                                                                                                                                   |\n| ------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------- |\n| **通讯作者**     | Itay Tirosh, Mario L. Suvà, Antonio Iavarone, Roel G.W. Verhaak, Anna Lasorella                                                                            |\n| **实验室/研究方向** | 魏茨曼科学研究所(以色列) / 哈佛医学院等；专注于单细胞基因组学、肿瘤进化与异质性。<br><br>                                                                                                        |\n| **代表性高分文章**： | _Science_ (2014, 2016), [胶质母细胞瘤细胞状态-可塑性和遗传学的整合模型](文章/分析/胶质母细胞瘤细胞状态-可塑性和遗传学的整合模型.canvas)_Cell_ (2019)], _Nature_ (2023, 2024), _Nature Genetics_ (2025)<br> |\n| **PMID**     | [40346361](https://www.nature.com/articles/s41588-025-02167-5)                                                                                             |",
-			"styleAttributes":{},
-			"x":-760,
-			"y":-550,
-			"width":660,
-			"height":410
-		},
 		{
 			"id":"b2585f42e70f60ce",
 			"type":"text",
@@ -48,26 +37,6 @@
 			"y":-1540,
 			"width":260,
 			"height":60
-		},
-		{
-			"id":"ce30c04cfb94eea9",
-			"type":"text",
-			"text":"病人之间的差异（肿瘤背景）",
-			"styleAttributes":{"textAlign":"center"},
-			"x":-275,
-			"y":-1000,
-			"width":340,
-			"height":60
-		},
-		{
-			"id":"f7b015d928c4d3eb",
-			"type":"text",
-			"text":"恶性细胞状态_11（50%）",
-			"styleAttributes":{"shape":"circle","textAlign":"center"},
-			"x":-231,
-			"y":-1410,
-			"width":260,
-			"height":90
 		},
 		{
 			"id":"873217f7d404a0b9",
@@ -101,6 +70,37 @@
 			"height":60,
 			"color":"2"
 		},
+		{"id":"0e908d76c50de452","type":"file","file":"文章/分析/assets/胶质母细胞瘤生态系统的多层转录架构/file-20260128144943528.png","x":-760,"y":-620,"width":374,"height":60},
+		{
+			"id":"286f49c91ef0c630",
+			"type":"text",
+			"text":"| **期刊/年份**    | _Nature Genetics_ / 2025                                                                                                                                   |\n| ------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------- |\n| **通讯作者**     | Itay Tirosh, Mario L. Suvà, Antonio Iavarone, Roel G.W. Verhaak, Anna Lasorella                                                                            |\n| **实验室/研究方向** | 魏茨曼科学研究所(以色列) / 哈佛医学院等；专注于单细胞基因组学、肿瘤进化与异质性。<br><br>                                                                                                        |\n| **代表性高分文章**： | _Science_ (2014, 2016), [胶质母细胞瘤细胞状态-可塑性和遗传学的整合模型](文章/分析/胶质母细胞瘤细胞状态-可塑性和遗传学的整合模型.canvas)_Cell_ (2019)], _Nature_ (2023, 2024), _Nature Genetics_ (2025)<br> |\n| **PMID**     | [40346361](https://www.nature.com/articles/s41588-025-02167-5)                                                                                             |",
+			"styleAttributes":{},
+			"x":-760,
+			"y":-550,
+			"width":660,
+			"height":410
+		},
+		{
+			"id":"ce30c04cfb94eea9",
+			"type":"text",
+			"text":"病人之间的差异（肿瘤背景）",
+			"styleAttributes":{"textAlign":"center"},
+			"x":-275,
+			"y":-1000,
+			"width":340,
+			"height":60
+		},
+		{
+			"id":"f7b015d928c4d3eb",
+			"type":"text",
+			"text":"恶性细胞状态_11（50%）",
+			"styleAttributes":{"shape":"circle","textAlign":"center"},
+			"x":-231,
+			"y":-1410,
+			"width":260,
+			"height":90
+		},
 		{
 			"id":"c4cde2bfc99cf5cb",
 			"type":"text",
@@ -121,30 +121,6 @@
 			"width":260,
 			"height":60
 		},
-		{"id":"b8e578ee832bb74d","type":"file","file":"文章/分析/assets/胶质母细胞瘤生态系统的多层转录架构/file-20260129100515466.png","x":-651,"y":100,"width":771,"height":492},
-		{"id":"5f65eeba910f787d","type":"file","file":"文章/分析/assets/胶质母细胞瘤生态系统的多层转录架构/file-20260129100547082.png","x":-651,"y":620,"width":771,"height":569},
-		{"id":"4f16374f99034c26","type":"file","file":"文章/分析/assets/胶质母细胞瘤生态系统的多层转录架构/file-20260129091639277.png","x":-1760,"y":80,"width":920,"height":779},
-		{
-			"id":"b767c4c080e9b571",
-			"type":"text",
-			"text":"Patient_3/Tumor3",
-			"styleAttributes":{},
-			"x":285,
-			"y":-1540,
-			"width":260,
-			"height":60
-		},
-		{
-			"id":"7d741eca4d03b2b4",
-			"type":"text",
-			"text":"恶性细胞状态_33",
-			"styleAttributes":{"shape":"pill","textAlign":"center"},
-			"x":355,
-			"y":-1230,
-			"width":260,
-			"height":60,
-			"color":"2"
-		},
 		{
 			"id":"9ed136e36d3b9e1e",
 			"type":"text",
@@ -152,36 +128,6 @@
 			"styleAttributes":{"shape":"diamond","textAlign":"center"},
 			"x":-145,
 			"y":-1320,
-			"width":260,
-			"height":60
-		},
-		{
-			"id":"90442d163740f1bd",
-			"type":"text",
-			"text":"Patient_2/Tumor2",
-			"styleAttributes":{},
-			"x":-95,
-			"y":-1540,
-			"width":260,
-			"height":60
-		},
-		{
-			"id":"416443fb6ecf4699",
-			"type":"text",
-			"text":"BP 程序 3",
-			"styleAttributes":{},
-			"x":145,
-			"y":-900,
-			"width":260,
-			"height":60
-		},
-		{
-			"id":"efee552b0d77bfef",
-			"type":"text",
-			"text":"BP 程序 2",
-			"styleAttributes":{},
-			"x":145,
-			"y":-980,
 			"width":260,
 			"height":60
 		},
@@ -214,6 +160,60 @@
 			"x":35,
 			"y":-1395,
 			"width":160,
+			"height":60
+		},
+		{"id":"b8e578ee832bb74d","type":"file","file":"文章/分析/assets/胶质母细胞瘤生态系统的多层转录架构/file-20260129100515466.png","x":-651,"y":100,"width":771,"height":492},
+		{"id":"5f65eeba910f787d","type":"file","file":"文章/分析/assets/胶质母细胞瘤生态系统的多层转录架构/file-20260129100547082.png","x":-651,"y":620,"width":771,"height":569},
+		{"id":"4f16374f99034c26","type":"file","file":"文章/分析/assets/胶质母细胞瘤生态系统的多层转录架构/file-20260129091639277.png","x":-1760,"y":80,"width":920,"height":779},
+		{
+			"id":"b767c4c080e9b571",
+			"type":"text",
+			"text":"Patient_3/Tumor3",
+			"styleAttributes":{},
+			"x":285,
+			"y":-1540,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"7d741eca4d03b2b4",
+			"type":"text",
+			"text":"恶性细胞状态_33",
+			"styleAttributes":{"shape":"pill","textAlign":"center"},
+			"x":355,
+			"y":-1230,
+			"width":260,
+			"height":60,
+			"color":"2"
+		},
+		{
+			"id":"90442d163740f1bd",
+			"type":"text",
+			"text":"Patient_2/Tumor2",
+			"styleAttributes":{},
+			"x":-95,
+			"y":-1540,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"416443fb6ecf4699",
+			"type":"text",
+			"text":"BP 程序 3",
+			"styleAttributes":{},
+			"x":145,
+			"y":-900,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"efee552b0d77bfef",
+			"type":"text",
+			"text":"BP 程序 2",
+			"styleAttributes":{},
+			"x":145,
+			"y":-980,
+			"width":260,
 			"height":60
 		},
 		{

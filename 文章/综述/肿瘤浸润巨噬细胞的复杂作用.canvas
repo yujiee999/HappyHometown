@@ -130,6 +130,7 @@
 			"color":"3"
 		},
 		{"id":"731e662fc9d2a3bc","type":"file","file":"文章/综述/assets/肿瘤浸润巨噬细胞的复杂作用/file-20260127205744137.png","x":1958,"y":-3180,"width":1864,"height":1570},
+		{"id":"6910f17864ff7fce","type":"text","text":"\n| **期刊/年份**    | _Nature Immunology_ / 2022年                                                                                                                                    |\n| ------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------- |\n| **通讯作者**     | Vassiliki A. Boussiotis (Harvard Medical School / BIDMC)                                                                                                       |\n| **实验室/研究方向** | Boussiotis实验室    <br>- Beth Israel Deaconess Medical Center, Division of Hematology-Oncology       <br>- 长期致力于T细胞共刺激/共抑制通路（尤其是PD-1）、骨髓类细胞免疫调节及肿瘤免疫微环境（TME）的研究。 |\n| **代表性高分文章**： | - _Nature_ (2017) - PD-1 expression by TAMs inhibits phagocytosis.<br>- _Science Immunology_ (2020) - Targeted deletion of PD-1 in myeloid cells.              |\n| **PMID**     | [35879449](https://pubmed.ncbi.nlm.nih.gov/35879449/ \"null\")                                                                                                   |\n\n","x":-1880,"y":-20,"width":677,"height":480},
 		{
 			"id":"ff3ccc6fd44f9776",
 			"type":"text",
@@ -141,7 +142,6 @@
 			"height":1400,
 			"color":"3"
 		},
-		{"id":"6910f17864ff7fce","type":"text","text":"\n| **期刊/年份**    | _Nature Immunology_ / 2022年                                                                                                                                    |\n| ------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------- |\n| **通讯作者**     | Vassiliki A. Boussiotis (Harvard Medical School / BIDMC)                                                                                                       |\n| **实验室/研究方向** | Boussiotis实验室    <br>- Beth Israel Deaconess Medical Center, Division of Hematology-Oncology       <br>- 长期致力于T细胞共刺激/共抑制通路（尤其是PD-1）、骨髓类细胞免疫调节及肿瘤免疫微环境（TME）的研究。 |\n| **代表性高分文章**： | - _Nature_ (2017) - PD-1 expression by TAMs inhibits phagocytosis.<br>- _Science Immunology_ (2020) - Targeted deletion of PD-1 in myeloid cells.              |\n| **PMID**     | [35879449](https://pubmed.ncbi.nlm.nih.gov/35879449/ \"null\")                                                                                                   |\n\n","x":-1880,"y":-20,"width":677,"height":480},
 		{"id":"eeaef7fbe0f7d4bd","type":"file","file":"文章/综述/assets/肿瘤浸润巨噬细胞的复杂作用/file-20260128111226470.png","x":1120,"y":-852,"width":1720,"height":1272},
 		{
 			"id":"96ff581dd109fe8f",
