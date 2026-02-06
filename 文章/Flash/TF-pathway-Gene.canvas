@@ -145,7 +145,18 @@
 		{"id":"1e2be6ac4fb75be4","type":"file","file":"文章/Flash/assets/TF-pathway-Gene/file-20260206133255513.png","x":-340,"y":2300,"width":400,"height":311},
 		{"id":"740d5ef1d7a199d3","type":"file","file":"文章/Flash/assets/TF-pathway-Gene/file-20260206133327653.png","x":78,"y":2299,"width":395,"height":311},
 		{"id":"eb2d5b2e50243966","type":"file","file":"文章/Flash/assets/TF-pathway-Gene/file-20260206142859289.png","x":100,"y":1580,"width":394,"height":309,"color":"1"},
-		{"id":"14b6b5b8ce991eea","type":"file","file":"文章/Flash/assets/TF-pathway-Gene/file-20260206142932566.png","x":920,"y":1943,"width":390,"height":308,"color":"1"}
+		{"id":"14b6b5b8ce991eea","type":"file","file":"文章/Flash/assets/TF-pathway-Gene/file-20260206142932566.png","x":920,"y":1943,"width":390,"height":308,"color":"1"},
+		{
+			"id":"eab88f36903e29bf",
+			"type":"text",
+			"text":"cDC1_CLEC9A：CoStimulation Up 36 / Down 5；IL12 Up 11 / Down 8；Brake Up 26 / Down 7\n\ncDC2_CD1C：CoStimulation Up 70 / Down 4；IL12 Up 3 / Down 8；Brake Up 81 / Down 60（双向都很多）\n\ncDCs_LAMP3：CoStimulation Up 47 / Down 3；IL12 Up 21 / Down 6；Brake Up 52 / Down 12\n\npDC：CoStimulation Up 46 / Down 8；IL12 Up 6 / Down 3；Brake Up 24 / Down 23（几乎对半）",
+			"styleAttributes":{},
+			"x":-520,
+			"y":2640,
+			"width":1840,
+			"height":240,
+			"color":"1"
+		}
 	],
 	"edges":[
 		{
