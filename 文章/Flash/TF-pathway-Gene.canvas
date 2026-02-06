@@ -151,10 +151,10 @@
 			"type":"text",
 			"text":"cDC1_CLEC9A：CoStimulation Up 36 / Down 5；IL12 Up 11 / Down 8；Brake Up 26 / Down 7\n\ncDC2_CD1C：CoStimulation Up 70 / Down 4；IL12 Up 3 / Down 8；Brake Up 81 / Down 60（双向都很多）\n\ncDCs_LAMP3：CoStimulation Up 47 / Down 3；IL12 Up 21 / Down 6；Brake Up 52 / Down 12\n\npDC：CoStimulation Up 46 / Down 8；IL12 Up 6 / Down 3；Brake Up 24 / Down 23（几乎对半）",
 			"styleAttributes":{},
-			"x":-520,
+			"x":500,
 			"y":2640,
-			"width":1840,
-			"height":240,
+			"width":820,
+			"height":400,
 			"color":"1"
 		}
 	],
