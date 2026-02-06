@@ -127,9 +127,10 @@
 			"width":560,
 			"height":100
 		},
-		{"id":"fb49389afb062c88","type":"file","file":"文章/Flash/assets/TF-pathway-Gene/file-20260206131131064.png","x":-1600,"y":1580,"width":400,"height":309},
-		{"id":"eca787b2e8f3d871","type":"file","file":"文章/Flash/assets/TF-pathway-Gene/file-20260206131228003.png","x":-1177,"y":1580,"width":397,"height":309},
-		{"id":"c32006045aa149de","type":"file","file":"文章/Flash/assets/TF-pathway-Gene/file-20260206131256105.png","x":-760,"y":1580,"width":394,"height":309}
+		{"id":"fb49389afb062c88","type":"file","file":"文章/Flash/assets/TF-pathway-Gene/file-20260206131131064.png","x":-1600,"y":1580,"width":400,"height":309,"color":"4"},
+		{"id":"eca787b2e8f3d871","type":"file","file":"文章/Flash/assets/TF-pathway-Gene/file-20260206131228003.png","x":-1177,"y":1580,"width":397,"height":309,"color":"4"},
+		{"id":"c32006045aa149de","type":"file","file":"文章/Flash/assets/TF-pathway-Gene/file-20260206131256105.png","x":-760,"y":1580,"width":394,"height":309,"color":"4"},
+		{"id":"0d8c43611af2b60f","type":"file","file":"文章/Flash/assets/TF-pathway-Gene/file-20260206131425851.png","x":-320,"y":1580,"width":398,"height":309,"color":"1"}
 	],
 	"edges":[
 		{
