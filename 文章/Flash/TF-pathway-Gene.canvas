@@ -126,12 +126,7 @@
 			"y":980,
 			"width":560,
 			"height":100
-		},
-		{"id":"f608d43b5da7ca15","type":"file","file":"文章/Flash/assets/TF-pathway-Gene/file-20260206100902150.png","x":-320,"y":1640,"width":586,"height":460},
-		{"id":"426d6b8a6ad6ec25","type":"file","file":"文章/Flash/assets/TF-pathway-Gene/file-20260206100826196.png","x":-960,"y":1640,"width":583,"height":460},
-		{"id":"4f5fae8f7e064bf1","type":"file","file":"文章/Flash/assets/TF-pathway-Gene/file-20260206100747437.png","x":-2200,"y":1640,"width":583,"height":460},
-		{"id":"33e80ab773519a73","type":"file","file":"文章/Flash/assets/TF-pathway-Gene/file-20260206100941782.png","x":-1580,"y":1640,"width":584,"height":460},
-		{"id":"2d5535317ffad380","type":"file","file":"文章/Flash/assets/TF-pathway-Gene/file-20260206101125356.png","x":-2200,"y":2140,"width":583,"height":457}
+		}
 	],
 	"edges":[
 		{
