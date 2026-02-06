@@ -133,7 +133,9 @@
 		{"id":"0d8c43611af2b60f","type":"file","file":"文章/Flash/assets/TF-pathway-Gene/file-20260206131425851.png","x":-320,"y":1580,"width":398,"height":309,"color":"1"},
 		{"id":"132f7c4fb334d324","type":"file","file":"文章/Flash/assets/TF-pathway-Gene/file-20260206131725727.png","x":-1180,"y":1940,"width":400,"height":313,"color":"4"},
 		{"id":"35620cbe219feb61","type":"file","file":"文章/Flash/assets/TF-pathway-Gene/file-20260206131812581.png","x":-1600,"y":1942,"width":400,"height":311,"color":"4"},
-		{"id":"f397c8e2e8c2b035","type":"file","file":"文章/Flash/assets/TF-pathway-Gene/file-20260206131920521.png","x":-760,"y":1942,"width":400,"height":313,"color":"4"}
+		{"id":"f397c8e2e8c2b035","type":"file","file":"文章/Flash/assets/TF-pathway-Gene/file-20260206131920521.png","x":-760,"y":1942,"width":400,"height":313,"color":"4"},
+		{"id":"6c8d9621a7061ae8","type":"file","file":"文章/Flash/assets/TF-pathway-Gene/file-20260206132228747.png","x":-340,"y":1943,"width":400,"height":309,"color":"4"},
+		{"id":"5415b2b2afc201aa","type":"file","file":"文章/Flash/assets/TF-pathway-Gene/file-20260206132314436.png","x":78,"y":1943,"width":397,"height":309,"color":"4"}
 	],
 	"edges":[
 		{
