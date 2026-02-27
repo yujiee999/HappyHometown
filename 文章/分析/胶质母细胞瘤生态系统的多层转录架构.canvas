@@ -10,10 +10,6 @@
 		{"id":"4f16374f99034c26","type":"file","file":"文章/分析/assets/胶质母细胞瘤生态系统的多层转录架构/file-20260129091639277.png","x":-1760,"y":80,"width":920,"height":779},
 		{"id":"5f65eeba910f787d","type":"file","file":"文章/分析/assets/胶质母细胞瘤生态系统的多层转录架构/file-20260129100547082.png","x":-771,"y":620,"width":771,"height":569},
 		{"id":"b8e578ee832bb74d","type":"file","file":"文章/分析/assets/胶质母细胞瘤生态系统的多层转录架构/file-20260129100515466.png","x":-771,"y":100,"width":771,"height":492},
-		{"id":"91c09b7cfee8ffda","type":"file","file":"文章/分析/assets/胶质母细胞瘤生态系统的多层转录架构/file-20260205105441960.png","x":20,"y":80,"width":1260,"height":1909},
-		{"id":"292b4b91f38eebff","type":"file","file":"文章/分析/assets/胶质母细胞瘤生态系统的多层转录架构/file-20260205130020220.png","x":1320,"y":80,"width":1600,"height":1912},
-		{"id":"fee8f4f268a5a066","type":"file","file":"文章/分析/assets/胶质母细胞瘤生态系统的多层转录架构/file-20260205130138343.png","x":2940,"y":80,"width":1060,"height":1905},
-		{"id":"466ab42387956e95","type":"file","file":"文章/分析/assets/胶质母细胞瘤生态系统的多层转录架构/file-20260205130221184.png","x":4040,"y":80,"width":1709,"height":1905},
 		{"id":"bc0a6770588b1873","type":"file","file":"文章/分析/assets/胶质母细胞瘤生态系统的多层转录架构/file-20260128144013519.png","x":575,"y":-1062,"width":418,"height":112},
 		{"id":"0e908d76c50de452","type":"file","file":"文章/分析/assets/胶质母细胞瘤生态系统的多层转录架构/file-20260128144943528.png","x":575,"y":-930,"width":374,"height":60},
 		{
@@ -37,6 +33,61 @@
 			"width":685,
 			"height":642
 		},
+		{"id":"91c09b7cfee8ffda","type":"file","file":"文章/分析/assets/胶质母细胞瘤生态系统的多层转录架构/file-20260205105441960.png","x":20,"y":80,"width":1260,"height":1909},
+		{"id":"292b4b91f38eebff","type":"file","file":"文章/分析/assets/胶质母细胞瘤生态系统的多层转录架构/file-20260205130020220.png","x":1320,"y":80,"width":1600,"height":1912},
+		{"id":"fee8f4f268a5a066","type":"file","file":"文章/分析/assets/胶质母细胞瘤生态系统的多层转录架构/file-20260205130138343.png","x":2940,"y":80,"width":1060,"height":1905},
+		{"id":"466ab42387956e95","type":"file","file":"文章/分析/assets/胶质母细胞瘤生态系统的多层转录架构/file-20260205130221184.png","x":4040,"y":80,"width":1709,"height":1905},
+		{
+			"id":"1a88b537541543b2",
+			"type":"text",
+			"text":"Patient_1/Tumor_1",
+			"styleAttributes":{},
+			"x":2540,
+			"y":-1090,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"b2585f42e70f60ce",
+			"type":"text",
+			"text":"恶性细胞状态_11（20%）",
+			"styleAttributes":{"shape":"circle","textAlign":"center"},
+			"x":2180,
+			"y":-960,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"657f7aef72221a22",
+			"type":"text",
+			"text":"恶性细胞状态_22",
+			"styleAttributes":{"shape":"diamond","textAlign":"center"},
+			"x":2220,
+			"y":-870,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"873217f7d404a0b9",
+			"type":"text",
+			"text":"非恶性细胞组成",
+			"styleAttributes":{"shape":"database"},
+			"x":2543,
+			"y":-870,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"de4f21d25f8df0db",
+			"type":"text",
+			"text":"恶性细胞状态_33",
+			"styleAttributes":{"shape":"pill","textAlign":"center"},
+			"x":2310,
+			"y":-780,
+			"width":260,
+			"height":60,
+			"color":"2"
+		},
 		{
 			"id":"ce30c04cfb94eea9",
 			"type":"text",
@@ -56,16 +107,6 @@
 			"y":-960,
 			"width":260,
 			"height":90
-		},
-		{
-			"id":"9ed136e36d3b9e1e",
-			"type":"text",
-			"text":"恶性细胞状态_22",
-			"styleAttributes":{"shape":"diamond","textAlign":"center"},
-			"x":2870,
-			"y":-870,
-			"width":260,
-			"height":60
 		},
 		{
 			"id":"30562f06f95aef43",
@@ -97,26 +138,6 @@
 			"width":260,
 			"height":60,
 			"color":"2"
-		},
-		{
-			"id":"df541ab23daca1f8",
-			"type":"text",
-			"text":"非恶性细胞组成",
-			"styleAttributes":{"shape":"database"},
-			"x":3050,
-			"y":-945,
-			"width":160,
-			"height":60
-		},
-		{
-			"id":"90442d163740f1bd",
-			"type":"text",
-			"text":"Patient_2/Tumor2",
-			"styleAttributes":{},
-			"x":2920,
-			"y":-1090,
-			"width":260,
-			"height":60
 		},
 		{
 			"id":"416443fb6ecf4699",
@@ -170,55 +191,34 @@
 			"height":75
 		},
 		{
-			"id":"1a88b537541543b2",
-			"type":"text",
-			"text":"Patient_1/Tumor_1",
-			"styleAttributes":{},
-			"x":2540,
-			"y":-1090,
-			"width":260,
-			"height":60
-		},
-		{
-			"id":"b2585f42e70f60ce",
-			"type":"text",
-			"text":"恶性细胞状态_11（20%）",
-			"styleAttributes":{"shape":"circle","textAlign":"center"},
-			"x":2180,
-			"y":-960,
-			"width":260,
-			"height":60
-		},
-		{
-			"id":"657f7aef72221a22",
+			"id":"9ed136e36d3b9e1e",
 			"type":"text",
 			"text":"恶性细胞状态_22",
 			"styleAttributes":{"shape":"diamond","textAlign":"center"},
-			"x":2220,
+			"x":2870,
 			"y":-870,
 			"width":260,
 			"height":60
 		},
 		{
-			"id":"873217f7d404a0b9",
+			"id":"df541ab23daca1f8",
 			"type":"text",
 			"text":"非恶性细胞组成",
 			"styleAttributes":{"shape":"database"},
-			"x":2543,
-			"y":-870,
-			"width":260,
+			"x":3050,
+			"y":-945,
+			"width":160,
 			"height":60
 		},
 		{
-			"id":"de4f21d25f8df0db",
+			"id":"90442d163740f1bd",
 			"type":"text",
-			"text":"恶性细胞状态_33",
-			"styleAttributes":{"shape":"pill","textAlign":"center"},
-			"x":2310,
-			"y":-780,
+			"text":"Patient_2/Tumor2",
+			"styleAttributes":{},
+			"x":2920,
+			"y":-1090,
 			"width":260,
-			"height":60,
-			"color":"2"
+			"height":60
 		}
 	],
 	"edges":[
