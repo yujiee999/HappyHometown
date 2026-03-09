@@ -242,7 +242,17 @@
 			"x":-1560,
 			"y":2300,
 			"width":3680,
-			"height":1980
+			"height":1780
+		},
+		{
+			"id":"6b1de5f46af81963",
+			"type":"text",
+			"text":"1.今天我要分享的文章是",
+			"styleAttributes":{},
+			"x":-1560,
+			"y":4240,
+			"width":3680,
+			"height":280
 		}
 	],
 	"edges":[
