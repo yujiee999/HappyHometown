@@ -4,7 +4,7 @@
 		"frontmatter":{}
 	},
 	"nodes":[
-		{"id":"e53c0dc96af59d3c","type":"group","x":-560,"y":2720,"width":2320,"height":1480,"color":"6","label":"KEGG_HEMATOPOIETIC_CELL_LINEAGE"},
+		{"id":"e53c0dc96af59d3c","type":"group","x":-560,"y":2720,"width":2320,"height":1680,"color":"6","label":"KEGG_HEMATOPOIETIC_CELL_LINEAGE"},
 		{"id":"c3c364762dc5494a","type":"group","x":-2720,"y":2720,"width":1971,"height":1140,"color":"6","label":"MAPK_SIGNALING_PATHWAY"},
 		{"id":"52e293c0a47ba8d3","type":"group","x":-1600,"y":760,"width":2620,"height":751,"color":"1","label":"跨器官保守统计"},
 		{
@@ -20,12 +20,12 @@
 		{
 			"id":"9ddc288571020d91",
 			"type":"text",
-			"text":"| 转录因子 (TF)   | 关键靶基因 (Targets)           | 生物学功能与意义                                                                         | 典型参考文献                                                                                   |\n| ----------- | ------------------------- | -------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------- |\n| SPI1 (PU.1) | CD1C, CSF1R, CD33, ITGAM  | 谱系决定失效：SPI1 是 DC 发育的“主开关”。其靶基因 CD1C（身份标志）和 CSF1R（存活受体）的下调，意味着细胞正在丢失其髓系/DC 的基本属性。 | Carotta et al., *Immunity* (2010); Nutt et al., *Nat Rev Immunol* (2005)                 |\n| REL / RELB  | FLT3, IL7R, CD44, ITGA4   | 成熟与存活障碍：NF-κB 成员 REL 负责驱动 FLT3（DC 发育命脉）。该轴下调导致 cDC2 对发育信号失去响应，使其维持在未成熟或耐受状态。     | Wu & Ritz, *Blood* (2001); O'Keeffe et al., *Nature Immunology* (2002)                   |\n| ETS2 / ETV5 | CD1C, CD33, ITGAM (CD11b) | 末端分化受阻：ETS 家族成员负责调节髓系细胞的终末成熟。这些基因下调表明细胞在进入转移灶后，成熟程序被强行阻断。                        | Smith et al., *J. Biol. Chem.* (1994); Polli et al., *Front. Immunol.* (2020)            |\n| JUNB        | CD1D, CD44, CSF3R         | 激活信号缺失：JUNB 调节免疫细胞的应激与激活。其靶基因 CD1D 负责递呈脂质抗原，下调意味着抗原递呈谱系的进一步收缩。                   | Fonti et al., *Nature Communications* (2019); Meixner et al., *Nature Immunology* (2004) |\n",
+			"text":"| 转录因子 (TF)   | 关键靶基因 (Targets)                              | 生物学功能与意义                                                                                                                                                                                        | 典型参考文献                                                                                                                                                  |\n| ----------- | -------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------- |\n| SPI1 (PU.1) | CD1C, CSF1R, CD33, ITGAM                     | **谱系决定失效：**SPI1 是 DC 发育的“主开关”。其靶基因 CD1C（身份标志）和 CSF1R（存活受体）的下调，意味着细胞正在丢失其髓系/DC 的基本属性。                                                                                                            | Carotta et al., *Immunity* (2010); Nutt et al., *Nat Rev Immunol* (2005)                                                                                |\n| REL / RELB  | FLT3, IL7R, CD44, ITGA4                      | **成熟与存活障碍：**NF-κB 成员 REL 负责驱动 FLT3（DC 发育命脉）。该轴下调导致 cDC2 对发育信号失去响应，使其维持在未成熟或耐受状态。                                                                                                                | Wu & Ritz, *Blood* (2001); O'Keeffe et al., *Nature Immunology* (2002)                                                                                  |\n| ETS2 / ETV5 | CD1C, CD33, ITGAM (CD11b)                    | **末端分化受阻：**ETS 家族成员负责调节髓系细胞的终末成熟。这些基因下调表明细胞在进入转移灶后，成熟程序被强行阻断。                                                                                                                                   | Smith et al., *J. Biol. Chem.* (1994); Polli et al., *Front. Immunol.* (2020)                                                                           |\n| JUNB        | CD1D, CD44, CSF3R                            | **激活信号缺失：**JUNB 调节免疫细胞的应激与激活。其靶基因 CD1D 负责递呈脂质抗原，下调意味着抗原递呈谱系的进一步收缩。                                                                                                                              | Fonti et al., *Nature Communications* (2019); Meixner et al., *Nature Immunology* (2004)                                                                |\n| CEBPD       | CD14, CD33, CD36, CSF1R, CSF3R, FCER2, IL1R1 | **髓系/造血谱系身份衰减：** CEBPD 是炎症与髓系分化相关 TF；其关联模块中 `CSF1R/CD33/CSF3R` 指向单核吞噬/髓系谱系背景，`CD14/IL1R1` 指向先天炎症感知，`CD36/FCER2` 指向摄取代谢及偏未成熟DC/单核样表型。该模块在转移 cDC2 中整体下调，提示残存 cDC2 正在失去部分正常髓系/APC 身份支架，而非维持稳态激活状态。 | Balamurugan et al., _Int J Biol Sci_ (2013); Combes et al., _Nat Immunol_ (2021); Pang et al., _Nat Immunol_ (2013); Na & Jung, _Trends Immunol_ (2023) |\n",
 			"styleAttributes":{},
 			"x":-545,
 			"y":3660,
 			"width":1450,
-			"height":500,
+			"height":700,
 			"color":"6"
 		},
 		{"id":"eb2d5b2e50243966","type":"file","file":"文章/Flash/assets/TF-pathway-Gene/file-20260206142859289.png","x":-1030,"y":4560,"width":394,"height":309,"color":"1"},
@@ -119,7 +119,7 @@
 			"x":940,
 			"y":2740,
 			"width":800,
-			"height":1420
+			"height":1620
 		},
 		{"id":"fb49389afb062c88","type":"file","file":"文章/Flash/assets/TF-pathway-Gene/file-20260206131131064.png","x":-2730,"y":4560,"width":400,"height":309,"color":"4"},
 		{"id":"eca787b2e8f3d871","type":"file","file":"文章/Flash/assets/TF-pathway-Gene/file-20260206131228003.png","x":-2307,"y":4560,"width":397,"height":309,"color":"4"},
