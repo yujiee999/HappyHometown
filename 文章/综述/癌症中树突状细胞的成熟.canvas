@@ -69,7 +69,8 @@
 			"width":2000,
 			"height":2260,
 			"color":"6"
-		}
+		},
+		{"id":"06fff7de7f2c12be","type":"file","file":"文章/综述/癌症中树突状细胞的成熟.md","x":-1320,"y":1120,"width":2550,"height":2600}
 	],
 	"edges":[]
 }

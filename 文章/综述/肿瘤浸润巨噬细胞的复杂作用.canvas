@@ -113,6 +113,16 @@
 			"color":"2"
 		},
 		{
+			"id":"2ae5d86bec9dde77",
+			"type":"text",
+			"text":"**5.癌症中的巨噬细胞多样性**\nTAM 在同一肿瘤内、不同肿瘤间都高度异质；传统 M1/M2 二分法已不够，但仍常被用作经验标记。更准确的理解是：TME 的营养/代谢物/氧梯度塑造 TAM 的免疫代谢状态（尤其脂质、ER stress、谷氨酰胺、乳酸等），进而决定其免抑或抗肿瘤功能；单细胞与空间技术正在把这种异质性系统化。\n\n过去把 TAM 简化成“偏 M2、远离 M1”的极简框架。\n**M1（经典促炎/杀肿瘤）常用标记：CD80、CD86、MHCII、iNOS、CD68；与吞噬肿瘤细胞、招募 T 细胞相关。**\n**M2（抗炎/免疫静息）常用标记：CD206、CD204、VEGF、CD163、Arg-1；与免抑和促肿瘤相关。**\n老框架曾强调代谢对应：M1 靠糖酵解，M2 靠脂肪酸氧化（FAO）。\n现在认为这个框架不够准确，但由于临床预后关联、历史经验丰富，很多研究仍会用这些 markers 当“操作性描述”。\n\n**A) 脂质组成 → ER stress → TAM 促肿瘤极化**\n肿瘤产生的 β-glucosylceramide 改变 ER 膜脂质组成 → 触发 IRE1 依赖的 ER stress。\nER stress 中 IRE1–XBP1 与 IRE1–STAT3 两条轴共同被激活 → 推动 TAM 促肿瘤极化 + 生存优势。\n干预这些轴（或维持 ER 膜脂质组成）→ 削弱 TAM 促肿瘤能力，抑制肿瘤进展。\n👉 关键点：脂质对 TAM 的影响不一定通过“供能”，而是通过“膜组成/应激信号/转录网络”。\n\n**B) 谷氨酰胺代谢：决定免抑 vs APC 功能**\n阻断谷氨酰胺代谢的小分子抑制剂，在乳腺癌小鼠模型中可通过：\n增强巨噬细胞活化\n抑制 MDSC 生成\n→ 降低肿瘤生长与转移。\n抑制 **谷氨酰胺合成酶（glutamine synthetase）甚至能把 TAM 转成效应型 APC**，产生更强抗肿瘤作用。\n多组学转录-代谢 profiling 指出：免抑 M2-like 状态依赖谷氨酰胺分解（catabolism），缺谷氨酰胺会让它“站不住”。\n机制层面：谷氨酰胺分解产生 αKG（α-ketoglutarate）对 M2-like activation 很重要；并且 αKG/琥珀酸（succinate）比值高更偏 M2，低更偏 M1。\n👉 关键点：TAM 的“免抑倾向”可以被代谢节点（谷氨酰胺–αKG–表观遗传）塑形。\n\n**C) 乳酸与 MHCII^lo / MHCII^hi TAM：代谢→功能→预后**\n不同 MHCII 水平的 TAM（MHCII^lo vs MHCII^hi）对应不同代谢特征与功能。\nMHCII^lo TAM 能利用 TME 中丰富的乳酸：\n支持氧化代谢\n增强精氨酸代谢\n增强对 T 细胞的抑制能力\n👉 关键点：同样是 TAM，亚群之间可能是“不同燃料 + 不同免疫功能”的组合。",
+			"styleAttributes":{},
+			"x":0,
+			"y":740,
+			"width":2340,
+			"height":1180
+		},
+		{
 			"id":"36b4e60cd1894624",
 			"type":"text",
 			"text":"==**CCL2/CXCL10是谁分泌的呢?**==\n- **肿瘤细胞**：发出“初级信号”（CCL2），吸引第一批单核细胞。\n    \n- **TREM1+ KC (主角)**：通过分泌 IL-6/TNF，把肝脏微环境搅乱，并**命令**周围的细胞开始干活。\n    \n- **肝星状细胞 & 内皮细胞 (协从)**：受 KC 的指令，分泌大量的 **CCL2 和 CXCL12**，造成 M-MDSC 的大规模涌入。",
@@ -133,16 +143,6 @@
 			"width":400,
 			"height":120,
 			"color":"4"
-		},
-		{
-			"id":"2ae5d86bec9dde77",
-			"type":"text",
-			"text":"**5.癌症中的巨噬细胞多样性**\nTAM 在同一肿瘤内、不同肿瘤间都高度异质；传统 M1/M2 二分法已不够，但仍常被用作经验标记。更准确的理解是：TME 的营养/代谢物/氧梯度塑造 TAM 的免疫代谢状态（尤其脂质、ER stress、谷氨酰胺、乳酸等），进而决定其免抑或抗肿瘤功能；单细胞与空间技术正在把这种异质性系统化。\n\n过去把 TAM 简化成“偏 M2、远离 M1”的极简框架。\n**M1（经典促炎/杀肿瘤）常用标记：CD80、CD86、MHCII、iNOS、CD68；与吞噬肿瘤细胞、招募 T 细胞相关。**\n**M2（抗炎/免疫静息）常用标记：CD206、CD204、VEGF、CD163、Arg-1；与免抑和促肿瘤相关。**\n老框架曾强调代谢对应：M1 靠糖酵解，M2 靠脂肪酸氧化（FAO）。\n现在认为这个框架不够准确，但由于临床预后关联、历史经验丰富，很多研究仍会用这些 markers 当“操作性描述”。\n\n**A) 脂质组成 → ER stress → TAM 促肿瘤极化**\n肿瘤产生的 β-glucosylceramide 改变 ER 膜脂质组成 → 触发 IRE1 依赖的 ER stress。\nER stress 中 IRE1–XBP1 与 IRE1–STAT3 两条轴共同被激活 → 推动 TAM 促肿瘤极化 + 生存优势。\n干预这些轴（或维持 ER 膜脂质组成）→ 削弱 TAM 促肿瘤能力，抑制肿瘤进展。\n👉 关键点：脂质对 TAM 的影响不一定通过“供能”，而是通过“膜组成/应激信号/转录网络”。\n\n**B) 谷氨酰胺代谢：决定免抑 vs APC 功能**\n阻断谷氨酰胺代谢的小分子抑制剂，在乳腺癌小鼠模型中可通过：\n增强巨噬细胞活化\n抑制 MDSC 生成\n→ 降低肿瘤生长与转移。\n抑制 **谷氨酰胺合成酶（glutamine synthetase）甚至能把 TAM 转成效应型 APC**，产生更强抗肿瘤作用。\n多组学转录-代谢 profiling 指出：免抑 M2-like 状态依赖谷氨酰胺分解（catabolism），缺谷氨酰胺会让它“站不住”。\n机制层面：谷氨酰胺分解产生 αKG（α-ketoglutarate）对 M2-like activation 很重要；并且 αKG/琥珀酸（succinate）比值高更偏 M2，低更偏 M1。\n👉 关键点：TAM 的“免抑倾向”可以被代谢节点（谷氨酰胺–αKG–表观遗传）塑形。\n\n**C) 乳酸与 MHCII^lo / MHCII^hi TAM：代谢→功能→预后**\n不同 MHCII 水平的 TAM（MHCII^lo vs MHCII^hi）对应不同代谢特征与功能。\nMHCII^lo TAM 能利用 TME 中丰富的乳酸：\n支持氧化代谢\n增强精氨酸代谢\n增强对 T 细胞的抑制能力\n👉 关键点：同样是 TAM，亚群之间可能是“不同燃料 + 不同免疫功能”的组合。",
-			"styleAttributes":{},
-			"x":0,
-			"y":740,
-			"width":2340,
-			"height":1180
 		},
 		{"id":"5c16154f0db6f3b3","type":"file","file":"文章/综述/assets/肿瘤浸润巨噬细胞的复杂作用/file-20260127165109208.png","x":-1880,"y":-380,"width":677,"height":340},
 		{"id":"6910f17864ff7fce","type":"text","text":"\n| **期刊/年份**    | _Nature Immunology_ / 2022年                                                                                                                                    |\n| ------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------- |\n| **通讯作者**     | Vassiliki A. Boussiotis (Harvard Medical School / BIDMC)                                                                                                       |\n| **实验室/研究方向** | Boussiotis实验室    <br>- Beth Israel Deaconess Medical Center, Division of Hematology-Oncology       <br>- 长期致力于T细胞共刺激/共抑制通路（尤其是PD-1）、骨髓类细胞免疫调节及肿瘤免疫微环境（TME）的研究。 |\n| **代表性高分文章**： | - _Nature_ (2017) - PD-1 expression by TAMs inhibits phagocytosis.<br>- _Science Immunology_ (2020) - Targeted deletion of PD-1 in myeloid cells.              |\n| **PMID**     | [35879449](https://pubmed.ncbi.nlm.nih.gov/35879449/ \"null\")                                                                                                   |\n\n","x":-1880,"y":-20,"width":677,"height":480},
