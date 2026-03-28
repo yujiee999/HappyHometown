@@ -20,6 +20,20 @@
 			"width":2000,
 			"height":180
 		},
+		{"id":"5fd284b84cfb03bf","type":"file","file":"文章/分析/assets/胶质母细胞瘤生态系统的多层转录架构/file-20260304091146829.png","x":320,"y":-1760,"width":1086,"height":560},
+		{"id":"bc0a6770588b1873","type":"file","file":"文章/分析/assets/胶质母细胞瘤生态系统的多层转录架构/file-20260128144013519.png","x":575,"y":-1062,"width":418,"height":112},
+		{
+			"id":"286f49c91ef0c630",
+			"type":"text",
+			"text":"| **期刊/年份**    | _Nature Genetics_ / 2025                                                                                                                                   |\n| ------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------- |\n| **通讯作者**     | Itay Tirosh, Mario L. Suvà, Antonio Iavarone, Roel G.W. Verhaak, Anna Lasorella                                                                            |\n| **实验室/研究方向** | 魏茨曼科学研究所(以色列) / 哈佛医学院等；专注于单细胞基因组学、肿瘤进化与异质性。<br><br>                                                                                                        |\n| **代表性高分文章**： | _Science_ (2014, 2016), [胶质母细胞瘤细胞状态-可塑性和遗传学的整合模型](文章/分析/胶质母细胞瘤细胞状态-可塑性和遗传学的整合模型.canvas)_Cell_ (2019)], _Nature_ (2023, 2024), _Nature Genetics_ (2025)<br> |\n| **PMID**     | [40346361](https://www.nature.com/articles/s41588-025-02167-5)                                                                                             |",
+			"styleAttributes":{},
+			"x":575,
+			"y":-860,
+			"width":660,
+			"height":440
+		},
+		{"id":"0e908d76c50de452","type":"file","file":"文章/分析/assets/胶质母细胞瘤生态系统的多层转录架构/file-20260128144943528.png","x":575,"y":-930,"width":374,"height":60},
+		{"id":"edbaebd51a8d4556","type":"file","file":"文章/分析/assets/胶质母细胞瘤生态系统的多层转录架构/file-20260128144912080.png","x":975,"y":-940,"width":218,"height":80},
 		{
 			"id":"873217f7d404a0b9",
 			"type":"text",
@@ -29,6 +43,70 @@
 			"y":-870,
 			"width":260,
 			"height":60
+		},
+		{
+			"id":"de4f21d25f8df0db",
+			"type":"text",
+			"text":"恶性细胞状态_33",
+			"styleAttributes":{"shape":"pill","textAlign":"center"},
+			"x":2310,
+			"y":-780,
+			"width":260,
+			"height":60,
+			"color":"2"
+		},
+		{
+			"id":"838cba5c4b540193",
+			"type":"text",
+			"text":"BP 程序 1",
+			"styleAttributes":{},
+			"x":3160,
+			"y":-610,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"416443fb6ecf4699",
+			"type":"text",
+			"text":"BP 程序 3",
+			"styleAttributes":{},
+			"x":3160,
+			"y":-450,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"efee552b0d77bfef",
+			"type":"text",
+			"text":"BP 程序 2",
+			"styleAttributes":{},
+			"x":3160,
+			"y":-530,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"30562f06f95aef43",
+			"type":"text",
+			"text":"恶性细胞状态_22",
+			"styleAttributes":{"shape":"diamond","textAlign":"center"},
+			"x":3270,
+			"y":-870,
+			"width":260,
+			"height":60
+		},
+		{"id":"292b4b91f38eebff","type":"file","file":"文章/分析/assets/胶质母细胞瘤生态系统的多层转录架构/file-20260205130020220.png","x":1320,"y":80,"width":1600,"height":1912},
+		{"id":"fee8f4f268a5a066","type":"file","file":"文章/分析/assets/胶质母细胞瘤生态系统的多层转录架构/file-20260205130138343.png","x":2940,"y":80,"width":1060,"height":1905},
+		{"id":"466ab42387956e95","type":"file","file":"文章/分析/assets/胶质母细胞瘤生态系统的多层转录架构/file-20260205130221184.png","x":4040,"y":80,"width":1709,"height":1905},
+		{
+			"id":"767198f2c83507b6",
+			"type":"text",
+			"text":"**摘要：**在[异柠檬酸脱氢酶（IDH）野生型胶质母细胞瘤（GBM）](文章/常识/IDH-GBM.md)中，跨肿瘤及肿瘤内部的细胞异质性是导致治疗耐药的核心。本研究利用单细胞核 RNA 测序（snRNA-seq）和批量肿瘤 DNA 测序分析了来自 59 名患者的 121 个原发和复发 GBM 样本。\n研究发现：\n\n[第一层]{组成}： GBM 可根据其广泛的细胞组成（包括恶性和非恶性细胞类型）进行分类。\n\n[第二层]{状态}： 描述了每种细胞类型内细胞状态的动态多样性，特别是一组扩展的恶性细胞状态，神经胶质祖细胞样（GPC-like）、神经元样（NEU-like）和纤毛样（Cilia-like）。\n[第三层]{基线}： [肿瘤间的残余差异]{作者提出了一个极具挑战性的观点：以往我们认为肿瘤之间的差异主要是因为里面“细胞状态比例”（例如有的肿瘤 MES-like 细胞多，有的 NPC-like 细胞多）不同。但作者通过生信手段证明，即便剔除掉这些比例差异，肿瘤之间依然存在无法解释的“残余差异”。}突显了**三种基线基因表达程序（BPs）**。这三层异质性相互关联，并与特定的遗传畸变部分相关，从而定义了三种典型的 GBM 生态系统。",
+			"styleAttributes":{},
+			"x":1255,
+			"y":-1062,
+			"width":685,
+			"height":642
 		},
 		{
 			"id":"1a88b537541543b2",
@@ -61,63 +139,12 @@
 			"height":60
 		},
 		{
-			"id":"de4f21d25f8df0db",
-			"type":"text",
-			"text":"恶性细胞状态_33",
-			"styleAttributes":{"shape":"pill","textAlign":"center"},
-			"x":2310,
-			"y":-780,
-			"width":260,
-			"height":60,
-			"color":"2"
-		},
-		{
-			"id":"838cba5c4b540193",
-			"type":"text",
-			"text":"BP 程序 1",
-			"styleAttributes":{},
-			"x":3160,
-			"y":-610,
-			"width":260,
-			"height":60
-		},
-		{
 			"id":"b767c4c080e9b571",
 			"type":"text",
 			"text":"Patient_3/Tumor3",
 			"styleAttributes":{},
 			"x":3300,
 			"y":-1090,
-			"width":260,
-			"height":60
-		},
-		{
-			"id":"416443fb6ecf4699",
-			"type":"text",
-			"text":"BP 程序 3",
-			"styleAttributes":{},
-			"x":3160,
-			"y":-450,
-			"width":260,
-			"height":60
-		},
-		{
-			"id":"efee552b0d77bfef",
-			"type":"text",
-			"text":"BP 程序 2",
-			"styleAttributes":{},
-			"x":3160,
-			"y":-530,
-			"width":260,
-			"height":60
-		},
-		{
-			"id":"30562f06f95aef43",
-			"type":"text",
-			"text":"恶性细胞状态_22",
-			"styleAttributes":{"shape":"diamond","textAlign":"center"},
-			"x":3270,
-			"y":-870,
 			"width":260,
 			"height":60
 		},
@@ -162,15 +189,6 @@
 			"width":160,
 			"height":60
 		},
-		{"id":"4f16374f99034c26","type":"file","file":"文章/分析/assets/胶质母细胞瘤生态系统的多层转录架构/file-20260129091639277.png","x":-1760,"y":80,"width":920,"height":779},
-		{"id":"5fd284b84cfb03bf","type":"file","file":"文章/分析/assets/胶质母细胞瘤生态系统的多层转录架构/file-20260304091146829.png","x":320,"y":-1760,"width":1086,"height":560},
-		{"id":"b8e578ee832bb74d","type":"file","file":"文章/分析/assets/胶质母细胞瘤生态系统的多层转录架构/file-20260129100515466.png","x":-771,"y":100,"width":771,"height":492},
-		{"id":"91c09b7cfee8ffda","type":"file","file":"文章/分析/assets/胶质母细胞瘤生态系统的多层转录架构/file-20260205105441960.png","x":20,"y":80,"width":1260,"height":1909},
-		{"id":"bc0a6770588b1873","type":"file","file":"文章/分析/assets/胶质母细胞瘤生态系统的多层转录架构/file-20260128144013519.png","x":575,"y":-1062,"width":418,"height":112},
-		{"id":"5f65eeba910f787d","type":"file","file":"文章/分析/assets/胶质母细胞瘤生态系统的多层转录架构/file-20260129100547082.png","x":-771,"y":620,"width":771,"height":569},
-		{"id":"292b4b91f38eebff","type":"file","file":"文章/分析/assets/胶质母细胞瘤生态系统的多层转录架构/file-20260205130020220.png","x":1320,"y":80,"width":1600,"height":1912},
-		{"id":"fee8f4f268a5a066","type":"file","file":"文章/分析/assets/胶质母细胞瘤生态系统的多层转录架构/file-20260205130138343.png","x":2940,"y":80,"width":1060,"height":1905},
-		{"id":"466ab42387956e95","type":"file","file":"文章/分析/assets/胶质母细胞瘤生态系统的多层转录架构/file-20260205130221184.png","x":4040,"y":80,"width":1709,"height":1905},
 		{
 			"id":"f7b015d928c4d3eb",
 			"type":"text",
@@ -181,6 +199,10 @@
 			"width":260,
 			"height":90
 		},
+		{"id":"4f16374f99034c26","type":"file","file":"文章/分析/assets/胶质母细胞瘤生态系统的多层转录架构/file-20260129091639277.png","x":-1760,"y":80,"width":920,"height":779},
+		{"id":"b8e578ee832bb74d","type":"file","file":"文章/分析/assets/胶质母细胞瘤生态系统的多层转录架构/file-20260129100515466.png","x":-771,"y":100,"width":771,"height":492},
+		{"id":"91c09b7cfee8ffda","type":"file","file":"文章/分析/assets/胶质母细胞瘤生态系统的多层转录架构/file-20260205105441960.png","x":20,"y":80,"width":1260,"height":1909},
+		{"id":"5f65eeba910f787d","type":"file","file":"文章/分析/assets/胶质母细胞瘤生态系统的多层转录架构/file-20260129100547082.png","x":-771,"y":620,"width":771,"height":569},
 		{
 			"id":"b36c3efd1ac80511",
 			"type":"text",
@@ -211,28 +233,6 @@
 			"y":-550,
 			"width":340,
 			"height":60
-		},
-		{
-			"id":"286f49c91ef0c630",
-			"type":"text",
-			"text":"| **期刊/年份**    | _Nature Genetics_ / 2025                                                                                                                                   |\n| ------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------- |\n| **通讯作者**     | Itay Tirosh, Mario L. Suvà, Antonio Iavarone, Roel G.W. Verhaak, Anna Lasorella                                                                            |\n| **实验室/研究方向** | 魏茨曼科学研究所(以色列) / 哈佛医学院等；专注于单细胞基因组学、肿瘤进化与异质性。<br><br>                                                                                                        |\n| **代表性高分文章**： | _Science_ (2014, 2016), [胶质母细胞瘤细胞状态-可塑性和遗传学的整合模型](文章/分析/胶质母细胞瘤细胞状态-可塑性和遗传学的整合模型.canvas)_Cell_ (2019)], _Nature_ (2023, 2024), _Nature Genetics_ (2025)<br> |\n| **PMID**     | [40346361](https://www.nature.com/articles/s41588-025-02167-5)                                                                                             |",
-			"styleAttributes":{},
-			"x":575,
-			"y":-860,
-			"width":660,
-			"height":440
-		},
-		{"id":"0e908d76c50de452","type":"file","file":"文章/分析/assets/胶质母细胞瘤生态系统的多层转录架构/file-20260128144943528.png","x":575,"y":-930,"width":374,"height":60},
-		{"id":"edbaebd51a8d4556","type":"file","file":"文章/分析/assets/胶质母细胞瘤生态系统的多层转录架构/file-20260128144912080.png","x":975,"y":-940,"width":218,"height":80},
-		{
-			"id":"767198f2c83507b6",
-			"type":"text",
-			"text":"**摘要：**在[异柠檬酸脱氢酶（IDH）野生型胶质母细胞瘤（GBM）](文章/常识/IDH-GBM.md)中，跨肿瘤及肿瘤内部的细胞异质性是导致治疗耐药的核心。本研究利用单细胞核 RNA 测序（snRNA-seq）和批量肿瘤 DNA 测序分析了来自 59 名患者的 121 个原发和复发 GBM 样本。\n研究发现：\n\n[第一层]{组成}： GBM 可根据其广泛的细胞组成（包括恶性和非恶性细胞类型）进行分类。\n\n[第二层]{状态}： 描述了每种细胞类型内细胞状态的动态多样性，特别是一组扩展的恶性细胞状态，神经胶质祖细胞样（GPC-like）、神经元样（NEU-like）和纤毛样（Cilia-like）。\n[第三层]{基线}： [肿瘤间的残余差异]{作者提出了一个极具挑战性的观点：以往我们认为肿瘤之间的差异主要是因为里面“细胞状态比例”（例如有的肿瘤 MES-like 细胞多，有的 NPC-like 细胞多）不同。但作者通过生信手段证明，即便剔除掉这些比例差异，肿瘤之间依然存在无法解释的“残余差异”。}突显了**三种基线基因表达程序（BPs）**。这三层异质性相互关联，并与特定的遗传畸变部分相关，从而定义了三种典型的 GBM 生态系统。",
-			"styleAttributes":{},
-			"x":1255,
-			"y":-1062,
-			"width":685,
-			"height":642
 		},
 		{
 			"id":"132e58e358e41175",
