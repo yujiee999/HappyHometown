@@ -56,16 +56,6 @@
 			"color":"2"
 		},
 		{
-			"id":"838cba5c4b540193",
-			"type":"text",
-			"text":"BP 程序 1",
-			"styleAttributes":{},
-			"x":3160,
-			"y":-610,
-			"width":260,
-			"height":60
-		},
-		{
 			"id":"416443fb6ecf4699",
 			"type":"text",
 			"text":"BP 程序 3",
@@ -75,29 +65,6 @@
 			"width":260,
 			"height":60
 		},
-		{
-			"id":"efee552b0d77bfef",
-			"type":"text",
-			"text":"BP 程序 2",
-			"styleAttributes":{},
-			"x":3160,
-			"y":-530,
-			"width":260,
-			"height":60
-		},
-		{
-			"id":"30562f06f95aef43",
-			"type":"text",
-			"text":"恶性细胞状态_22",
-			"styleAttributes":{"shape":"diamond","textAlign":"center"},
-			"x":3270,
-			"y":-870,
-			"width":260,
-			"height":60
-		},
-		{"id":"292b4b91f38eebff","type":"file","file":"文章/分析/assets/胶质母细胞瘤生态系统的多层转录架构/file-20260205130020220.png","x":1320,"y":80,"width":1600,"height":1912},
-		{"id":"fee8f4f268a5a066","type":"file","file":"文章/分析/assets/胶质母细胞瘤生态系统的多层转录架构/file-20260205130138343.png","x":2940,"y":80,"width":1060,"height":1905},
-		{"id":"466ab42387956e95","type":"file","file":"文章/分析/assets/胶质母细胞瘤生态系统的多层转录架构/file-20260205130221184.png","x":4040,"y":80,"width":1709,"height":1905},
 		{
 			"id":"767198f2c83507b6",
 			"type":"text",
@@ -139,6 +106,49 @@
 			"height":60
 		},
 		{
+			"id":"838cba5c4b540193",
+			"type":"text",
+			"text":"BP 程序 1",
+			"styleAttributes":{},
+			"x":3160,
+			"y":-610,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"ce30c04cfb94eea9",
+			"type":"text",
+			"text":"病人之间的差异（肿瘤背景）",
+			"styleAttributes":{"textAlign":"center"},
+			"x":2740,
+			"y":-550,
+			"width":340,
+			"height":60
+		},
+		{"id":"292b4b91f38eebff","type":"file","file":"文章/分析/assets/胶质母细胞瘤生态系统的多层转录架构/file-20260205130020220.png","x":1320,"y":80,"width":1600,"height":1912},
+		{"id":"fee8f4f268a5a066","type":"file","file":"文章/分析/assets/胶质母细胞瘤生态系统的多层转录架构/file-20260205130138343.png","x":2940,"y":80,"width":1060,"height":1905},
+		{
+			"id":"efee552b0d77bfef",
+			"type":"text",
+			"text":"BP 程序 2",
+			"styleAttributes":{},
+			"x":3160,
+			"y":-530,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"30562f06f95aef43",
+			"type":"text",
+			"text":"恶性细胞状态_22",
+			"styleAttributes":{"shape":"diamond","textAlign":"center"},
+			"x":3270,
+			"y":-870,
+			"width":260,
+			"height":60
+		},
+		{"id":"466ab42387956e95","type":"file","file":"文章/分析/assets/胶质母细胞瘤生态系统的多层转录架构/file-20260205130221184.png","x":4040,"y":80,"width":1709,"height":1905},
+		{
 			"id":"b767c4c080e9b571",
 			"type":"text",
 			"text":"Patient_3/Tumor3",
@@ -157,6 +167,27 @@
 			"y":-1090,
 			"width":260,
 			"height":60
+		},
+		{
+			"id":"df541ab23daca1f8",
+			"type":"text",
+			"text":"非恶性细胞组成",
+			"styleAttributes":{"shape":"database"},
+			"x":3050,
+			"y":-945,
+			"width":160,
+			"height":60
+		},
+		{"id":"91c09b7cfee8ffda","type":"file","file":"文章/分析/assets/胶质母细胞瘤生态系统的多层转录架构/file-20260205105441960.png","x":20,"y":80,"width":1260,"height":1909},
+		{
+			"id":"f7b015d928c4d3eb",
+			"type":"text",
+			"text":"恶性细胞状态_11（50%）",
+			"styleAttributes":{"shape":"circle","textAlign":"center"},
+			"x":2784,
+			"y":-960,
+			"width":260,
+			"height":90
 		},
 		{
 			"id":"7d741eca4d03b2b4",
@@ -179,29 +210,8 @@
 			"width":130,
 			"height":75
 		},
-		{
-			"id":"df541ab23daca1f8",
-			"type":"text",
-			"text":"非恶性细胞组成",
-			"styleAttributes":{"shape":"database"},
-			"x":3050,
-			"y":-945,
-			"width":160,
-			"height":60
-		},
-		{
-			"id":"f7b015d928c4d3eb",
-			"type":"text",
-			"text":"恶性细胞状态_11（50%）",
-			"styleAttributes":{"shape":"circle","textAlign":"center"},
-			"x":2784,
-			"y":-960,
-			"width":260,
-			"height":90
-		},
 		{"id":"4f16374f99034c26","type":"file","file":"文章/分析/assets/胶质母细胞瘤生态系统的多层转录架构/file-20260129091639277.png","x":-1760,"y":80,"width":920,"height":779},
 		{"id":"b8e578ee832bb74d","type":"file","file":"文章/分析/assets/胶质母细胞瘤生态系统的多层转录架构/file-20260129100515466.png","x":-771,"y":100,"width":771,"height":492},
-		{"id":"91c09b7cfee8ffda","type":"file","file":"文章/分析/assets/胶质母细胞瘤生态系统的多层转录架构/file-20260205105441960.png","x":20,"y":80,"width":1260,"height":1909},
 		{"id":"5f65eeba910f787d","type":"file","file":"文章/分析/assets/胶质母细胞瘤生态系统的多层转录架构/file-20260129100547082.png","x":-771,"y":620,"width":771,"height":569},
 		{
 			"id":"b36c3efd1ac80511",
@@ -222,16 +232,6 @@
 			"x":2870,
 			"y":-870,
 			"width":260,
-			"height":60
-		},
-		{
-			"id":"ce30c04cfb94eea9",
-			"type":"text",
-			"text":"病人之间的差异（肿瘤背景）",
-			"styleAttributes":{"textAlign":"center"},
-			"x":2740,
-			"y":-550,
-			"width":340,
 			"height":60
 		},
 		{
