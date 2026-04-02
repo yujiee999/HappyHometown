@@ -1,0 +1,16 @@
+{
+  "uuid": "i64z0j7kvwm1srs6gcjc7q",
+  "gates": {
+    "aHR0cHM6Ly9wbWMubmNiaS5ubG0ubmloLmdvdi9hcnRpY2xlcy9QTUMxMTczOTY4NS8=": {
+      "id": "aHR0cHM6Ly9wbWMubmNiaS5ubG0ubmloLmdvdi9hcnRpY2xlcy9QTUMxMTczOTY4NS8=",
+      "title": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11739685/",
+      "icon": "<svg viewBox=\"0 0 100 100\"><image href=\"https://icon.horse/icon/pmc.ncbi.nlm.nih.gov\" height=\"100\" width=\"100\" /></svg>",
+      "hasRibbon": true,
+      "position": "right",
+      "profileKey": "open-gate",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11739685/",
+      "zoomFactor": 1,
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+    }
+  }
+}

@@ -3,7 +3,7 @@ title: 学术会议 Photodump ✨
 source: https://www.xiaohongshu.com/discovery/item/698582b60000000015021d2b?source=webshare&xhsshare=pc_web&xsec_token=ABcikNDp30EyrLF9Ix44EYC1kYQrIxXJUg1itH2dCu2z4=&xsec_source=pc_share
 date: 2026-04-02
 Imported At: 2026/4/2 20:18:52
-category: 科研文章
+category: 穿搭
 ---
 # 学术会议 Photodump ✨
 
