@@ -75,7 +75,9 @@
       "version": "1.0.0"
     },
     "google_translate": {
-      "selected_languages": [],
+      "selected_languages": [
+        "zh-cn"
+      ],
       "api_key": "",
       "auto_translate": false,
       "auto_translate_interval": 500,
@@ -221,12 +223,14 @@
       "version": "1.1.0"
     },
     "openai_translator": {
-      "selected_languages": [],
+      "selected_languages": [
+        "zh-cn"
+      ],
       "api_key": "",
       "host": "api.openai.com",
       "auto_translate": false,
       "auto_translate_interval": 500,
-      "validated": false,
+      "validated": null,
       "available_languages": [
         "aa",
         "ab",
