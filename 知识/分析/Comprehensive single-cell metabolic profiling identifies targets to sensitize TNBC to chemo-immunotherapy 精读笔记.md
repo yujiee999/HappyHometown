@@ -1,4 +1,3 @@
-# Comprehensive single-cell metabolic profiling identifies targets to sensitize triple-negative breast cancer to chemo-immunotherapy 精读笔记
 
 ## 文献信息
 
